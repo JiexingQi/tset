@@ -1,0 +1,6 @@
+datasets==2.3.2
+numpy
+tokenizers==0.10.3
+torch==1.13.0
+transformers==4.13.0
+wandb

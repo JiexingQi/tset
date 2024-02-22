@@ -1,0 +1,966 @@
+[
+  {
+    "input_process": "What noble title is given to Louis II of Italy followed by Charles the Bald? <extra_id_89> <extra_id_89> <extra_id_83> Louis II of Italy <extra_id_89> <extra_id_83> Charles the Bald <extra_id_89> <extra_id_86> noble title <extra_id_89> <extra_id_85> noble title <extra_id_89> <extra_id_87> followed by",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Louis II of Italy <extra_id_86> noble title <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> noble title <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> followed by <extra_id_83> Charles the Bald <extra_id_45>"
+  },
+  {
+    "input_process": "When Otto von Bismarck ended as Bundeskanzler (Norddeutscher Bund) ? <extra_id_89> <extra_id_89> <extra_id_83> Otto von Bismarck <extra_id_89> <extra_id_83> Bundeskanzler (Norddeutscher Bund) <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> end time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Otto von Bismarck <extra_id_86> position held <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> position held <extra_id_83> Bundeskanzler (Norddeutscher Bund) <extra_id_68> <extra_id_69> <extra_id_87> end time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "How much money did Karl Adolph Gjellerup win for getting the Nobel Prize in Literature? <extra_id_89> <extra_id_89> <extra_id_83> Karl Adolph Gjellerup <extra_id_89> <extra_id_83> Nobel Prize in Literature <extra_id_89> <extra_id_86> award received <extra_id_89> <extra_id_85> award received <extra_id_89> <extra_id_87> prize money",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Karl Adolph Gjellerup <extra_id_86> award received <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> award received <extra_id_83> Nobel Prize in Literature <extra_id_68> <extra_id_69> <extra_id_87> prize money <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "When did Goldman Sachs count 34400.0 employees? <extra_id_89> <extra_id_89> <extra_id_83> Goldman Sachs <extra_id_89> <extra_id_86> employees <extra_id_89> <extra_id_85> employees <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Goldman Sachs <extra_id_86> employees <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> employees <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_71> <extra_id_61> <extra_id_64> 34400 <extra_id_68> 0 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_69> <extra_id_87> point in time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is nominated for Xuxa that is point in time is 2012-0-0? <extra_id_89> <extra_id_89> <extra_id_83> Xuxa <extra_id_89> <extra_id_86> nominated for <extra_id_89> <extra_id_85> nominated for <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Xuxa <extra_id_86> nominated for <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> nominated for <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> point in time <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_61> <extra_id_64> 2012 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Does the Brindabella seat 5 people? <extra_id_89> <extra_id_89> <extra_id_83> Brindabella <extra_id_89> <extra_id_84> number of seats",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Brindabella <extra_id_84> number of seats <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_67> 5 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Which subtopic of the history of technology is the study of technique? <extra_id_89> <extra_id_89> <extra_id_83> history of technology <extra_id_89> <extra_id_83> technique <extra_id_89> <extra_id_84> facet of <extra_id_89> <extra_id_84> studies",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> history of technology <extra_id_84> facet of <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> studies <extra_id_83> technique <extra_id_45>"
+  },
+  {
+    "input_process": "That language follows the Middle English? <extra_id_89> <extra_id_89> <extra_id_83> Middle English <extra_id_89> <extra_id_83> language <extra_id_89> <extra_id_84> follows <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> follows <extra_id_83> Middle English <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> language <extra_id_45>"
+  },
+  {
+    "input_process": "When did intergovernmental organization for organisation directed from the office of United Nations Secretary-General? <extra_id_89> <extra_id_89> <extra_id_83> United Nations Secretary-General <extra_id_89> <extra_id_83> intergovernmental organization <extra_id_89> <extra_id_84> organisation directed from the office or person <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> United Nations Secretary-General <extra_id_84> organisation directed from the office or person <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> intergovernmental organization <extra_id_45>"
+  },
+  {
+    "input_process": "Who was the spouse of El Cid in the year 1074? <extra_id_89> <extra_id_89> <extra_id_83> El Cid <extra_id_89> <extra_id_86> spouse <extra_id_89> <extra_id_85> spouse <extra_id_89> <extra_id_87> start time",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> El Cid <extra_id_86> spouse <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> spouse <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> start time <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_61> <extra_id_64> 1074 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "In which city Die Hard takes place ? <extra_id_89> <extra_id_89> <extra_id_83> Die Hard <extra_id_89> <extra_id_83> charter city <extra_id_89> <extra_id_84> narrative set in <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Die Hard <extra_id_84> narrative set in <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> charter city <extra_id_45>"
+  },
+  {
+    "input_process": "n/a <extra_id_89> <extra_id_89> <extra_id_83> J. Jayalalithaa <extra_id_89> <extra_id_83> political party <extra_id_89> <extra_id_84> chairperson <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> chairperson <extra_id_83> J. Jayalalithaa <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> political party <extra_id_45>"
+  },
+  {
+    "input_process": "Was Cher granted the BAFTA Award for Best Actress in a Leading Role? <extra_id_89> <extra_id_89> <extra_id_83> Cher <extra_id_89> <extra_id_83> BAFTA Award for Best Actress in a Leading Role <extra_id_89> <extra_id_84> nominated for",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Cher <extra_id_84> nominated for <extra_id_83> BAFTA Award for Best Actress in a Leading Role <extra_id_45>"
+  },
+  {
+    "input_process": "Is the defined daily dose of Codeine .1? <extra_id_89> <extra_id_89> <extra_id_83> codeine <extra_id_89> <extra_id_84> defined daily dose",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> codeine <extra_id_84> defined daily dose <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_67> 0 <extra_id_68> 1 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the place of activity of Paul Gauguin, that has shires and is in the 7th arrondissement of Paris? <extra_id_89> <extra_id_89> <extra_id_83> Paul Gauguin <extra_id_89> <extra_id_83> 7th arrondissement of Paris <extra_id_89> <extra_id_84> work location <extra_id_89> <extra_id_84> contains administrative territorial entity",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Paul Gauguin <extra_id_84> work location <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> contains administrative territorial entity <extra_id_83> 7th arrondissement of Paris <extra_id_45>"
+  },
+  {
+    "input_process": "What did the treaty discuss during the ending of the Soviet Union? <extra_id_89> <extra_id_89> <extra_id_83> dissolution of the Soviet Union <extra_id_89> <extra_id_83> treaty <extra_id_89> <extra_id_84> main regulatory text <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> dissolution of the Soviet Union <extra_id_84> main regulatory text <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> treaty <extra_id_45>"
+  },
+  {
+    "input_process": "What is the Twitter handle of Raxane Gay? <extra_id_89> <extra_id_89> <extra_id_83> Roxane Gay <extra_id_89> <extra_id_84> Medium username",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Roxane Gay <extra_id_84> Medium username <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Is the pKa of ammonia equal to 7.368? <extra_id_89> <extra_id_89> <extra_id_83> ammonia <extra_id_89> <extra_id_84> pKa",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> ammonia <extra_id_84> pKa <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_67> 7 <extra_id_68> 368 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the award received by Dolly Parton for his work Transamerica? <extra_id_89> <extra_id_89> <extra_id_83> Dolly Parton <extra_id_89> <extra_id_83> Transamerica <extra_id_89> <extra_id_86> award received <extra_id_89> <extra_id_85> award received <extra_id_89> <extra_id_87> for work",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Dolly Parton <extra_id_86> award received <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> award received <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> for work <extra_id_83> Transamerica <extra_id_45>"
+  },
+  {
+    "input_process": "What is the condition of meterology containing the word drought in its name? <extra_id_89> <extra_id_89> <extra_id_83> condition <extra_id_89> <extra_id_83> meteorology <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> facet of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> condition <extra_id_68> <extra_id_69> <extra_id_84> facet of <extra_id_83> meteorology <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> drought <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "What was the manner of death and the cause of death of Paul_Allen ? <extra_id_89> <extra_id_89> <extra_id_83> Paul G. Allen <extra_id_89> <extra_id_83> Paul G. Allen <extra_id_89> <extra_id_84> manner of death <extra_id_89> <extra_id_84> cause of death",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Paul G. Allen <extra_id_84> manner of death <extra_id_69> <extra_id_68> <extra_id_83> Paul G. Allen <extra_id_84> cause of death <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "What was Joe Pesci nominated for at the point in time 1980-1-1? <extra_id_89> <extra_id_89> <extra_id_83> Joe Pesci <extra_id_89> <extra_id_86> nominated for <extra_id_89> <extra_id_85> nominated for <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Joe Pesci <extra_id_86> nominated for <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> nominated for <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> point in time <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_61> <extra_id_64> 1980 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Which Augustus relative was his adoptive parent? <extra_id_89> <extra_id_89> <extra_id_83> Augustus <extra_id_89> <extra_id_83> adoptive parent <extra_id_89> <extra_id_86> relative <extra_id_89> <extra_id_85> relative <extra_id_89> <extra_id_87> type of kinship",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Augustus <extra_id_86> relative <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> relative <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> type of kinship <extra_id_83> adoptive parent <extra_id_45>"
+  },
+  {
+    "input_process": "Where is the location of discovery and the discoverer or inventor of Tungsten ? <extra_id_89> <extra_id_89> <extra_id_83> tungsten <extra_id_89> <extra_id_83> tungsten <extra_id_89> <extra_id_84> discovery place <extra_id_89> <extra_id_84> discoverer or inventor",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> tungsten <extra_id_84> discovery place <extra_id_69> <extra_id_68> <extra_id_83> tungsten <extra_id_84> discoverer or inventor <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "What award did Steve Wozniak receive in 1997? <extra_id_89> <extra_id_89> <extra_id_83> Steve Wozniak <extra_id_89> <extra_id_86> award received <extra_id_89> <extra_id_85> award received <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Steve Wozniak <extra_id_86> award received <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> award received <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> point in time <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_61> <extra_id_64> 1997 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "The humerus has what muscle origin? <extra_id_89> <extra_id_89> <extra_id_83> humerus <extra_id_89> <extra_id_84> muscle origin",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> humerus <extra_id_84> muscle origin <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Name an archaeological finding in the Kingdom of Wessex. <extra_id_89> <extra_id_89> <extra_id_83> Kingdom of Wessex <extra_id_89> <extra_id_83> archaeological find <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> country <extra_id_83> Kingdom of Wessex <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> archaeological find <extra_id_45>"
+  },
+  {
+    "input_process": "What is Gery Cori's family name before marriage? <extra_id_89> <extra_id_89> <extra_id_83> Gerty Cori <extra_id_89> <extra_id_83> marriage <extra_id_89> <extra_id_86> surname <extra_id_89> <extra_id_85> surname <extra_id_89> <extra_id_87> has cause",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Gerty Cori <extra_id_86> surname <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> surname <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> has cause <extra_id_83> marriage <extra_id_45>"
+  },
+  {
+    "input_process": "Is it true that the vibration of makita JR3030T is equal to 27.8? <extra_id_89> <extra_id_89> <extra_id_83> Makita JR3030T <extra_id_89> <extra_id_84> vibration",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Makita JR3030T <extra_id_84> vibration <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_67> 27 <extra_id_68> 8 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Who was the designer of the Golden Gate Bridge ? <extra_id_89> <extra_id_89> <extra_id_83> Golden Gate Bridge <extra_id_89> <extra_id_83> human <extra_id_89> <extra_id_84> designer <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Golden Gate Bridge <extra_id_84> designer <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> human <extra_id_45>"
+  },
+  {
+    "input_process": "Which shipwreck had more casualties than the RMS Titanic? <extra_id_89> <extra_id_89> <extra_id_83> shipwrecking <extra_id_89> <extra_id_83> RMS Titanic <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> number of casualties <extra_id_89> <extra_id_84> vehicle",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> shipwrecking <extra_id_68> <extra_id_69> <extra_id_84> number of casualties <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_84> vehicle <extra_id_83> RMS Titanic <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_57> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 5"
+  },
+  {
+    "input_process": "What is the board game with the highest number of minimum players? <extra_id_89> <extra_id_89> <extra_id_83> board game <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> minimum number of players",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> board game <extra_id_68> <extra_id_69> <extra_id_84> minimum number of players <extra_id_70> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 5"
+  },
+  {
+    "input_process": "Which is the list of characters and the characters of Breaking_Bad ? <extra_id_89> <extra_id_89> <extra_id_83> Breaking Bad <extra_id_89> <extra_id_83> Breaking Bad <extra_id_89> <extra_id_84> list of characters <extra_id_89> <extra_id_84> characters",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Breaking Bad <extra_id_84> list of characters <extra_id_69> <extra_id_68> <extra_id_83> Breaking Bad <extra_id_84> characters <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Name a book written in Esperanto <extra_id_89> <extra_id_89> <extra_id_83> Esperanto <extra_id_89> <extra_id_83> book <extra_id_89> <extra_id_84> language of work or name <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> language of work or name <extra_id_83> Esperanto <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> book <extra_id_45>"
+  },
+  {
+    "input_process": "Which part of Ad\u00e9lie Land has a the second-level administrative country subdivision? <extra_id_89> <extra_id_89> <extra_id_83> Ad\u00e9lie Land <extra_id_89> <extra_id_83> second-level administrative country subdivision <extra_id_89> <extra_id_86> instance of <extra_id_89> <extra_id_85> instance of <extra_id_89> <extra_id_87> part of",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Ad\u00e9lie Land <extra_id_86> instance of <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> instance of <extra_id_83> second-level administrative country subdivision <extra_id_68> <extra_id_69> <extra_id_87> part of <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Which is Models.com person ID for Viola Davis? <extra_id_89> <extra_id_89> <extra_id_83> Viola Davis <extra_id_89> <extra_id_84> Models.com person ID",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Viola Davis <extra_id_84> Models.com person ID <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "In what year did Tim Hunt give a Croonian Lecture? <extra_id_89> <extra_id_89> <extra_id_83> Tim Hunt <extra_id_89> <extra_id_83> Croonian Lecture <extra_id_89> <extra_id_86> award received <extra_id_89> <extra_id_85> award received <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Tim Hunt <extra_id_86> award received <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> award received <extra_id_83> Croonian Lecture <extra_id_68> <extra_id_69> <extra_id_87> point in time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the writer of Utopia, whose political seat is Lord Chancellor? <extra_id_89> <extra_id_89> <extra_id_83> Utopia <extra_id_89> <extra_id_83> Lord Chancellor <extra_id_89> <extra_id_84> author <extra_id_89> <extra_id_84> position held",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Utopia <extra_id_84> author <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> position held <extra_id_83> Lord Chancellor <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the office holder for the public office of Salman of Saudi Arabia? <extra_id_89> <extra_id_89> <extra_id_83> Salman of Saudi Arabia <extra_id_89> <extra_id_83> public office <extra_id_89> <extra_id_84> officeholder <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> officeholder <extra_id_83> Salman of Saudi Arabia <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> public office <extra_id_45>"
+  },
+  {
+    "input_process": "When did child of Louis VIII of France and date of birth? <extra_id_89> <extra_id_89> <extra_id_83> Leon Festinger <extra_id_89> <extra_id_86> educated at <extra_id_89> <extra_id_85> educated at <extra_id_89> <extra_id_87> academic major",
+    "target_process": "<extra_id_36> <extra_id_71> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Leon Festinger <extra_id_86> educated at <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> educated at <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> academic major <extra_id_71> <extra_id_68> <extra_id_45>"
+  },
+  {
+    "input_process": "Gisli Jonsson replaced Bertil Ohlin in what position? <extra_id_89> <extra_id_89> <extra_id_83> Bertil Ohlin <extra_id_89> <extra_id_83> G\u00edsli J\u00f3nsson <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> replaced by",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Bertil Ohlin <extra_id_86> position held <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> position held <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> replaced by <extra_id_83> G\u00edsli J\u00f3nsson <extra_id_45>"
+  },
+  {
+    "input_process": "Is the total revenue of the Serviam Girls Academy equal to 672343? <extra_id_89> <extra_id_89> <extra_id_83> Serviam Girls Academy <extra_id_89> <extra_id_84> total revenue",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Serviam Girls Academy <extra_id_84> total revenue <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_67> 672343 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "In 1993, what award did Anthony Hopkins receive? <extra_id_89> <extra_id_89> <extra_id_83> Anthony Hopkins <extra_id_89> <extra_id_86> award received <extra_id_89> <extra_id_85> award received <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Anthony Hopkins <extra_id_86> award received <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> award received <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> point in time <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_61> <extra_id_64> 1993 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "What is GACS ID for West Africa? <extra_id_89> <extra_id_89> <extra_id_83> West Africa <extra_id_89> <extra_id_84> GACS ID",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> West Africa <extra_id_84> GACS ID <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What company did Antonin Eymieu co-found? <extra_id_89> <extra_id_89> <extra_id_83> Antonin Eymieu <extra_id_89> <extra_id_84> religious order <extra_id_89> <extra_id_84> founded by",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Antonin Eymieu <extra_id_84> religious order <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> founded by <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What is adjacent to Yamanashi Prefecture, that has municipalities in Haibara District? <extra_id_89> <extra_id_89> <extra_id_83> Yamanashi Prefecture <extra_id_89> <extra_id_83> Haibara district <extra_id_89> <extra_id_84> shares border with <extra_id_89> <extra_id_84> contains administrative territorial entity",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Yamanashi Prefecture <extra_id_84> shares border with <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> contains administrative territorial entity <extra_id_83> Haibara district <extra_id_45>"
+  },
+  {
+    "input_process": "Who are the art directors for Snow White and the Seven Dwarfs? <extra_id_89> <extra_id_89> <extra_id_83> Snow White and the Seven Dwarfs <extra_id_89> <extra_id_84> art director",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_63> <extra_id_83> Snow White and the Seven Dwarfs <extra_id_84> art director <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which federation has the largest Gini coefficient? <extra_id_89> <extra_id_89> <extra_id_83> federation <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> Gini coefficient",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> federation <extra_id_68> <extra_id_69> <extra_id_84> Gini coefficient <extra_id_70> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 5"
+  },
+  {
+    "input_process": "Is Andres Pastrana Arango the current holder of the presidency in Colombia? <extra_id_89> <extra_id_89> <extra_id_83> Andr\u00e9s Pastrana Arango <extra_id_89> <extra_id_83> President of Colombia <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> replaces",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Andr\u00e9s Pastrana Arango <extra_id_86> position held <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> position held <extra_id_83> President of Colombia <extra_id_68> <extra_id_69> <extra_id_87> replaces <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Who replaced Baibars as the Sultan of Egypt? <extra_id_89> <extra_id_89> <extra_id_83> Baibars <extra_id_89> <extra_id_83> Sultan of Egypt <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> replaced by",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Baibars <extra_id_86> position held <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> position held <extra_id_83> Sultan of Egypt <extra_id_68> <extra_id_69> <extra_id_87> replaced by <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Is the angular resolution of the Discovery Channel Telescope equal to .03? <extra_id_89> <extra_id_89> <extra_id_83> Discovery Channel Telescope <extra_id_89> <extra_id_84> angular resolution",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Discovery Channel Telescope <extra_id_84> angular resolution <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_67> 0 <extra_id_68> 03 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "When did Salvador have the population of 2.44311e+06? <extra_id_89> <extra_id_89> <extra_id_83> Salvador <extra_id_89> <extra_id_86> population <extra_id_89> <extra_id_85> population <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Salvador <extra_id_86> population <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> population <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_71> <extra_id_61> <extra_id_64> 2 <extra_id_68> 44311e+06 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_69> <extra_id_87> point in time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "What are the musical which start with the letter w <extra_id_89> <extra_id_89> <extra_id_83> musical <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> musical <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_62> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> w <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "what is the season of chicago Bulls? <extra_id_89> <extra_id_89> <extra_id_83> Chicago Bulls <extra_id_89> <extra_id_84> season of club or team",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> season of club or team <extra_id_83> Chicago Bulls <extra_id_45>"
+  },
+  {
+    "input_process": "Space Invaders is the developer of which video game? <extra_id_89> <extra_id_89> <extra_id_83> Space Invaders <extra_id_89> <extra_id_83> video game publisher <extra_id_89> <extra_id_84> developer <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Space Invaders <extra_id_84> developer <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> video game publisher <extra_id_45>"
+  },
+  {
+    "input_process": "Where did Mashhur bin Abdulaziz Al Saud's father die? <extra_id_89> <extra_id_89> <extra_id_83> Mashhur bin Abdulaziz Al Saud <extra_id_89> <extra_id_84> father <extra_id_89> <extra_id_84> place of death",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Mashhur bin Abdulaziz Al Saud <extra_id_84> father <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> place of death <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which literary work follows Exodus? <extra_id_89> <extra_id_89> <extra_id_83> Exodus <extra_id_89> <extra_id_83> literary work <extra_id_89> <extra_id_84> followed by <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> followed by <extra_id_83> Exodus <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> literary work <extra_id_45>"
+  },
+  {
+    "input_process": "Is the isospin quantum number of pion less than 1.2? <extra_id_89> <extra_id_89> <extra_id_83> pion <extra_id_89> <extra_id_84> isospin quantum number",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> pion <extra_id_84> isospin quantum number <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_56> 1 <extra_id_68> 2 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "What method was used to determine Siena's demographic balance? <extra_id_89> <extra_id_89> <extra_id_83> Siena <extra_id_89> <extra_id_83> demographic balance <extra_id_89> <extra_id_86> population <extra_id_89> <extra_id_85> population <extra_id_89> <extra_id_87> determination method",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Siena <extra_id_86> population <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> population <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> determination method <extra_id_83> demographic balance <extra_id_45>"
+  },
+  {
+    "input_process": "What is the career of the creators of The Sims? <extra_id_89> <extra_id_89> <extra_id_83> The Sims <extra_id_89> <extra_id_84> creator <extra_id_89> <extra_id_84> occupation",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> The Sims <extra_id_84> creator <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> occupation <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What was the method of murder of Franchot Tone, whose medical specialty was oncology? <extra_id_89> <extra_id_89> <extra_id_83> Franchot Tone <extra_id_89> <extra_id_83> oncology <extra_id_89> <extra_id_84> cause of death <extra_id_89> <extra_id_84> health speciality",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Franchot Tone <extra_id_84> cause of death <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> health speciality <extra_id_83> oncology <extra_id_45>"
+  },
+  {
+    "input_process": "What typology does Richard Wright use when writing languages? <extra_id_89> <extra_id_89> <extra_id_83> Richard Wright <extra_id_89> <extra_id_84> languages spoken, written or signed <extra_id_89> <extra_id_84> linguistic typology",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Richard Wright <extra_id_84> languages spoken, written or signed <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> linguistic typology <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Are are the list of decagonal numbers? <extra_id_89> <extra_id_89> <extra_id_83> 1 <extra_id_89> <extra_id_83> decagonal number <extra_id_89> <extra_id_86> instance of <extra_id_89> <extra_id_85> instance of <extra_id_89> <extra_id_87> follows",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> 1 <extra_id_86> instance of <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> instance of <extra_id_83> decagonal number <extra_id_68> <extra_id_69> <extra_id_87> follows <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "what is the etymology of fermi gas,that has language written in Italian? <extra_id_89> <extra_id_89> <extra_id_83> Fermi gas <extra_id_89> <extra_id_83> Italian <extra_id_89> <extra_id_84> named after <extra_id_89> <extra_id_84> languages spoken, written or signed",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Fermi gas <extra_id_84> named after <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> languages spoken, written or signed <extra_id_83> Italian <extra_id_45>"
+  },
+  {
+    "input_process": "What is named after the fictional Disney character Winnie the Pooh? <extra_id_89> <extra_id_89> <extra_id_83> Winnie the Pooh <extra_id_89> <extra_id_84> named after",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Winnie the Pooh <extra_id_84> named after <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What was the primary profession of the author of \"The Road to Serfdom?\" <extra_id_89> <extra_id_89> <extra_id_83> The Road to Serfdom <extra_id_89> <extra_id_84> author <extra_id_89> <extra_id_84> occupation",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> The Road to Serfdom <extra_id_84> author <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> occupation <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What award did Hume Cronyn recieve in 1964? <extra_id_89> <extra_id_89> <extra_id_83> Hume Cronyn <extra_id_89> <extra_id_86> award received <extra_id_89> <extra_id_85> award received <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Hume Cronyn <extra_id_86> award received <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> award received <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> point in time <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_61> <extra_id_64> 1964 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "What is distribution of web browser ? <extra_id_89> <extra_id_89> <extra_id_83> web browser <extra_id_89> <extra_id_84> distribution",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> distribution <extra_id_83> web browser <extra_id_45>"
+  },
+  {
+    "input_process": "Which business is owned by the Empire State Building? <extra_id_89> <extra_id_89> <extra_id_83> Empire State Building <extra_id_89> <extra_id_83> business <extra_id_89> <extra_id_84> owned by <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Empire State Building <extra_id_84> owned by <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> business <extra_id_45>"
+  },
+  {
+    "input_process": "What was the explosive material invented by Alfred Novbel that contains the word \"dynamite\" in its name ? <extra_id_89> <extra_id_89> <extra_id_83> explosive material <extra_id_89> <extra_id_83> Alfred Nobel <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> discoverer or inventor",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> explosive material <extra_id_68> <extra_id_69> <extra_id_84> discoverer or inventor <extra_id_83> Alfred Nobel <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> dynamite <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "What is the asteroid with the lowest rotation period whose site of astronomical discovery is Bishop Observatory ? <extra_id_89> <extra_id_89> <extra_id_83> asteroid <extra_id_89> <extra_id_83> Bishop Observatory <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> rotation period <extra_id_89> <extra_id_84> site of astronomical discovery",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> asteroid <extra_id_68> <extra_id_69> <extra_id_84> rotation period <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_84> site of astronomical discovery <extra_id_83> Bishop Observatory <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_57> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 5"
+  },
+  {
+    "input_process": "What what is international parliament office held by head of the organisation by President of the United Nations General Assembly and also which starts with letter a <extra_id_89> <extra_id_89> <extra_id_83> international parliament <extra_id_89> <extra_id_83> President of the United Nations General Assembly <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> office held by head of the organisation",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> international parliament <extra_id_68> <extra_id_69> <extra_id_84> office held by head of the organisation <extra_id_83> President of the United Nations General Assembly <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_62> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> a <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "When you looked into my eyes, I stood there like I was hyp-notized. You sent a feeling to my spine, A feeling warm and smooth and fine. But all I could do were stand there paralyzed. When we kissed, ooh what a thrill, You took my hand and, ooh baby, what a chill. I felt like grabbin' you real tight, Squeeze and squeeze with all my might. But all I could do were stand there paralyzed. <extra_id_89> <extra_id_89> <extra_id_83> Shaun Murray <extra_id_89> <extra_id_84> country of citizenship <extra_id_89> <extra_id_84> contains administrative territorial entity",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Shaun Murray <extra_id_84> country of citizenship <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> contains administrative territorial entity <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Does the Porter Cable 324MAG have a sound power level equal to 110? <extra_id_89> <extra_id_89> <extra_id_83> Porter Cable 324MAG <extra_id_89> <extra_id_84> sound power level",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Porter Cable 324MAG <extra_id_84> sound power level <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_67> 110 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Mention the fictional human character murdered by Luke Skywalker <extra_id_89> <extra_id_89> <extra_id_83> Luke Skywalker <extra_id_89> <extra_id_83> fictional human <extra_id_89> <extra_id_84> killed by <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Luke Skywalker <extra_id_84> killed by <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> fictional human <extra_id_45>"
+  },
+  {
+    "input_process": "Kim Stanley received a prize for being nominated. <extra_id_89> <extra_id_89> <extra_id_83> Kim Stanley <extra_id_89> <extra_id_84> nominated for <extra_id_89> <extra_id_84> winner",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Kim Stanley <extra_id_84> nominated for <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> winner <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who went by the name of Ann and was the consort of David Lean? <extra_id_89> <extra_id_89> <extra_id_83> David Lean <extra_id_89> <extra_id_83> Ann <extra_id_89> <extra_id_84> spouse <extra_id_89> <extra_id_84> given name",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> David Lean <extra_id_84> spouse <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> given name <extra_id_83> Ann <extra_id_45>"
+  },
+  {
+    "input_process": "Where does Thomas Jefferson's special people stay? <extra_id_89> <extra_id_89> <extra_id_83> Thomas Jefferson <extra_id_89> <extra_id_83> pavilion <extra_id_89> <extra_id_84> significant person <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> significant person <extra_id_83> Thomas Jefferson <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> pavilion <extra_id_45>"
+  },
+  {
+    "input_process": "For what body of government was Nizhny Novgorod the head starting on October 7, 2015? <extra_id_89> <extra_id_89> <extra_id_83> Nizhny Novgorod <extra_id_89> <extra_id_86> head of government <extra_id_89> <extra_id_85> head of government <extra_id_89> <extra_id_87> start time",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Nizhny Novgorod <extra_id_86> head of government <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> head of government <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> start time <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_61> <extra_id_64> 2015 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "At what private university did the employer of Linus Pauling work in? <extra_id_89> <extra_id_89> <extra_id_83> Linus Pauling <extra_id_89> <extra_id_83> private university <extra_id_89> <extra_id_84> employer <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Linus Pauling <extra_id_84> employer <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> private university <extra_id_45>"
+  },
+  {
+    "input_process": "Terry Pratchett was nominated for which medal? <extra_id_89> <extra_id_89> <extra_id_83> Terry Pratchett <extra_id_89> <extra_id_83> medal <extra_id_89> <extra_id_84> nominated for <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Terry Pratchett <extra_id_84> nominated for <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> medal <extra_id_45>"
+  },
+  {
+    "input_process": "Which is the rock band that has Axl Rose as the member? <extra_id_89> <extra_id_89> <extra_id_83> Axl Rose <extra_id_89> <extra_id_83> rock group <extra_id_89> <extra_id_84> member of <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Axl Rose <extra_id_84> member of <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> rock group <extra_id_45>"
+  },
+  {
+    "input_process": "What iis dedicated to Saint Wenceslaus I, Duke of Bohemia? <extra_id_89> <extra_id_89> <extra_id_83> Saint Wenceslaus I, Duke of Bohemia <extra_id_89> <extra_id_84> dedicated to",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> dedicated to <extra_id_83> Saint Wenceslaus I, Duke of Bohemia <extra_id_45>"
+  },
+  {
+    "input_process": "Which member is author of Two Treatises of Government ? <extra_id_89> <extra_id_89> <extra_id_83> Two Treatises of Government <extra_id_89> <extra_id_84> author <extra_id_89> <extra_id_84> member of",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Two Treatises of Government <extra_id_84> author <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> member of <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the life stance of Zhuang people who has formed in Bodh Gaya ? <extra_id_89> <extra_id_89> <extra_id_83> Zhuang people <extra_id_89> <extra_id_83> Bodh Gaya <extra_id_89> <extra_id_84> religion <extra_id_89> <extra_id_84> location of formation",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Zhuang people <extra_id_84> religion <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> location of formation <extra_id_83> Bodh Gaya <extra_id_45>"
+  },
+  {
+    "input_process": "What position did Robert Walpole cover starting from 1721-4-4 onward? <extra_id_89> <extra_id_89> <extra_id_83> Robert Walpole <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> start time",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Robert Walpole <extra_id_86> position held <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> position held <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> start time <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_61> <extra_id_64> 1721 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Every year there is an event involving a Eurovision Song Contest and it is called what? <extra_id_89> <extra_id_89> <extra_id_83> Eurovision Song Contest <extra_id_89> <extra_id_83> annual event <extra_id_89> <extra_id_84> based on <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Eurovision Song Contest <extra_id_84> based on <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> annual event <extra_id_45>"
+  },
+  {
+    "input_process": "In which banknote has the highest face vale? <extra_id_89> <extra_id_89> <extra_id_83> banknote <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> face value",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> banknote <extra_id_68> <extra_id_69> <extra_id_84> face value <extra_id_70> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 5"
+  },
+  {
+    "input_process": "Which is the NUKAT (WarsawU) authorities ID of Jerome Kern? <extra_id_89> <extra_id_89> <extra_id_83> Jerome Kern <extra_id_89> <extra_id_84> NUKAT ID",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Jerome Kern <extra_id_84> NUKAT ID <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "When did Ernest Renan become a member of the Hungarian Academy of Sciences? <extra_id_89> <extra_id_89> <extra_id_83> Ernest Renan <extra_id_89> <extra_id_83> Hungarian Academy of Sciences <extra_id_89> <extra_id_86> member of <extra_id_89> <extra_id_85> member of <extra_id_89> <extra_id_87> start time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Ernest Renan <extra_id_86> member of <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> member of <extra_id_83> Hungarian Academy of Sciences <extra_id_68> <extra_id_69> <extra_id_87> start time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "What university, which includes the University of Michigan College of Pharmacy, did Edward Higgins White attend? <extra_id_89> <extra_id_89> <extra_id_83> Ed White <extra_id_89> <extra_id_83> University of Michigan College of Pharmacy <extra_id_89> <extra_id_84> educated at <extra_id_89> <extra_id_84> subsidiaries",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Ed White <extra_id_84> educated at <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> subsidiaries <extra_id_83> University of Michigan College of Pharmacy <extra_id_45>"
+  },
+  {
+    "input_process": "Name the winner of the FIFA World Cup match between Sweden and England. <extra_id_89> <extra_id_89> <extra_id_83> Sweden at the FIFA World Cup <extra_id_89> <extra_id_83> Sweden 0-2 England <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> ranking <extra_id_89> <extra_id_84> participant in",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> Sweden at the FIFA World Cup <extra_id_68> <extra_id_69> <extra_id_84> ranking <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_84> participant in <extra_id_83> Sweden 0-2 England <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 5"
+  },
+  {
+    "input_process": "What is the first line of Shahnameh? <extra_id_89> <extra_id_89> <extra_id_83> Shahnameh <extra_id_89> <extra_id_84> first line",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Shahnameh <extra_id_84> first line <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "How many people are nominated for the Jacqueline Wilson ? <extra_id_89> <extra_id_89> <extra_id_83> Jacqueline Wilson <extra_id_89> <extra_id_84> nominated for",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_63> <extra_id_83> Jacqueline Wilson <extra_id_84> nominated for <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Did Rector Ernst Bumm work for Franz Bopp? <extra_id_89> <extra_id_89> <extra_id_83> Franz Bopp <extra_id_89> <extra_id_83> Ernst Bumm <extra_id_89> <extra_id_84> employer <extra_id_89> <extra_id_84> rector",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Franz Bopp <extra_id_84> employer <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> rector <extra_id_83> Ernst Bumm <extra_id_45>"
+  },
+  {
+    "input_process": "What award did Renee Zellweger receive in 2004? <extra_id_89> <extra_id_89> <extra_id_83> Ren\u00e9e Zellweger <extra_id_89> <extra_id_86> award received <extra_id_89> <extra_id_85> award received <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Ren\u00e9e Zellweger <extra_id_86> award received <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> award received <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> point in time <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_61> <extra_id_64> 2004 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Are the number of parts in the work of art the Madama Butterfly 2? <extra_id_89> <extra_id_89> <extra_id_83> Madama Butterfly <extra_id_89> <extra_id_84> number of parts of a work of art",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Madama Butterfly <extra_id_84> number of parts of a work of art <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_67> 2 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the head coach of Arsenal F.C.? <extra_id_89> <extra_id_89> <extra_id_83> Arsenal F.C. <extra_id_89> <extra_id_84> head coach",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Arsenal F.C. <extra_id_84> head coach <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "\"What is the sister or brother of Anton Chekhov,that has the birth city in Taganrog?\" <extra_id_89> <extra_id_89> <extra_id_83> Anton Chekhov <extra_id_89> <extra_id_83> Taganrog <extra_id_89> <extra_id_84> sibling <extra_id_89> <extra_id_84> place of birth",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Anton Chekhov <extra_id_84> sibling <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> place of birth <extra_id_83> Taganrog <extra_id_45>"
+  },
+  {
+    "input_process": "How many political alignments are in the left-wing? <extra_id_89> <extra_id_89> <extra_id_83> left-wing <extra_id_89> <extra_id_84> political alignment",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_63> <extra_id_69> <extra_id_84> political alignment <extra_id_83> left-wing <extra_id_45>"
+  },
+  {
+    "input_process": "Which Class IIIA combustible liquid has the highest IDLH? <extra_id_89> <extra_id_89> <extra_id_83> Class IIIA combustible liquid <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> immediately dangerous to life or health",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> Class IIIA combustible liquid <extra_id_68> <extra_id_69> <extra_id_84> immediately dangerous to life or health <extra_id_70> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 5"
+  },
+  {
+    "input_process": "Is the maximum age for compulsory education in Egypt equal to 14? <extra_id_89> <extra_id_89> <extra_id_83> Egypt <extra_id_89> <extra_id_84> compulsory education (maximum age)",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Egypt <extra_id_84> compulsory education (maximum age) <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_67> 14 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the doctoral student of Niko Tinbergen that has an EThOS thesis ID of uk.bl.ethos.710826? <extra_id_89> <extra_id_89> <extra_id_83> Niko Tinbergen <extra_id_89> <extra_id_86> doctoral student <extra_id_89> <extra_id_85> doctoral student <extra_id_89> <extra_id_87> EThOS thesis ID",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Niko Tinbergen <extra_id_86> doctoral student <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> doctoral student <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> EThOS thesis ID <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_71> <extra_id_61> <extra_id_64> uk <extra_id_68> bl <extra_id_68> ethos <extra_id_68> 710826 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "na <extra_id_89> <extra_id_89> <extra_id_83> jurist <extra_id_89> <extra_id_84> field of this profession <extra_id_89> <extra_id_84> Regensburg Classification",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> jurist <extra_id_84> field of this profession <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> Regensburg Classification <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What are the treaty which start with the letter t <extra_id_89> <extra_id_89> <extra_id_83> treaty <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> treaty <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_62> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> t <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "Which is the Zee Cine Awards for the winner of Anil Kapoor? <extra_id_89> <extra_id_89> <extra_id_83> Anil Kapoor <extra_id_89> <extra_id_83> Zee Cine Awards <extra_id_89> <extra_id_84> winner <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> winner <extra_id_83> Anil Kapoor <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> Zee Cine Awards <extra_id_45>"
+  },
+  {
+    "input_process": "For which movie did Burl Ives receive the Academy Award for Best Supporting Actor? <extra_id_89> <extra_id_89> <extra_id_83> Burl Ives <extra_id_89> <extra_id_83> Academy Award for Best Supporting Actor <extra_id_89> <extra_id_86> award received <extra_id_89> <extra_id_85> award received <extra_id_89> <extra_id_87> statement is subject of",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Burl Ives <extra_id_86> award received <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> award received <extra_id_83> Academy Award for Best Supporting Actor <extra_id_68> <extra_id_69> <extra_id_87> statement is subject of <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "What time does the British Museum open and close on weekdays? <extra_id_89> <extra_id_89> <extra_id_83> British Museum <extra_id_89> <extra_id_83> all weekdays <extra_id_89> <extra_id_86> open days <extra_id_89> <extra_id_85> open days <extra_id_89> <extra_id_87> closed on <extra_id_89> <extra_id_87> open period from",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_83> British Museum <extra_id_86> open days <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> open days <extra_id_83> all weekdays <extra_id_68> <extra_id_69> <extra_id_87> closed on <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_87> open period from <extra_id_71> <extra_id_45>"
+  },
+  {
+    "input_process": "What did Franz Schubert die from where the symptom was a continuous fever? <extra_id_89> <extra_id_89> <extra_id_83> Franz Schubert <extra_id_89> <extra_id_83> continuous fever <extra_id_89> <extra_id_84> cause of death <extra_id_89> <extra_id_84> symptoms and signs",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Franz Schubert <extra_id_84> cause of death <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> symptoms and signs <extra_id_83> continuous fever <extra_id_45>"
+  },
+  {
+    "input_process": "who version, edition, or translation for edition or translation of Twenty Thousand Leagues Under the Sea? <extra_id_89> <extra_id_89> <extra_id_83> Twenty Thousand Leagues Under the Sea <extra_id_89> <extra_id_83> version, edition, or translation <extra_id_89> <extra_id_84> edition or translation of <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> edition or translation of <extra_id_83> Twenty Thousand Leagues Under the Sea <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> version, edition, or translation <extra_id_45>"
+  },
+  {
+    "input_process": "Which are the lyrics by Luis Fonsi? <extra_id_89> <extra_id_89> <extra_id_83> Luis Fonsi <extra_id_89> <extra_id_84> lyrics by",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> lyrics by <extra_id_83> Luis Fonsi <extra_id_45>"
+  },
+  {
+    "input_process": "What are the brain region that starts with the letter t <extra_id_89> <extra_id_89> <extra_id_83> brain region <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> brain region <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_62> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> t <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "When did Herge receive an award as Officer of the Order of the Crown? <extra_id_89> <extra_id_89> <extra_id_83> Herg\u00e9 <extra_id_89> <extra_id_83> Officer of the Order of the Crown <extra_id_89> <extra_id_86> award received <extra_id_89> <extra_id_85> award received <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Herg\u00e9 <extra_id_86> award received <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> award received <extra_id_83> Officer of the Order of the Crown <extra_id_68> <extra_id_69> <extra_id_87> point in time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Where is Jean-Jacques Rousseau's tomb? <extra_id_89> <extra_id_89> <extra_id_83> Jean-Jacques Rousseau <extra_id_89> <extra_id_83> tomb <extra_id_89> <extra_id_84> occupant <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> occupant <extra_id_83> Jean-Jacques Rousseau <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> tomb <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the Javier Zanetti's athlete's collegue that went out in 1995? <extra_id_89> <extra_id_89> <extra_id_83> Javier Zanetti <extra_id_89> <extra_id_86> member of sports team <extra_id_89> <extra_id_85> member of sports team <extra_id_89> <extra_id_87> end time",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Javier Zanetti <extra_id_86> member of sports team <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> member of sports team <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> end time <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_61> <extra_id_64> 1995 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Where was Arcadius,which has a member of the council of Europe,born? <extra_id_89> <extra_id_89> <extra_id_83> Arcadius <extra_id_89> <extra_id_83> Council of Europe <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> member of",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Arcadius <extra_id_84> place of birth <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> member of <extra_id_83> Council of Europe <extra_id_45>"
+  },
+  {
+    "input_process": "What are the legal status of medicine whose name has the word UK IN IT <extra_id_89> <extra_id_89> <extra_id_83> legal status of medicine <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> legal status of medicine <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> uk <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "What aircraft model has the highest vehicle range? <extra_id_89> <extra_id_89> <extra_id_83> aircraft model <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> vehicle range",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> aircraft model <extra_id_68> <extra_id_69> <extra_id_84> vehicle range <extra_id_70> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 5"
+  },
+  {
+    "input_process": "Which is the data.gouv.fr org ID of Montpellier? <extra_id_89> <extra_id_89> <extra_id_83> Montpellier <extra_id_89> <extra_id_84> data.gouv.fr organisation ID",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Montpellier <extra_id_84> data.gouv.fr organisation ID <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What is in the native label of Birmingham ? <extra_id_89> <extra_id_89> <extra_id_83> Birmingham <extra_id_89> <extra_id_84> native label",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Birmingham <extra_id_84> native label <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Was Mitt Romney a bishop and a US senator? <extra_id_89> <extra_id_89> <extra_id_83> Mitt Romney <extra_id_89> <extra_id_83> bishop <extra_id_89> <extra_id_83> Mitt Romney <extra_id_89> <extra_id_83> United States senator <extra_id_89> <extra_id_84> position held <extra_id_89> <extra_id_84> position held",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Mitt Romney <extra_id_84> position held <extra_id_83> bishop <extra_id_68> <extra_id_83> Mitt Romney <extra_id_84> position held <extra_id_83> United States senator <extra_id_45>"
+  },
+  {
+    "input_process": "What is the significance of the sons of Richard Wilhelm? <extra_id_89> <extra_id_89> <extra_id_83> Richard Wilhelm <extra_id_89> <extra_id_84> child <extra_id_89> <extra_id_84> notable works",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Richard Wilhelm <extra_id_84> child <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> notable works <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "When did member of sports team of John Charles and number of matches played? <extra_id_89> <extra_id_89> <extra_id_83> John Charles <extra_id_89> <extra_id_86> member of sports team <extra_id_89> <extra_id_85> member of sports team <extra_id_89> <extra_id_87> number of matches played",
+    "target_process": "<extra_id_36> <extra_id_71> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> John Charles <extra_id_86> member of sports team <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> member of sports team <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> number of matches played <extra_id_71> <extra_id_68> <extra_id_45>"
+  },
+  {
+    "input_process": "Which nuclear isomer that is an isotope of indium has the highest atomic number ? <extra_id_89> <extra_id_89> <extra_id_83> isotope of indium <extra_id_89> <extra_id_83> nuclear isomer <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> atomic number <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> isotope of indium <extra_id_68> <extra_id_69> <extra_id_84> atomic number <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> nuclear isomer <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 5"
+  },
+  {
+    "input_process": "Emmanuelle Alt is the editor for Vogue in which country? <extra_id_89> <extra_id_89> <extra_id_83> Vogue <extra_id_89> <extra_id_83> Emmanuelle Alt <extra_id_89> <extra_id_86> editor <extra_id_89> <extra_id_85> editor <extra_id_89> <extra_id_87> country",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Vogue <extra_id_86> editor <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> editor <extra_id_83> Emmanuelle Alt <extra_id_68> <extra_id_69> <extra_id_87> country <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "When was Volgograd founded? <extra_id_89> <extra_id_89> <extra_id_83> Volgograd <extra_id_89> <extra_id_86> instance of <extra_id_89> <extra_id_85> instance of <extra_id_89> <extra_id_87> start time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Volgograd <extra_id_86> instance of <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> instance of <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_71> <extra_id_61> <extra_id_64> http: //dbpedia <extra_id_68> org/ontology/city <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_69> <extra_id_87> start time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "When award received of Clive Granger and point in time? <extra_id_89> <extra_id_89> <extra_id_83> Clive Granger <extra_id_89> <extra_id_86> award received <extra_id_89> <extra_id_85> award received <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_71> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Clive Granger <extra_id_86> award received <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> award received <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> point in time <extra_id_71> <extra_id_68> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the pope's official residence palazzo? <extra_id_89> <extra_id_89> <extra_id_83> pope <extra_id_89> <extra_id_83> palazzo <extra_id_89> <extra_id_84> official residence <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> pope <extra_id_84> official residence <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> palazzo <extra_id_45>"
+  },
+  {
+    "input_process": "The natural script of the Arabic alphabet has what uses? <extra_id_89> <extra_id_89> <extra_id_83> Arabic alphabet <extra_id_89> <extra_id_83> natural script <extra_id_89> <extra_id_84> uses <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> uses <extra_id_83> Arabic alphabet <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> natural script <extra_id_45>"
+  },
+  {
+    "input_process": "What lake on the Baja California Peninsula has the Tenmile Creek tributary? <extra_id_89> <extra_id_89> <extra_id_83> Baja California Peninsula <extra_id_89> <extra_id_83> Tenmile Creek <extra_id_89> <extra_id_84> located in or next to body of water <extra_id_89> <extra_id_84> tributary",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Baja California Peninsula <extra_id_84> located in or next to body of water <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> tributary <extra_id_83> Tenmile Creek <extra_id_45>"
+  },
+  {
+    "input_process": "How many won by Billie Jean King? <extra_id_89> <extra_id_89> <extra_id_83> Billie Jean King <extra_id_89> <extra_id_84> winner",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_63> <extra_id_69> <extra_id_84> winner <extra_id_83> Billie Jean King <extra_id_45>"
+  },
+  {
+    "input_process": "Where was Hildegard of Bingen born with the coordinates of 49.6819? <extra_id_89> <extra_id_89> <extra_id_83> Hildegard of Bingen <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> coordinate location",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Hildegard of Bingen <extra_id_84> place of birth <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> coordinate location <extra_id_70> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_70> <extra_id_61> <extra_id_64> 49 <extra_id_68> 6819 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "What music genre is the musical score by Brainstorm? <extra_id_89> <extra_id_89> <extra_id_83> Brainstorm <extra_id_89> <extra_id_84> composer <extra_id_89> <extra_id_84> genre",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Brainstorm <extra_id_84> composer <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> genre <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "In which location did Vladimir Putin's manager/director serve as the intelligence agent? <extra_id_89> <extra_id_89> <extra_id_83> Vladimir Putin <extra_id_89> <extra_id_83> intelligence agent <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> location <extra_id_89> <extra_id_87> director/manager",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_83> Vladimir Putin <extra_id_86> position held <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> position held <extra_id_83> intelligence agent <extra_id_68> <extra_id_69> <extra_id_87> location <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_87> director/manager <extra_id_71> <extra_id_45>"
+  },
+  {
+    "input_process": "Where and with what height did Yelena Isinbayeva break the record for pole vault? <extra_id_89> <extra_id_89> <extra_id_83> pole vault <extra_id_89> <extra_id_83> Yelena Isinbayeva <extra_id_89> <extra_id_86> record held <extra_id_89> <extra_id_85> record held <extra_id_89> <extra_id_87> height <extra_id_89> <extra_id_87> location",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_83> pole vault <extra_id_86> record held <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> record held <extra_id_83> Yelena Isinbayeva <extra_id_68> <extra_id_69> <extra_id_87> height <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_87> location <extra_id_71> <extra_id_45>"
+  },
+  {
+    "input_process": "Which determination method for Tunisia has total fertility rate as 2.08 ? <extra_id_89> <extra_id_89> <extra_id_83> Tunisia <extra_id_89> <extra_id_86> total fertility rate <extra_id_89> <extra_id_85> total fertility rate <extra_id_89> <extra_id_87> determination method",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Tunisia <extra_id_86> total fertility rate <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> total fertility rate <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_71> <extra_id_61> <extra_id_64> 2 <extra_id_68> 08 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_69> <extra_id_87> determination method <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "What is Takeshi Kitano's Nihon Taernto Miekan ID? <extra_id_89> <extra_id_89> <extra_id_83> Takeshi Kitano <extra_id_89> <extra_id_84> Nihon Tarento Meikan ID",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Takeshi Kitano <extra_id_84> Nihon Tarento Meikan ID <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Is the number of matches played/races/starts by Sean McMorrow equal to 0.8? <extra_id_89> <extra_id_89> <extra_id_83> Sean McMorrow <extra_id_89> <extra_id_84> number of matches played",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Sean McMorrow <extra_id_84> number of matches played <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_67> 0 <extra_id_68> 8 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the BWFbadminton.com player ID for Lin Dan? <extra_id_89> <extra_id_89> <extra_id_83> Lin Dan <extra_id_89> <extra_id_84> BWFbadminton.com player ID",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Lin Dan <extra_id_84> BWFbadminton.com player ID <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "TELL ME VEGETATION ZONE WHOSE NAME HAS THE WORD TAIGA IN IT <extra_id_89> <extra_id_89> <extra_id_83> vegetation zone <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> vegetation zone <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> taiga <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "WHICH IS THE ELECTORAL DISTRICT AND REPRESENTS JOHN KEY HAS THE MEMBER OF 51ST ZEALAND PARLIAMENTWO <extra_id_89> <extra_id_89> <extra_id_83> John Key <extra_id_89> <extra_id_83> 51st New Zealand Parliament <extra_id_89> <extra_id_86> member of <extra_id_89> <extra_id_85> member of <extra_id_89> <extra_id_87> electoral district <extra_id_89> <extra_id_87> represents",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_83> John Key <extra_id_86> member of <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> member of <extra_id_83> 51st New Zealand Parliament <extra_id_68> <extra_id_69> <extra_id_87> electoral district <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_87> represents <extra_id_71> <extra_id_45>"
+  },
+  {
+    "input_process": "Which is the enterprise that is the parent organization of Advanced Micro Devices? <extra_id_89> <extra_id_89> <extra_id_83> Advanced Micro Devices <extra_id_89> <extra_id_83> enterprise <extra_id_89> <extra_id_84> parent organisation <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> parent organisation <extra_id_83> Advanced Micro Devices <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> enterprise <extra_id_45>"
+  },
+  {
+    "input_process": "What is the sister city of Kharkiv which has a population of 850? <extra_id_89> <extra_id_89> <extra_id_83> Kharkiv <extra_id_89> <extra_id_84> twin town <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Kharkiv <extra_id_84> twin town <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> population <extra_id_70> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_70> <extra_id_61> <extra_id_64> 850 <extra_id_68> 0 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Tell me realm of the death whose name has the word spirit in it. <extra_id_89> <extra_id_89> <extra_id_83> realm of the dead <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> realm of the dead <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> spirit <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "Which toponym of Classical Cepheid variable has part of constellation that is Cepheus? <extra_id_89> <extra_id_89> <extra_id_83> classical Cepheid variable <extra_id_89> <extra_id_83> Cepheus <extra_id_89> <extra_id_84> named after <extra_id_89> <extra_id_84> constellation",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> classical Cepheid variable <extra_id_84> named after <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> constellation <extra_id_83> Cepheus <extra_id_45>"
+  },
+  {
+    "input_process": "who is the dialect of british english? <extra_id_89> <extra_id_89> <extra_id_83> British English <extra_id_89> <extra_id_83> dialect <extra_id_89> <extra_id_84> dialect of <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> dialect of <extra_id_83> British English <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> dialect <extra_id_45>"
+  },
+  {
+    "input_process": "Is the thermal diffusivity of the gold greater than 101.6? <extra_id_89> <extra_id_89> <extra_id_83> gold <extra_id_89> <extra_id_84> thermal diffusivity",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> gold <extra_id_84> thermal diffusivity <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_35> 101 <extra_id_68> 6 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "For what work was Frank Lloyd granted an Academy Award for Best Director? <extra_id_89> <extra_id_89> <extra_id_83> Frank Lloyd <extra_id_89> <extra_id_83> Academy Award for Best Director <extra_id_89> <extra_id_86> nominated for <extra_id_89> <extra_id_85> nominated for <extra_id_89> <extra_id_87> for work",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Frank Lloyd <extra_id_86> nominated for <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> nominated for <extra_id_83> Academy Award for Best Director <extra_id_68> <extra_id_69> <extra_id_87> for work <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the name for the residence of Thomas Jefferson <extra_id_89> <extra_id_89> <extra_id_83> Thomas Jefferson <extra_id_89> <extra_id_83> private mansion <extra_id_89> <extra_id_84> residence <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Thomas Jefferson <extra_id_84> residence <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> private mansion <extra_id_45>"
+  },
+  {
+    "input_process": "Which business enterprise has highest operating income? <extra_id_89> <extra_id_89> <extra_id_83> business <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> operating income",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> business <extra_id_68> <extra_id_69> <extra_id_84> operating income <extra_id_70> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 5"
+  },
+  {
+    "input_process": "Which is the language that has nominative as grammatical case and that contains the word udmurt in it's name? <extra_id_89> <extra_id_89> <extra_id_83> language <extra_id_89> <extra_id_83> nominative case <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> has grammatical case",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> language <extra_id_68> <extra_id_69> <extra_id_84> has grammatical case <extra_id_83> nominative case <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> udmurt <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "Did Christopher Lee conflict in World War II and the Battle of Anzio? <extra_id_89> <extra_id_89> <extra_id_83> Christopher Lee <extra_id_89> <extra_id_83> World War II <extra_id_89> <extra_id_83> Christopher Lee <extra_id_89> <extra_id_83> Battle of Anzio <extra_id_89> <extra_id_84> conflict <extra_id_89> <extra_id_84> conflict",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Christopher Lee <extra_id_84> conflict <extra_id_83> World War II <extra_id_68> <extra_id_83> Christopher Lee <extra_id_84> conflict <extra_id_83> Battle of Anzio <extra_id_45>"
+  },
+  {
+    "input_process": "Name a state function measured by a thermometer that contains the word \"temperature\" in its name <extra_id_89> <extra_id_89> <extra_id_83> state function <extra_id_89> <extra_id_83> thermometer <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> measurement scale",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> state function <extra_id_68> <extra_id_69> <extra_id_84> measurement scale <extra_id_83> thermometer <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> temperature <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "Which is the chemical compound for treating the medical condition of pain? <extra_id_89> <extra_id_89> <extra_id_83> pain <extra_id_89> <extra_id_83> chemical compound <extra_id_89> <extra_id_84> medical condition treated <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> medical condition treated <extra_id_83> pain <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> chemical compound <extra_id_45>"
+  },
+  {
+    "input_process": "What international law dictates the Pope? <extra_id_89> <extra_id_89> <extra_id_83> pope <extra_id_89> <extra_id_83> subject of international law <extra_id_89> <extra_id_84> organisation directed from the office or person <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> pope <extra_id_84> organisation directed from the office or person <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> subject of international law <extra_id_45>"
+  },
+  {
+    "input_process": "What is the mean lifetime of a neutron? <extra_id_89> <extra_id_89> <extra_id_83> neutron <extra_id_89> <extra_id_84> mean lifetime",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_63> <extra_id_83> neutron <extra_id_84> mean lifetime <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What did Clifton Chenier get nominated for in 1983-0-0? <extra_id_89> <extra_id_89> <extra_id_83> Clifton Chenier <extra_id_89> <extra_id_86> nominated for <extra_id_89> <extra_id_85> nominated for <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Clifton Chenier <extra_id_86> nominated for <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> nominated for <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> point in time <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_61> <extra_id_64> 1983 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Is it true that floors above ground of Ahlden House equals to 1.6? <extra_id_89> <extra_id_89> <extra_id_83> Ahlden House <extra_id_89> <extra_id_84> floors above ground",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Ahlden House <extra_id_84> floors above ground <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_67> 1 <extra_id_68> 6 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Who gave the formula of source material of pencil ? <extra_id_89> <extra_id_89> <extra_id_83> pencil <extra_id_89> <extra_id_84> material used <extra_id_89> <extra_id_84> chemical formula",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> pencil <extra_id_84> material used <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> chemical formula <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "who subsidiary company of label of deep purple ? <extra_id_89> <extra_id_89> <extra_id_83> Deep Purple <extra_id_89> <extra_id_84> record label <extra_id_89> <extra_id_84> subsidiaries",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Deep Purple <extra_id_84> record label <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> subsidiaries <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which grand daughter of James V of Scotland was born in 1491-6-28? <extra_id_89> <extra_id_89> <extra_id_83> James V of Scotland <extra_id_89> <extra_id_84> relative <extra_id_89> <extra_id_84> date of birth",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> James V of Scotland <extra_id_84> relative <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> date of birth <extra_id_70> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_61> <extra_id_64> 1491 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Tell me the \u015f\u0259h\u0259r for the category for films shot at the location of films shot in Baku whose name contains the word baku? <extra_id_89> <extra_id_89> <extra_id_83> \u015f\u0259h\u0259r <extra_id_89> <extra_id_83> Category:Films shot in Baku <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> category for films shot at this location",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> \u015f\u0259h\u0259r <extra_id_68> <extra_id_69> <extra_id_84> category for films shot at this location <extra_id_83> Category:Films shot in Baku <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> baku <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "How many orbits completed by the Sputnik 1? <extra_id_89> <extra_id_89> <extra_id_83> Sputnik 1 <extra_id_89> <extra_id_84> orbits completed",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Sputnik 1 <extra_id_84> orbits completed <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What are the Original Public Ivy which start with the letter U <extra_id_89> <extra_id_89> <extra_id_83> Original Public Ivy <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> Original Public Ivy <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_62> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> u <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "Which academic majoor did Bernice Rubens choose at the University of Wales and which degree did she reach? <extra_id_89> <extra_id_89> <extra_id_83> Bernice Rubens <extra_id_89> <extra_id_83> University of Wales <extra_id_89> <extra_id_86> educated at <extra_id_89> <extra_id_85> educated at <extra_id_89> <extra_id_87> academic degree <extra_id_89> <extra_id_87> academic major",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_83> Bernice Rubens <extra_id_86> educated at <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> educated at <extra_id_83> University of Wales <extra_id_68> <extra_id_69> <extra_id_87> academic degree <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_87> academic major <extra_id_71> <extra_id_45>"
+  },
+  {
+    "input_process": "Who followed Berengar I of Italy as monarch? <extra_id_89> <extra_id_89> <extra_id_83> Berengar I of Italy <extra_id_89> <extra_id_83> monarch of Italy <extra_id_89> <extra_id_86> noble title <extra_id_89> <extra_id_85> noble title <extra_id_89> <extra_id_87> follows <extra_id_89> <extra_id_87> followed by",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_83> Berengar I of Italy <extra_id_86> noble title <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> noble title <extra_id_83> monarch of Italy <extra_id_68> <extra_id_69> <extra_id_87> follows <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_87> followed by <extra_id_71> <extra_id_45>"
+  },
+  {
+    "input_process": "When was Peter Zumthor awarded the Arts and Culture Prize of German Catholics? <extra_id_89> <extra_id_89> <extra_id_83> Peter Zumthor <extra_id_89> <extra_id_83> Arts and Culture Prize of German Catholics <extra_id_89> <extra_id_86> award received <extra_id_89> <extra_id_85> award received <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Peter Zumthor <extra_id_86> award received <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> award received <extra_id_83> Arts and Culture Prize of German Catholics <extra_id_68> <extra_id_69> <extra_id_87> point in time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "What country for Pius IX has the birth place of Senigallia? <extra_id_89> <extra_id_89> <extra_id_83> Pius IX <extra_id_89> <extra_id_83> Senigallia <extra_id_89> <extra_id_86> place of birth <extra_id_89> <extra_id_85> place of birth <extra_id_89> <extra_id_87> country",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Pius IX <extra_id_86> place of birth <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> place of birth <extra_id_83> Senigallia <extra_id_68> <extra_id_69> <extra_id_87> country <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "When did Daft Punk receive a Grammy for Album of the Year? <extra_id_89> <extra_id_89> <extra_id_83> Daft Punk <extra_id_89> <extra_id_83> Grammy Award for Album of the Year <extra_id_89> <extra_id_86> award received <extra_id_89> <extra_id_85> award received <extra_id_89> <extra_id_87> point in time <extra_id_89> <extra_id_87> winner",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_83> Daft Punk <extra_id_86> award received <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> award received <extra_id_83> Grammy Award for Album of the Year <extra_id_68> <extra_id_69> <extra_id_87> point in time <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_87> winner <extra_id_71> <extra_id_45>"
+  },
+  {
+    "input_process": "What are the municipality of the Netherlands which start with the letter s <extra_id_89> <extra_id_89> <extra_id_83> municipality of the Netherlands <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> municipality of the Netherlands <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_62> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> z <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "When did John Major stopped being a Member of the 50th Parliament of the United Kingdom? <extra_id_89> <extra_id_89> <extra_id_83> John Major <extra_id_89> <extra_id_83> Member of the 50th Parliament of the United Kingdom <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> end cause",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> John Major <extra_id_86> position held <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> position held <extra_id_83> Member of the 50th Parliament of the United Kingdom <extra_id_68> <extra_id_69> <extra_id_87> end cause <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "In what sport did Agnes Miegel receive a 1st place medal? <extra_id_89> <extra_id_89> <extra_id_83> Agnes Miegel <extra_id_89> <extra_id_84> award received <extra_id_89> <extra_id_84> winner",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Agnes Miegel <extra_id_84> award received <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> winner <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "How many items can the cook operate? <extra_id_89> <extra_id_89> <extra_id_83> cook <extra_id_89> <extra_id_84> item operated",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_63> <extra_id_83> cook <extra_id_84> item operated <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "who is the city for capital of wales? <extra_id_89> <extra_id_89> <extra_id_83> Wales <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_84> capital <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Wales <extra_id_84> capital <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> city <extra_id_45>"
+  },
+  {
+    "input_process": "Does the Sanskrit writing system include Devangari and the Vatteluttu alphabet? <extra_id_89> <extra_id_89> <extra_id_83> Sanskrit <extra_id_89> <extra_id_83> Devanagari <extra_id_89> <extra_id_83> Sanskrit <extra_id_89> <extra_id_83> Vatteluttu alphabet <extra_id_89> <extra_id_84> writing system <extra_id_89> <extra_id_84> writing system",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Sanskrit <extra_id_84> writing system <extra_id_83> Devanagari <extra_id_68> <extra_id_83> Sanskrit <extra_id_84> writing system <extra_id_83> Vatteluttu alphabet <extra_id_45>"
+  },
+  {
+    "input_process": "What chemical compound that's part carbon has the least global-warming potential? <extra_id_89> <extra_id_89> <extra_id_83> chemical compound <extra_id_89> <extra_id_83> carbon <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> global-warming potential <extra_id_89> <extra_id_84> has part",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> chemical compound <extra_id_68> <extra_id_69> <extra_id_84> global-warming potential <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_84> has part <extra_id_83> carbon <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_57> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 5"
+  },
+  {
+    "input_process": "What is the terrorist attack with the highest number of deaths whose participant is Grupos Antiterroristas de Liberaci\u00f3n ? <extra_id_89> <extra_id_89> <extra_id_83> terrorist attack <extra_id_89> <extra_id_83> Grupos Antiterroristas de Liberaci\u00f3n <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> number of fatalities <extra_id_89> <extra_id_84> participant",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> terrorist attack <extra_id_68> <extra_id_69> <extra_id_84> number of fatalities <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_84> participant <extra_id_83> Grupos Antiterroristas de Liberaci\u00f3n <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 5"
+  },
+  {
+    "input_process": "what is highly urbanized city language used by tagalog and also which starts with letter v <extra_id_89> <extra_id_89> <extra_id_83> highly urbanized city <extra_id_89> <extra_id_83> Tagalog <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> language used",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> highly urbanized city <extra_id_68> <extra_id_69> <extra_id_84> language used <extra_id_83> Tagalog <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_62> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> v <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "Name an amulet associated with Ancient Egypt. <extra_id_89> <extra_id_89> <extra_id_83> Ancient Egypt <extra_id_89> <extra_id_83> amulet <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> country <extra_id_83> Ancient Egypt <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> amulet <extra_id_45>"
+  },
+  {
+    "input_process": "\"What is name of John Foster Dulles Latin script that has alphabet?\" <extra_id_89> <extra_id_89> <extra_id_83> John Foster Dulles <extra_id_89> <extra_id_83> Latin script <extra_id_89> <extra_id_84> given name <extra_id_89> <extra_id_84> writing system",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> John Foster Dulles <extra_id_84> given name <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> writing system <extra_id_83> Latin script <extra_id_45>"
+  },
+  {
+    "input_process": "who chairwoman of club played for of rom\u00e1rio ? <extra_id_89> <extra_id_89> <extra_id_83> Rom\u00e1rio <extra_id_89> <extra_id_84> member of sports team <extra_id_89> <extra_id_84> chairperson",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Rom\u00e1rio <extra_id_84> member of sports team <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> chairperson <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "How many twinned administrative bodies does Argenteuil have? <extra_id_89> <extra_id_89> <extra_id_83> Argenteuil <extra_id_89> <extra_id_84> twin town",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_63> <extra_id_69> <extra_id_84> twin town <extra_id_83> Argenteuil <extra_id_45>"
+  },
+  {
+    "input_process": "What year was the final product of DC-8 made? <extra_id_89> <extra_id_89> <extra_id_83> Douglas DC-8 <extra_id_89> <extra_id_84> manufacturer <extra_id_89> <extra_id_84> dissolved, abolished or demolished",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Douglas DC-8 <extra_id_84> manufacturer <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> dissolved, abolished or demolished <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the futsal league with the highest sports league level whose league level above is Futsal-Liiga ? <extra_id_89> <extra_id_89> <extra_id_83> futsal league <extra_id_89> <extra_id_83> Futsal-Liiga <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> sports league level <extra_id_89> <extra_id_84> league level above",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> futsal league <extra_id_68> <extra_id_69> <extra_id_84> sports league level <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_84> league level above <extra_id_83> Futsal-Liiga <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 5"
+  },
+  {
+    "input_process": "What is the award winning book of J.R.R. Tolkien and book. <extra_id_89> <extra_id_89> <extra_id_83> J.\u00a0R.\u00a0R. Tolkien <extra_id_89> <extra_id_86> award received <extra_id_89> <extra_id_85> award received <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_71> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> J.\u00a0R.\u00a0R. Tolkien <extra_id_86> award received <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> award received <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> point in time <extra_id_71> <extra_id_68> <extra_id_45>"
+  },
+  {
+    "input_process": "How many participants are playing with Steffi Graf? <extra_id_89> <extra_id_89> <extra_id_83> Steffi Graf <extra_id_89> <extra_id_84> participant in",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_63> <extra_id_83> Steffi Graf <extra_id_84> participant in <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "does the anomaly mean of 1186 turnera equal to 3.93852? <extra_id_89> <extra_id_89> <extra_id_83> 1186 Turnera <extra_id_89> <extra_id_84> mean anomaly",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> 1186 Turnera <extra_id_84> mean anomaly <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_67> 3 <extra_id_68> 93852 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the HQ of \u00c4rztekammer Nordrhein? <extra_id_89> <extra_id_89> <extra_id_83> J\u00f6rg-Dietrich Hoppe <extra_id_89> <extra_id_84> employer <extra_id_89> <extra_id_84> headquarters location",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> J\u00f6rg-Dietrich Hoppe <extra_id_84> employer <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> headquarters location <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Is Beijing a twinned administrative body with Nur-Sultan and Salo? <extra_id_89> <extra_id_89> <extra_id_83> Beijing <extra_id_89> <extra_id_83> Nur-Sultan <extra_id_89> <extra_id_83> Beijing <extra_id_89> <extra_id_83> Salo <extra_id_89> <extra_id_84> twin town <extra_id_89> <extra_id_84> twin town",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Beijing <extra_id_84> twin town <extra_id_83> Nur-Sultan <extra_id_68> <extra_id_83> Beijing <extra_id_84> twin town <extra_id_83> Salo <extra_id_45>"
+  },
+  {
+    "input_process": "What type of relationship is in between Toyotomi Hideyoshi and Gohime? <extra_id_89> <extra_id_89> <extra_id_83> Toyotomi Hideyoshi <extra_id_89> <extra_id_83> G\u014dhime <extra_id_89> <extra_id_86> relative <extra_id_89> <extra_id_85> relative <extra_id_89> <extra_id_87> type of kinship",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Toyotomi Hideyoshi <extra_id_86> relative <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> relative <extra_id_83> G\u014dhime <extra_id_68> <extra_id_69> <extra_id_87> type of kinship <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Is it true that cloud computing win the 2014 Laurence Olivier Awards? <extra_id_89> <extra_id_89> <extra_id_83> cloud computing <extra_id_89> <extra_id_83> 2014 Laurence Olivier Awards <extra_id_89> <extra_id_84> award received",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> cloud computing <extra_id_84> award received <extra_id_83> 2014 Laurence Olivier Awards <extra_id_45>"
+  },
+  {
+    "input_process": "What is the prevalence of gout in developing countries? <extra_id_89> <extra_id_89> <extra_id_83> gout <extra_id_89> <extra_id_83> developed country <extra_id_89> <extra_id_86> prevalence <extra_id_89> <extra_id_85> prevalence <extra_id_89> <extra_id_87> location",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> gout <extra_id_86> prevalence <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> prevalence <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> location <extra_id_83> developed country <extra_id_45>"
+  },
+  {
+    "input_process": "What is the CDB Chemical ID for isopropyl alcohol? <extra_id_89> <extra_id_89> <extra_id_83> isopropyl alcohol <extra_id_89> <extra_id_84> CDB Chemical ID",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> isopropyl alcohol <extra_id_84> CDB Chemical ID <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Parliamentary group of Christian Democratic Union? <extra_id_89> <extra_id_89> <extra_id_83> Christian Democratic Union <extra_id_89> <extra_id_84> party affiliation",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Christian Democratic Union <extra_id_84> party affiliation <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who did Anna Nicole Smith marry in January 1, 2006? <extra_id_89> <extra_id_89> <extra_id_83> Anna Nicole Smith <extra_id_89> <extra_id_86> spouse <extra_id_89> <extra_id_85> spouse <extra_id_89> <extra_id_87> start time",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Anna Nicole Smith <extra_id_86> spouse <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> spouse <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> start time <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_61> <extra_id_64> 2006 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "For how long was Abram L. Sachar the chairperson for Brandeis University. <extra_id_89> <extra_id_89> <extra_id_83> Brandeis University <extra_id_89> <extra_id_83> Abram L. Sachar <extra_id_89> <extra_id_86> chairperson <extra_id_89> <extra_id_85> chairperson <extra_id_89> <extra_id_87> end time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Brandeis University <extra_id_86> chairperson <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> chairperson <extra_id_83> Abram L. Sachar <extra_id_68> <extra_id_69> <extra_id_87> end time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "What is award received from Mario Puzo which is the subject of 47th Academy Awards ? <extra_id_89> <extra_id_89> <extra_id_83> Mario Puzo <extra_id_89> <extra_id_83> 47th Academy Awards <extra_id_89> <extra_id_86> award received <extra_id_89> <extra_id_85> award received <extra_id_89> <extra_id_87> statement is subject of",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Mario Puzo <extra_id_86> award received <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> award received <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> statement is subject of <extra_id_83> 47th Academy Awards <extra_id_45>"
+  },
+  {
+    "input_process": "Tell me the standards organization that is affiliated with United Nations Economic and Social Council and starts with the letter i? <extra_id_89> <extra_id_89> <extra_id_83> standards organization <extra_id_89> <extra_id_83> United Nations Economic and Social Council <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> affiliation",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> standards organization <extra_id_68> <extra_id_69> <extra_id_84> affiliation <extra_id_83> United Nations Economic and Social Council <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_62> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> i <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "What is the film starring of Bicycle Thieves whose date of the end is 1983-4-22? <extra_id_89> <extra_id_89> <extra_id_83> Bicycle Thieves <extra_id_89> <extra_id_84> cast member <extra_id_89> <extra_id_84> date of death",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Bicycle Thieves <extra_id_84> cast member <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> date of death <extra_id_70> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_61> <extra_id_64> 1983 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "When did Hakeem Olajuwon win the NBA All-Defensive Team award? <extra_id_89> <extra_id_89> <extra_id_83> Hakeem Olajuwon <extra_id_89> <extra_id_83> NBA All-Defensive Team <extra_id_89> <extra_id_86> award received <extra_id_89> <extra_id_85> award received <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Hakeem Olajuwon <extra_id_86> award received <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> award received <extra_id_83> NBA All-Defensive Team <extra_id_68> <extra_id_69> <extra_id_87> point in time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Which medical condition is established from Down Syndrome? <extra_id_89> <extra_id_89> <extra_id_83> Down syndrome <extra_id_89> <extra_id_84> established from medical condition",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> established from medical condition <extra_id_83> Down syndrome <extra_id_45>"
+  },
+  {
+    "input_process": "Which departments of the United Nations are directed by the UN Secretary-General? <extra_id_89> <extra_id_89> <extra_id_83> United Nations Secretary-General <extra_id_89> <extra_id_83> principal organ of the United Nations <extra_id_89> <extra_id_84> organisation directed from the office or person <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> United Nations Secretary-General <extra_id_84> organisation directed from the office or person <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> principal organ of the United Nations <extra_id_45>"
+  },
+  {
+    "input_process": "Did Louis Armstrong sign with Columbia Records and GRP Records? <extra_id_89> <extra_id_89> <extra_id_83> Louis Armstrong <extra_id_89> <extra_id_83> Columbia Records <extra_id_89> <extra_id_83> Louis Armstrong <extra_id_89> <extra_id_83> GRP Records <extra_id_89> <extra_id_84> record label <extra_id_89> <extra_id_84> record label",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Louis Armstrong <extra_id_84> record label <extra_id_83> Columbia Records <extra_id_68> <extra_id_83> Louis Armstrong <extra_id_84> record label <extra_id_83> GRP Records <extra_id_45>"
+  },
+  {
+    "input_process": "Where was Lucius Cornelius Sulla, of Roman Republic, born? <extra_id_89> <extra_id_89> <extra_id_83> Sulla <extra_id_89> <extra_id_83> Roman Republic <extra_id_89> <extra_id_86> place of birth <extra_id_89> <extra_id_85> place of birth <extra_id_89> <extra_id_87> country",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Sulla <extra_id_86> place of birth <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> place of birth <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> country <extra_id_83> Roman Republic <extra_id_45>"
+  },
+  {
+    "input_process": "When did Bochum have a population of 341,935? <extra_id_89> <extra_id_89> <extra_id_83> Bochum <extra_id_89> <extra_id_86> population <extra_id_89> <extra_id_85> population <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Bochum <extra_id_86> population <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> population <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_71> <extra_id_61> <extra_id_64> 341935 <extra_id_68> 0 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_69> <extra_id_87> point in time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Is Goldie Hawn Hispanic and Latino American? <extra_id_89> <extra_id_89> <extra_id_83> Goldie Hawn <extra_id_89> <extra_id_83> Hispanic and Latino Americans <extra_id_89> <extra_id_84> ethnic group",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Goldie Hawn <extra_id_84> ethnic group <extra_id_83> Hispanic and Latino Americans <extra_id_45>"
+  },
+  {
+    "input_process": "Which empire did the Parthian follow? <extra_id_89> <extra_id_89> <extra_id_83> Parthian Empire <extra_id_89> <extra_id_83> empire <extra_id_89> <extra_id_84> followed by <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Parthian Empire <extra_id_84> followed by <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> empire <extra_id_45>"
+  },
+  {
+    "input_process": "What is route diagram of Bay Area Rapid Transit ? <extra_id_89> <extra_id_89> <extra_id_83> Bay Area Rapid Transit <extra_id_89> <extra_id_84> route diagram",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Bay Area Rapid Transit <extra_id_84> route diagram <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What drug's dosage is largely carbon? <extra_id_89> <extra_id_89> <extra_id_83> biopharmaceutical <extra_id_89> <extra_id_83> carbon <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> defined daily dose <extra_id_89> <extra_id_84> has part",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> biopharmaceutical <extra_id_68> <extra_id_69> <extra_id_84> defined daily dose <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_84> has part <extra_id_83> carbon <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 5"
+  },
+  {
+    "input_process": "What's the stock exchange for Toshiba? <extra_id_89> <extra_id_89> <extra_id_83> Toshiba <extra_id_89> <extra_id_84> stock exchange",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_63> <extra_id_83> Toshiba <extra_id_84> stock exchange <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "\"How is contains of Santa Catarina, which has coords is -26.8989 ?\" <extra_id_89> <extra_id_89> <extra_id_83> Santa Catarina <extra_id_89> <extra_id_84> contains administrative territorial entity <extra_id_89> <extra_id_84> coordinate location",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Santa Catarina <extra_id_84> contains administrative territorial entity <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> coordinate location <extra_id_70> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_70> <extra_id_61> <extra_id_64> -26 <extra_id_68> 8989 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Who did Diane von Furstenberg marry in 1969MacGraw <extra_id_89> <extra_id_89> <extra_id_83> Diane von F\u00fcrstenberg <extra_id_89> <extra_id_86> spouse <extra_id_89> <extra_id_85> spouse <extra_id_89> <extra_id_87> start time",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Diane von F\u00fcrstenberg <extra_id_86> spouse <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> spouse <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> start time <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_61> <extra_id_64> 1969 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Is the max glide ratio of the SZD-59 Acro 40? <extra_id_89> <extra_id_89> <extra_id_83> SZD-59 Acro <extra_id_89> <extra_id_84> maximum glide ratio",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> SZD-59 Acro <extra_id_84> maximum glide ratio <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_67> 40 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "What sound does a pig make in the French language? <extra_id_89> <extra_id_89> <extra_id_83> pig <extra_id_89> <extra_id_83> French <extra_id_89> <extra_id_86> pronunciation audio <extra_id_89> <extra_id_85> pronunciation audio <extra_id_89> <extra_id_87> language of work or name",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> pig <extra_id_86> pronunciation audio <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> pronunciation audio <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> language of work or name <extra_id_83> French <extra_id_45>"
+  },
+  {
+    "input_process": "On the shore of Rabat, what has a tributary of Mystic River? <extra_id_89> <extra_id_89> <extra_id_83> Rabat <extra_id_89> <extra_id_83> Mystic River <extra_id_89> <extra_id_84> located in or next to body of water <extra_id_89> <extra_id_84> tributary",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Rabat <extra_id_84> located in or next to body of water <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> tributary <extra_id_83> Mystic River <extra_id_45>"
+  },
+  {
+    "input_process": "Which is the position that George Weah held as position? <extra_id_89> <extra_id_89> <extra_id_83> George Weah <extra_id_89> <extra_id_83> position <extra_id_89> <extra_id_84> position held <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> George Weah <extra_id_84> position held <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> position <extra_id_45>"
+  },
+  {
+    "input_process": "Who replaced Mohammed Omar as the Emir of Afghanistan? <extra_id_89> <extra_id_89> <extra_id_83> Mohammed Omar <extra_id_89> <extra_id_83> Emir of Afghanistan <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> replaces",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Mohammed Omar <extra_id_86> position held <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> position held <extra_id_83> Emir of Afghanistan <extra_id_68> <extra_id_69> <extra_id_87> replaces <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Which rare disease killed Lou Gehrig? <extra_id_89> <extra_id_89> <extra_id_83> Lou Gehrig <extra_id_89> <extra_id_83> designated intractable/rare diseases <extra_id_89> <extra_id_84> cause of death <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Lou Gehrig <extra_id_84> cause of death <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> designated intractable/rare diseases <extra_id_45>"
+  },
+  {
+    "input_process": "Tell me which is the software company which starts with the letter x? <extra_id_89> <extra_id_89> <extra_id_83> software company <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> software company <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_62> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> x <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "When did Steve Bannon complete his studies at Virginia Tech? <extra_id_89> <extra_id_89> <extra_id_83> Steve Bannon <extra_id_89> <extra_id_83> Virginia Tech <extra_id_89> <extra_id_86> educated at <extra_id_89> <extra_id_85> educated at <extra_id_89> <extra_id_87> end time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Steve Bannon <extra_id_86> educated at <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> educated at <extra_id_83> Virginia Tech <extra_id_68> <extra_id_69> <extra_id_87> end time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Which country has highest individual tax rate? <extra_id_89> <extra_id_89> <extra_id_83> country <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> individual tax rate",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> country <extra_id_68> <extra_id_69> <extra_id_84> individual tax rate <extra_id_70> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 5"
+  },
+  {
+    "input_process": "Who is the costume designer for Karl Lagerfeld? <extra_id_89> <extra_id_89> <extra_id_83> Karl Lagerfeld <extra_id_89> <extra_id_84> costume designer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> costume designer <extra_id_83> Karl Lagerfeld <extra_id_45>"
+  },
+  {
+    "input_process": "What kind of instrument is a vibraphone? <extra_id_89> <extra_id_89> <extra_id_83> vibraphone <extra_id_89> <extra_id_84> instrument",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_63> <extra_id_69> <extra_id_84> instrument <extra_id_83> vibraphone <extra_id_45>"
+  },
+  {
+    "input_process": "How long did Zeno ruled the Byzantine Empire? <extra_id_89> <extra_id_89> <extra_id_83> Zeno <extra_id_89> <extra_id_83> Byzantine emperor <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> end time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Zeno <extra_id_86> position held <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> position held <extra_id_83> Byzantine emperor <extra_id_68> <extra_id_69> <extra_id_87> end time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Which company developed Skype? <extra_id_89> <extra_id_89> <extra_id_83> Skype <extra_id_89> <extra_id_83> business <extra_id_89> <extra_id_84> developer <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Skype <extra_id_84> developer <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> business <extra_id_45>"
+  },
+  {
+    "input_process": "What is the birth place of Margery Williams that has town and is part of the London Borough of Ealing? <extra_id_89> <extra_id_89> <extra_id_83> Margery Williams <extra_id_89> <extra_id_83> London Borough of Ealing <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> contains administrative territorial entity",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Margery Williams <extra_id_84> place of birth <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> contains administrative territorial entity <extra_id_83> London Borough of Ealing <extra_id_45>"
+  },
+  {
+    "input_process": "When did the life stance of saint governing text ? <extra_id_89> <extra_id_89> <extra_id_83> saint <extra_id_89> <extra_id_84> religion <extra_id_89> <extra_id_84> main regulatory text",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> saint <extra_id_84> religion <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> main regulatory text <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "When did Nicolas Jean-de-Dieu Soult gain the position of head of France's government? <extra_id_89> <extra_id_89> <extra_id_83> Jean-de-Dieu Soult <extra_id_89> <extra_id_83> head of government of France <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> start time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Jean-de-Dieu Soult <extra_id_86> position held <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> position held <extra_id_83> head of government of France <extra_id_68> <extra_id_69> <extra_id_87> start time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the rate of fire of a VAP submachine gun? <extra_id_89> <extra_id_89> <extra_id_83> VAP submachine gun <extra_id_89> <extra_id_84> rate of fire",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> VAP submachine gun <extra_id_84> rate of fire <extra_id_69> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_67> 900 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "How many episodes are there of Cowboy Bebop? <extra_id_89> <extra_id_89> <extra_id_83> Cowboy Bebop <extra_id_89> <extra_id_84> publication date",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_63> <extra_id_83> Cowboy Bebop <extra_id_84> publication date <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is nominated for of Woody Allen whose for work is Deconstructing Harry ? <extra_id_89> <extra_id_89> <extra_id_83> Woody Allen <extra_id_89> <extra_id_83> Deconstructing Harry <extra_id_89> <extra_id_86> nominated for <extra_id_89> <extra_id_85> nominated for <extra_id_89> <extra_id_87> for work",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Woody Allen <extra_id_86> nominated for <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> nominated for <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> for work <extra_id_83> Deconstructing Harry <extra_id_45>"
+  },
+  {
+    "input_process": "Does the president hold the office that is the head of the government? <extra_id_89> <extra_id_89> <extra_id_83> president <extra_id_89> <extra_id_84> office held by head of government",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_63> <extra_id_69> <extra_id_84> office held by head of government <extra_id_83> president <extra_id_45>"
+  },
+  {
+    "input_process": "What kind of sport is handball? <extra_id_89> <extra_id_89> <extra_id_83> handball <extra_id_89> <extra_id_83> type of sport <extra_id_89> <extra_id_84> sports discipline competed in <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> handball <extra_id_84> sports discipline competed in <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> type of sport <extra_id_45>"
+  },
+  {
+    "input_process": "When was Panasonic's total assets equal to 6.40332e+12? <extra_id_89> <extra_id_89> <extra_id_83> Panasonic Corporation <extra_id_89> <extra_id_86> total assets <extra_id_89> <extra_id_85> total assets <extra_id_89> <extra_id_87> point in time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Panasonic Corporation <extra_id_86> total assets <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> total assets <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_71> <extra_id_61> <extra_id_64> 6 <extra_id_68> 40332e+12 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_69> <extra_id_87> point in time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "tell me geological process name has word subduction in it <extra_id_89> <extra_id_89> <extra_id_83> geological process <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_76> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> geological process <extra_id_68> <extra_id_69> rdfs: label <extra_id_76> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_53> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_61> <extra_id_64> subduction <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_43> <extra_id_31> <extra_id_76> <extra_id_42> <extra_id_67> <extra_id_64> <extra_id_58> <extra_id_64> <extra_id_42> <extra_id_45> <extra_id_38> 25"
+  },
+  {
+    "input_process": "Which is the number of elevators in the World Trade Center? <extra_id_89> <extra_id_89> <extra_id_83> World Trade Center <extra_id_89> <extra_id_84> number of lifts",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> World Trade Center <extra_id_84> number of lifts <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "How many collections are in the Royal Danish Library? <extra_id_89> <extra_id_89> <extra_id_83> Royal Danish Library <extra_id_89> <extra_id_84> collection",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_63> <extra_id_69> <extra_id_84> collection <extra_id_83> Royal Danish Library <extra_id_45>"
+  },
+  {
+    "input_process": "What country in Dhaka formed on 3-26-1971? <extra_id_89> <extra_id_89> <extra_id_83> Dhaka <extra_id_89> <extra_id_86> country <extra_id_89> <extra_id_85> country <extra_id_89> <extra_id_87> start time",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Dhaka <extra_id_86> country <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> country <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_87> start time <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_61> <extra_id_64> 1971 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the population of the Bronx? <extra_id_89> <extra_id_89> <extra_id_83> The Bronx <extra_id_89> <extra_id_86> population <extra_id_89> <extra_id_85> population <extra_id_89> <extra_id_87> determination method",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> The Bronx <extra_id_86> population <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> population <extra_id_71> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_71> <extra_id_61> <extra_id_64> 1 <extra_id_68> 40794e+06 <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_69> <extra_id_87> determination method <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Name a country who is diplomatic towards the Russian Empire. <extra_id_89> <extra_id_89> <extra_id_83> Russian Empire <extra_id_89> <extra_id_83> country <extra_id_89> <extra_id_84> diplomatic relation <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> diplomatic relation <extra_id_83> Russian Empire <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> country <extra_id_45>"
+  },
+  {
+    "input_process": "What time does the First Minister of Northern Ireland, David Trimble, finish? <extra_id_89> <extra_id_89> <extra_id_83> David Trimble <extra_id_89> <extra_id_83> First Minister of Northern Ireland <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> end time",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> David Trimble <extra_id_86> position held <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> position held <extra_id_83> First Minister of Northern Ireland <extra_id_68> <extra_id_69> <extra_id_87> end time <extra_id_70> <extra_id_45>"
+  }
+]

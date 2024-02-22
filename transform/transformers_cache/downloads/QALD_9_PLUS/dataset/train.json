@@ -1,0 +1,1466 @@
+[
+  {
+    "input_process": "List all boardgames by GMT. <extra_id_89> <extra_id_89> <extra_id_83> board game <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> board game <extra_id_45>"
+  },
+  {
+    "input_process": "Who developed Skype? <extra_id_89> <extra_id_89> <extra_id_83> Skype <extra_id_89> <extra_id_84> developer",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Skype <extra_id_84> developer <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which people were born in Heraklion? <extra_id_89> <extra_id_89> <extra_id_83> Heraklion <extra_id_89> <extra_id_84> place of birth",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> place of birth <extra_id_83> Heraklion <extra_id_45>"
+  },
+  {
+    "input_process": "In which U.S. state is Area 51 located? <extra_id_89> <extra_id_89> <extra_id_83> Area 51 <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> located in the administrative territorial entity",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Area 51 <extra_id_84> located in the administrative territorial entity <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> located in the administrative territorial entity <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the mayor of New York City? <extra_id_89> <extra_id_89> <extra_id_83> New York City <extra_id_89> <extra_id_84> head of government",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> New York City <extra_id_84> head of government <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Where did Abraham Lincoln die? <extra_id_89> <extra_id_89> <extra_id_83> Abraham Lincoln <extra_id_89> <extra_id_84> place of death",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Abraham Lincoln <extra_id_84> place of death <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which airports does Air China serve? <extra_id_89> <extra_id_89> <extra_id_83> Air China <extra_id_89> <extra_id_84> airline hub",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Air China <extra_id_84> airline hub <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all actors starring in movies directed by and starring William Shatner. <extra_id_89> <extra_id_89> <extra_id_83> William Shatner <extra_id_89> <extra_id_83> William Shatner <extra_id_89> <extra_id_84> director <extra_id_89> <extra_id_84> cast member <extra_id_89> <extra_id_84> cast member",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> director <extra_id_83> William Shatner <extra_id_68> <extra_id_69> <extra_id_84> cast member <extra_id_83> William Shatner <extra_id_68> <extra_id_69> <extra_id_84> cast member <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "What are the official languages of the Philippines? <extra_id_89> <extra_id_89> <extra_id_83> Philippines <extra_id_89> <extra_id_84> official language",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Philippines <extra_id_84> official language <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all Danish films. <extra_id_89> <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_83> Denmark <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country of origin",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> subclass of * <extra_id_83> film <extra_id_68> <extra_id_70> <extra_id_84> instance of <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_84> country of origin <extra_id_83> Denmark <extra_id_45>"
+  },
+  {
+    "input_process": "Which movies starring Brad Pitt were directed by Guy Ritchie? <extra_id_89> <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_83> Brad Pitt <extra_id_89> <extra_id_83> Guy Ritchie <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> cast member <extra_id_89> <extra_id_84> director",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> subclass of * <extra_id_83> film <extra_id_68> <extra_id_70> <extra_id_84> instance of <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_84> cast member <extra_id_83> Brad Pitt <extra_id_68> <extra_id_70> <extra_id_84> director <extra_id_83> Guy Ritchie <extra_id_45>"
+  },
+  {
+    "input_process": "Give me the grandchildren of Bruce Lee. <extra_id_89> <extra_id_89> <extra_id_83> Bruce Lee <extra_id_89> <extra_id_84> child <extra_id_89> <extra_id_84> child",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Bruce Lee <extra_id_84> child <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> child <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Which other weapons did the designer of the Uzi develop? <extra_id_89> <extra_id_89> <extra_id_83> weapon <extra_id_89> <extra_id_83> Uzi <extra_id_89> <extra_id_83> Uzi <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> designed by <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> designed by",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> subclass of * <extra_id_83> weapon <extra_id_68> <extra_id_83> Uzi <extra_id_84> designed by <extra_id_69> <extra_id_68> <extra_id_71> <extra_id_84> subclass of <extra_id_70> <extra_id_68> <extra_id_71> <extra_id_84> designed by <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_71> ! <extra_id_67> <extra_id_83> Uzi <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the owner of Universal Studios? <extra_id_89> <extra_id_89> <extra_id_83> Universal Pictures <extra_id_89> <extra_id_84> owned by",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Universal Pictures <extra_id_84> owned by <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which state of the USA has the highest population density? <extra_id_89> <extra_id_89> <extra_id_83> U.S. state <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> area <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_72> <extra_id_49> <extra_id_63> <extra_id_72> <extra_id_84> instance of <extra_id_83> U.S. state <extra_id_68> <extra_id_72> <extra_id_84> area <extra_id_69> <extra_id_68> <extra_id_72> <extra_id_84> population <extra_id_71> <extra_id_68> bind <extra_id_31> <extra_id_31> <extra_id_71> / <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Which monarchs were married to a German? <extra_id_89> <extra_id_89> <extra_id_83> monarch <extra_id_89> <extra_id_83> Germany <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> spouse <extra_id_89> <extra_id_84> country of citizenship",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> occupation <extra_id_83> monarch <extra_id_68> <extra_id_70> <extra_id_84> spouse <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> country of citizenship <extra_id_83> Germany <extra_id_45>"
+  },
+  {
+    "input_process": "Which organizations were founded in 1950? <extra_id_89> <extra_id_89> <extra_id_83> organization <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> inception",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> subclass of * <extra_id_83> organization <extra_id_68> <extra_id_71> <extra_id_84> instance of <extra_id_70> <extra_id_68> <extra_id_71> <extra_id_84> inception <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_59> <extra_id_31> str <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_61> \"1950\" <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Who created the comic Captain America? <extra_id_89> <extra_id_89> <extra_id_83> Captain America <extra_id_89> <extra_id_84> creator",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Captain America <extra_id_84> creator <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me the Apollo 14 astronauts. <extra_id_89> <extra_id_89> <extra_id_83> Apollo 14 <extra_id_89> <extra_id_84> crew member(s)",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Apollo 14 <extra_id_84> crew member(s) <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who wrote the book The pillars of the Earth? <extra_id_89> <extra_id_89> <extra_id_83> The Pillars of the Earth <extra_id_89> <extra_id_84> author",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> The Pillars of the Earth <extra_id_84> author <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which state of the United States of America has the highest density? <extra_id_89> <extra_id_89> <extra_id_83> U.S. state <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> area <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_72> <extra_id_49> <extra_id_63> <extra_id_72> <extra_id_84> instance of <extra_id_83> U.S. state <extra_id_68> <extra_id_72> <extra_id_84> area <extra_id_69> <extra_id_68> <extra_id_72> <extra_id_84> population <extra_id_71> <extra_id_68> bind <extra_id_31> <extra_id_31> <extra_id_71> / <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Which spaceflights were launched from Baikonur? <extra_id_89> <extra_id_89> <extra_id_83> Baikonur Cosmodrome <extra_id_89> <extra_id_84> start point",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> start point <extra_id_83> Baikonur Cosmodrome <extra_id_45>"
+  },
+  {
+    "input_process": "Give me a list of all trumpet players that were bandleaders. <extra_id_89> <extra_id_89> <extra_id_83> conductor <extra_id_89> <extra_id_83> trumpet <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> instrument",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> occupation <extra_id_83> conductor <extra_id_68> <extra_id_69> <extra_id_84> instrument <extra_id_83> trumpet <extra_id_45>"
+  },
+  {
+    "input_process": "Which U.S. states are in the same timezone as Utah? <extra_id_89> <extra_id_89> <extra_id_83> Utah <extra_id_89> <extra_id_83> U.S. state <extra_id_89> <extra_id_83> Utah <extra_id_89> <extra_id_84> located in time zone <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> located in time zone",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Utah <extra_id_84> located in time zone <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_84> instance of <extra_id_83> U.S. state <extra_id_68> <extra_id_70> <extra_id_84> located in time zone <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_70> ! <extra_id_67> <extra_id_83> Utah <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the daughter of Ingrid Bergman married to? <extra_id_89> <extra_id_89> <extra_id_83> Ingrid Bergman <extra_id_89> <extra_id_84> child <extra_id_89> <extra_id_84> spouse",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Ingrid Bergman <extra_id_84> child <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> spouse <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Show me all museums in London. <extra_id_89> <extra_id_89> <extra_id_83> museum <extra_id_89> <extra_id_83> London <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> location",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> museum <extra_id_68> <extra_id_69> <extra_id_84> location <extra_id_83> London <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the tallest player of the Atlanta Falcons? <extra_id_89> <extra_id_89> <extra_id_83> Atlanta Falcons <extra_id_89> <extra_id_84> member of sports team <extra_id_89> <extra_id_84> height",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> member of sports team <extra_id_83> Atlanta Falcons <extra_id_68> <extra_id_70> <extra_id_84> height <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Give me all writers that won the Nobel Prize in literature. <extra_id_89> <extra_id_89> <extra_id_83> writer <extra_id_89> <extra_id_83> Nobel Prize in Literature <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> award received",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> occupation <extra_id_83> writer <extra_id_68> <extra_id_69> <extra_id_84> award received <extra_id_83> Nobel Prize in Literature <extra_id_45>"
+  },
+  {
+    "input_process": "Show me all basketball players that are higher than 2 meters. <extra_id_89> <extra_id_89> <extra_id_83> basketball player <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> height",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> occupation <extra_id_83> basketball player <extra_id_68> <extra_id_70> <extra_id_84> height <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_35> 200 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "When was the Statue of Liberty built? <extra_id_89> <extra_id_89> <extra_id_83> Statue of Liberty <extra_id_89> <extra_id_84> inception",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Statue of Liberty <extra_id_84> inception <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which states border Illinois? <extra_id_89> <extra_id_89> <extra_id_83> Illinois <extra_id_89> <extra_id_84> shares border with",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Illinois <extra_id_84> shares border with <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who developed Minecraft? <extra_id_89> <extra_id_89> <extra_id_83> Minecraft <extra_id_89> <extra_id_84> developer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Minecraft <extra_id_84> developer <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Where did Hillel Slovak die? <extra_id_89> <extra_id_89> <extra_id_83> Hillel Slovak <extra_id_89> <extra_id_84> place of death",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Hillel Slovak <extra_id_84> place of death <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What movies does Jesse Eisenberg play in? <extra_id_89> <extra_id_89> <extra_id_83> Jesse Eisenberg <extra_id_89> <extra_id_84> cast member",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> cast member <extra_id_83> Jesse Eisenberg <extra_id_45>"
+  },
+  {
+    "input_process": "Give all swimmers that were born in Moscow. <extra_id_89> <extra_id_89> <extra_id_83> swimmer <extra_id_89> <extra_id_83> Moscow <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> place of birth",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> occupation <extra_id_83> swimmer <extra_id_68> <extra_id_69> <extra_id_84> place of birth <extra_id_83> Moscow <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all cosmonauts. <extra_id_89> <extra_id_89> <extra_id_83> astronaut <extra_id_89> <extra_id_83> Soviet Union <extra_id_89> <extra_id_83> astronaut <extra_id_89> <extra_id_83> Soviet Union <extra_id_89> <extra_id_83> astronaut <extra_id_89> <extra_id_83> Soviet Union <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> country of citizenship <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> country of citizenship <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> country of citizenship",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> occupation <extra_id_83> astronaut <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> country of citizenship <extra_id_83> Soviet Union <extra_id_69> <extra_id_84> occupation <extra_id_83> astronaut <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> country of citizenship <extra_id_83> Soviet Union <extra_id_45> union <extra_id_63> <extra_id_69> <extra_id_84> occupation <extra_id_83> astronaut <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> country of citizenship <extra_id_83> Soviet Union <extra_id_45> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all Swiss non-profit organizations. <extra_id_89> <extra_id_89> <extra_id_83> nonprofit organization <extra_id_89> <extra_id_83> Switzerland <extra_id_89> <extra_id_83> nonprofit organization <extra_id_89> <extra_id_83> Switzerland <extra_id_89> <extra_id_83> nonprofit organization <extra_id_89> <extra_id_83> Switzerland <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> headquarters location <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> headquarters location <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> headquarters location",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> nonprofit organization <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> headquarters location <extra_id_83> Switzerland <extra_id_69> <extra_id_84> instance of <extra_id_83> nonprofit organization <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> headquarters location <extra_id_83> Switzerland <extra_id_45> union <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> nonprofit organization <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> headquarters location <extra_id_83> Switzerland <extra_id_45> <extra_id_45>"
+  },
+  {
+    "input_process": "Which presidents were born in 1945? <extra_id_89> <extra_id_89> <extra_id_83> president <extra_id_89> <extra_id_84> position held <extra_id_89> <extra_id_84> date of birth",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> position held <extra_id_83> president <extra_id_68> <extra_id_70> <extra_id_84> date of birth <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_67> 1945 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "What kind of music did Lou Reed play? <extra_id_89> <extra_id_89> <extra_id_83> Lou Reed <extra_id_89> <extra_id_84> genre",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Lou Reed <extra_id_84> genre <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Where do the Red Sox play? <extra_id_89> <extra_id_89> <extra_id_83> Boston Red Sox <extra_id_89> <extra_id_84> home venue",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Boston Red Sox <extra_id_84> home venue <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Show a list of soccer clubs that play in the Bundesliga. <extra_id_89> <extra_id_89> <extra_id_83> association football club <extra_id_89> <extra_id_83> Bundesliga <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> league",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> association football club <extra_id_68> <extra_id_69> <extra_id_84> league <extra_id_83> Bundesliga <extra_id_45>"
+  },
+  {
+    "input_process": "Which bridges cross the Seine? <extra_id_89> <extra_id_89> <extra_id_83> bridge <extra_id_89> <extra_id_83> Seine <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> crosses",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> bridge <extra_id_68> <extra_id_69> <extra_id_84> crosses <extra_id_83> Seine <extra_id_45>"
+  },
+  {
+    "input_process": "How many films did Hal Roach produce? <extra_id_89> <extra_id_89> <extra_id_83> Hal Roach <extra_id_89> <extra_id_84> producer",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> producer <extra_id_83> Hal Roach <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all Danish movies. <extra_id_89> <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_83> Denmark <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country of origin",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> subclass of * <extra_id_83> film <extra_id_68> <extra_id_70> <extra_id_84> instance of <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_84> country of origin <extra_id_83> Denmark <extra_id_45>"
+  },
+  {
+    "input_process": "What is the most frequent cause of death? <extra_id_89> <extra_id_89> <extra_id_84> cause of death",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> cause of death <extra_id_70> <extra_id_45> group <extra_id_33> <extra_id_70> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_51> <extra_id_69> <extra_id_42> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Who are the four youngest MVP basketball players? <extra_id_89> <extra_id_89> <extra_id_83> basketball player <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> date of birth <extra_id_89> <extra_id_84> award received",
+    "target_process": "<extra_id_36> <extra_id_72> <extra_id_49> <extra_id_63> <extra_id_72> <extra_id_84> occupation <extra_id_83> basketball player <extra_id_68> <extra_id_72> <extra_id_84> date of birth <extra_id_71> <extra_id_68> <extra_id_72> <extra_id_84> award received <extra_id_69> <extra_id_68> <extra_id_69> rdfs: label ?vr0label <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> str <extra_id_31> ?vr0label <extra_id_42> <extra_id_61> \"mvp\" <extra_id_42> | | <extra_id_59> <extra_id_31> str <extra_id_31> ?vr0label <extra_id_42> <extra_id_61> \"most valuable player\" <extra_id_42> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> langmatches <extra_id_31> <extra_id_43> <extra_id_31> ?vr0label <extra_id_42> <extra_id_61> \"en\" <extra_id_42> <extra_id_42> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_38> 4"
+  },
+  {
+    "input_process": "Give me all companies in Munich. <extra_id_89> <extra_id_89> <extra_id_83> business <extra_id_89> <extra_id_83> Munich <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> headquarters location",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> subclass of * <extra_id_83> business <extra_id_68> <extra_id_70> <extra_id_84> instance of <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_84> headquarters location <extra_id_83> Munich <extra_id_45>"
+  },
+  {
+    "input_process": "Give me the capitals of all countries that the Himalayas run through. <extra_id_89> <extra_id_89> <extra_id_83> Himalayas <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> capital",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Himalayas <extra_id_84> country <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> capital <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "How many movies did Park Chan-wook direct? <extra_id_89> <extra_id_89> <extra_id_83> Park Chan-wook <extra_id_89> <extra_id_84> director",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_51> <extra_id_70> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> director <extra_id_83> Park Chan-wook <extra_id_45>"
+  },
+  {
+    "input_process": "Which rivers flow into a German lake? <extra_id_89> <extra_id_89> <extra_id_83> river <extra_id_89> <extra_id_83> lake <extra_id_89> <extra_id_83> 183 <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> inflows",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> river <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> lake <extra_id_68> <extra_id_69> <extra_id_84> country <extra_id_83> 183 <extra_id_68> <extra_id_70> <extra_id_84> inflows <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "How many airlines are there? <extra_id_89> <extra_id_89> <extra_id_83> airline <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_51> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> airline <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all islands that belong to Japan. <extra_id_89> <extra_id_89> <extra_id_83> island <extra_id_89> <extra_id_83> Japan <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> island <extra_id_68> <extra_id_69> <extra_id_84> country <extra_id_83> Japan <extra_id_45>"
+  },
+  {
+    "input_process": "How many inhabitants does Maribor have? <extra_id_89> <extra_id_89> <extra_id_83> Maribor <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Maribor <extra_id_84> population <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all Apollo 14 astronauts. <extra_id_89> <extra_id_89> <extra_id_83> Apollo 14 <extra_id_89> <extra_id_84> crew member(s)",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Apollo 14 <extra_id_84> crew member(s) <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which companies have more than 1 million employees? <extra_id_89> <extra_id_89> <extra_id_83> business <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> employees",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> subclass of * <extra_id_83> business <extra_id_68> <extra_id_71> <extra_id_84> instance of <extra_id_70> <extra_id_68> <extra_id_71> <extra_id_84> employees <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_35> 1000000 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "In which films directed by Garry Marshall was Julia Roberts starring? <extra_id_89> <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_83> Garry Marshall <extra_id_89> <extra_id_83> Julia Roberts <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> director <extra_id_89> <extra_id_84> cast member",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> film <extra_id_68> <extra_id_69> <extra_id_84> director <extra_id_83> Garry Marshall <extra_id_68> <extra_id_69> <extra_id_84> cast member <extra_id_83> Julia Roberts <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all soccer clubs in the Premier League. <extra_id_89> <extra_id_89> <extra_id_83> association football club <extra_id_89> <extra_id_83> Premier League <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> league",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> association football club <extra_id_68> <extra_id_69> <extra_id_84> league <extra_id_83> Premier League <extra_id_45>"
+  },
+  {
+    "input_process": "What is the highest place of the Urals? <extra_id_89> <extra_id_89> <extra_id_83> Ural Mountains <extra_id_89> <extra_id_84> highest point",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Ural Mountains <extra_id_84> highest point <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the governor of Wyoming? <extra_id_89> <extra_id_89> <extra_id_83> Wyoming <extra_id_89> <extra_id_84> head of government",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Wyoming <extra_id_84> head of government <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Where did the architect of the Eiffel Tower study? <extra_id_89> <extra_id_89> <extra_id_83> Eiffel Tower <extra_id_89> <extra_id_84> architect <extra_id_89> <extra_id_84> educated at",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Eiffel Tower <extra_id_84> architect <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> educated at <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all world heritage sites designated within the past two years. <extra_id_89> <extra_id_89> <extra_id_83> UNESCO World Heritage Site <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> time of discovery or invention",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_71> <extra_id_84> instance of <extra_id_83> UNESCO World Heritage Site <extra_id_68> <extra_id_71> <extra_id_84> time of discovery or invention <extra_id_70> <extra_id_68> bind <extra_id_31> xsd: integer <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_42> <extra_id_60> <extra_id_72> <extra_id_42> <extra_id_68> bind <extra_id_31> xsd: integer <extra_id_31> <extra_id_44> <extra_id_31> now <extra_id_31> <extra_id_42> <extra_id_42> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_72> <extra_id_56> <extra_id_69> && <extra_id_72> <extra_id_56> <extra_id_31> <extra_id_69> - 2 <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all actors who were born in Paris after 1950. <extra_id_89> <extra_id_89> <extra_id_83> actor <extra_id_89> <extra_id_83> Paris <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> date of birth",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_71> <extra_id_84> occupation <extra_id_83> actor <extra_id_68> <extra_id_71> <extra_id_84> place of birth <extra_id_83> Paris <extra_id_68> <extra_id_71> <extra_id_84> date of birth <extra_id_69> <extra_id_68> bind <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_70> <extra_id_35> 1950 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Which movies star both Liz Taylor and Richard Burton? <extra_id_89> <extra_id_89> <extra_id_83> Elizabeth Taylor <extra_id_89> <extra_id_83> Richard Burton <extra_id_89> <extra_id_84> cast member <extra_id_89> <extra_id_84> cast member",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> cast member <extra_id_83> Elizabeth Taylor <extra_id_68> <extra_id_69> <extra_id_84> cast member <extra_id_83> Richard Burton <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all Australian nonprofit organizations. <extra_id_89> <extra_id_89> <extra_id_83> nonprofit organization <extra_id_89> <extra_id_83> Australia <extra_id_89> <extra_id_83> nonprofit organization <extra_id_89> <extra_id_83> Australia <extra_id_89> <extra_id_83> nonprofit organization <extra_id_89> <extra_id_83> Australia <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> headquarters location <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> headquarters location <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> headquarters location <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> nonprofit organization <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> headquarters location | <extra_id_84> country <extra_id_83> Australia <extra_id_69> <extra_id_84> instance of <extra_id_83> nonprofit organization <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> headquarters location | <extra_id_84> country <extra_id_83> Australia <extra_id_45> union <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> nonprofit organization <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> headquarters location | <extra_id_84> country <extra_id_83> Australia <extra_id_45> <extra_id_45>"
+  },
+  {
+    "input_process": "Which pope succeeded John Paul II? <extra_id_89> <extra_id_89> <extra_id_83> John Paul II <extra_id_89> <extra_id_83> pope <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> replaced by",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> John Paul II <extra_id_86> position held <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> position held <extra_id_83> pope <extra_id_68> <extra_id_69> <extra_id_87> replaced by <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Who was president of Pakistan in 1978? <extra_id_89> <extra_id_89> <extra_id_83> President of Pakistan <extra_id_89> <extra_id_84> position held <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_87> start time <extra_id_89> <extra_id_87> end time",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_72> <extra_id_49> <extra_id_63> <extra_id_72> <extra_id_84> position held <extra_id_83> President of Pakistan <extra_id_68> <extra_id_72> <extra_id_86> position held <extra_id_71> <extra_id_68> <extra_id_71> <extra_id_87> start time <extra_id_70> <extra_id_68> <extra_id_71> <extra_id_87> end time <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_56> <extra_id_67> 1978 && <extra_id_44> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_35> <extra_id_67> 1978 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the owner of Rolls-Royce? <extra_id_89> <extra_id_89> <extra_id_83> Rolls-Royce <extra_id_89> <extra_id_84> owned by",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Rolls-Royce <extra_id_84> owned by <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "How many museums does Paris have? <extra_id_89> <extra_id_89> <extra_id_83> museum <extra_id_89> <extra_id_83> Paris <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> located in the administrative territorial entity",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> museum <extra_id_68> <extra_id_69> <extra_id_84> located in the administrative territorial entity <extra_id_83> Paris <extra_id_45>"
+  },
+  {
+    "input_process": "Where was JFK assassinated? <extra_id_89> <extra_id_89> <extra_id_83> John F. Kennedy <extra_id_89> <extra_id_84> place of death",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> John F. Kennedy <extra_id_84> place of death <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all federal chancellors of Germany. <extra_id_89> <extra_id_89> <extra_id_83> Federal Chancellor of Germany <extra_id_89> <extra_id_84> position held",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> position held <extra_id_83> Federal Chancellor of Germany <extra_id_45>"
+  },
+  {
+    "input_process": "Which beer originated in Ireland? <extra_id_89> <extra_id_89> <extra_id_83> beer <extra_id_89> <extra_id_83> q15075508 <extra_id_89> <extra_id_83> beer <extra_id_89> <extra_id_83> q15075508 <extra_id_89> <extra_id_83> Republic of Ireland <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> values <extra_id_69> <extra_id_63> <extra_id_83> beer <extra_id_83> q15075508 values <extra_id_69> <extra_id_63> <extra_id_83> beer <extra_id_83> q15075508 <extra_id_45> <extra_id_70> <extra_id_84> instance of <extra_id_69> ; <extra_id_84> country <extra_id_83> Republic of Ireland <extra_id_68> <extra_id_45>"
+  },
+  {
+    "input_process": "To which countries does the Himalayan mountain system extend? <extra_id_89> <extra_id_89> <extra_id_83> Himalayas <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Himalayas <extra_id_84> country <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which actors were born in Germany? <extra_id_89> <extra_id_89> <extra_id_83> film actor <extra_id_89> <extra_id_83> Germany <extra_id_89> <extra_id_83> film actor <extra_id_89> <extra_id_83> Germany <extra_id_89> <extra_id_83> film actor <extra_id_89> <extra_id_83> Germany <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> place of birth",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> occupation <extra_id_83> film actor <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> place of birth <extra_id_83> Germany <extra_id_69> <extra_id_84> occupation <extra_id_83> film actor <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> place of birth <extra_id_83> Germany <extra_id_45> union <extra_id_63> <extra_id_69> <extra_id_84> occupation <extra_id_83> film actor <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> place of birth <extra_id_83> Germany <extra_id_45> <extra_id_45>"
+  },
+  {
+    "input_process": "Who produced the most films? <extra_id_89> <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> producer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> film <extra_id_68> <extra_id_69> <extra_id_84> producer <extra_id_70> <extra_id_45> group <extra_id_33> <extra_id_70> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "How many employees does Google have? <extra_id_89> <extra_id_89> <extra_id_83> Google <extra_id_89> <extra_id_84> employees",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Google <extra_id_84> employees <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all actors who were born in Berlin. <extra_id_89> <extra_id_89> <extra_id_83> actor <extra_id_89> <extra_id_83> Berlin <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> place of birth",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> occupation <extra_id_83> actor <extra_id_68> <extra_id_69> <extra_id_84> place of birth <extra_id_83> Berlin <extra_id_45>"
+  },
+  {
+    "input_process": "Who created Goofy? <extra_id_89> <extra_id_89> <extra_id_83> Goofy <extra_id_89> <extra_id_84> creator",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Goofy <extra_id_84> creator <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which music albums contain the song Last Christmas? <extra_id_89> <extra_id_89> <extra_id_83> Last Christmas <extra_id_89> <extra_id_83> Last Christmas <extra_id_89> <extra_id_83> Last Christmas <extra_id_89> <extra_id_83> Last Christmas <extra_id_89> <extra_id_83> Last Christmas <extra_id_89> <extra_id_84> part of <extra_id_89> <extra_id_84> part of <extra_id_89> <extra_id_84> part of <extra_id_89> <extra_id_84> part of <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> form of creative work <extra_id_89> <extra_id_84> tracklist",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_63> <extra_id_83> Last Christmas <extra_id_84> part of <extra_id_70> <extra_id_63> <extra_id_83> Last Christmas <extra_id_84> part of <extra_id_70> <extra_id_45> union <extra_id_63> <extra_id_63> <extra_id_83> Last Christmas <extra_id_84> part of <extra_id_70> <extra_id_63> <extra_id_83> Last Christmas <extra_id_84> part of <extra_id_70> <extra_id_45> <extra_id_70> <extra_id_84> instance of | <extra_id_84> form of creative work <extra_id_69> ; <extra_id_84> tracklist <extra_id_83> Last Christmas <extra_id_68> <extra_id_45> <extra_id_45>"
+  },
+  {
+    "input_process": "When was Alberta admitted as province? <extra_id_89> <extra_id_89> <extra_id_83> Alberta <extra_id_89> <extra_id_84> inception",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Alberta <extra_id_84> inception <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "How many missions does the Soyuz programme have? <extra_id_89> <extra_id_89> <extra_id_83> Soyuz programme <extra_id_89> <extra_id_84> part of",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_51> <extra_id_70> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> part of <extra_id_83> Soyuz programme <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all the TV shows with Neil Patrick Harris. <extra_id_89> <extra_id_89> <extra_id_83> television program <extra_id_89> <extra_id_83> Neil Patrick Harris <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> cast member <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> subclass of * <extra_id_83> television program <extra_id_68> <extra_id_70> <extra_id_84> cast member <extra_id_83> Neil Patrick Harris <extra_id_68> <extra_id_70> <extra_id_84> instance of <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "When were the Hells Angels founded? <extra_id_89> <extra_id_89> <extra_id_83> Hells Angels <extra_id_89> <extra_id_84> inception",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Hells Angels <extra_id_84> inception <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the net income of Apple? <extra_id_89> <extra_id_89> <extra_id_83> Apple <extra_id_89> <extra_id_84> net profit",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Apple <extra_id_84> net profit <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all Swedish holidays. <extra_id_89> <extra_id_89> <extra_id_83> public holidays in Sweden <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> public holidays in Sweden <extra_id_45>"
+  },
+  {
+    "input_process": "In which city was the former Dutch queen Juliana buried? <extra_id_89> <extra_id_89> <extra_id_83> Juliana of the Netherlands <extra_id_89> <extra_id_84> place of burial",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Juliana of the Netherlands <extra_id_84> place of burial <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "List all the musicals with music by Leonard Bernstein. <extra_id_89> <extra_id_89> <extra_id_83> musical <extra_id_89> <extra_id_83> Leonard Bernstein <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> composer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> musical <extra_id_68> <extra_id_69> <extra_id_84> composer <extra_id_83> Leonard Bernstein <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all companies in the advertising industry. <extra_id_89> <extra_id_89> <extra_id_83> business <extra_id_89> <extra_id_83> marketing <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> industry",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> business <extra_id_68> <extra_id_69> <extra_id_84> industry <extra_id_83> marketing <extra_id_45>"
+  },
+  {
+    "input_process": "Who killed John Lennon? <extra_id_89> <extra_id_89> <extra_id_83> John Lennon <extra_id_89> <extra_id_84> killed by",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> John Lennon <extra_id_84> killed by <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which writers studied in Istanbul? <extra_id_89> <extra_id_89> <extra_id_83> writer <extra_id_89> <extra_id_83> Istanbul <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> educated at",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> occupation <extra_id_83> writer <extra_id_68> <extra_id_69> <extra_id_84> educated at <extra_id_83> Istanbul <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all Australian metalcore bands. <extra_id_89> <extra_id_89> <extra_id_83> musical group <extra_id_89> <extra_id_83> Australia <extra_id_89> <extra_id_83> metalcore <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country of origin <extra_id_89> <extra_id_84> genre",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> musical group <extra_id_68> <extra_id_69> <extra_id_84> country of origin <extra_id_83> Australia <extra_id_68> <extra_id_69> <extra_id_84> genre <extra_id_83> metalcore <extra_id_45>"
+  },
+  {
+    "input_process": "Which countries adopted the Euro? <extra_id_89> <extra_id_89> <extra_id_83> country <extra_id_89> <extra_id_83> euro <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> currency",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> country <extra_id_68> <extra_id_69> <extra_id_84> currency <extra_id_83> euro <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all types of eating disorders. <extra_id_89> <extra_id_89> <extra_id_83> eating disorder <extra_id_89> <extra_id_84> subclass of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> subclass of <extra_id_83> eating disorder <extra_id_45>"
+  },
+  {
+    "input_process": "Was Marc Chagall a jew? <extra_id_89> <extra_id_89> <extra_id_83> Marc Chagall <extra_id_89> <extra_id_83> Jewish people <extra_id_89> <extra_id_84> ethnic group",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Marc Chagall <extra_id_84> ethnic group <extra_id_83> Jewish people <extra_id_45>"
+  },
+  {
+    "input_process": "What was Brazil's lowest rank in the FIFA World Ranking? <extra_id_89> <extra_id_89> <extra_id_83> Brazil national football team <extra_id_89> <extra_id_83> FIFA World Rankings <extra_id_89> <extra_id_86> ranking <extra_id_89> <extra_id_85> ranking <extra_id_89> <extra_id_87> determination method",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Brazil national football team <extra_id_86> ranking <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_87> determination method <extra_id_83> FIFA World Rankings <extra_id_68> <extra_id_69> <extra_id_85> ranking <extra_id_70> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "How many films did Leonardo DiCaprio star in? <extra_id_89> <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_83> Leonardo DiCaprio <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> cast member",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_51> <extra_id_70> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> film <extra_id_68> <extra_id_70> <extra_id_84> cast member <extra_id_83> Leonardo DiCaprio <extra_id_45>"
+  },
+  {
+    "input_process": "Was Margaret Thatcher a chemist? <extra_id_89> <extra_id_89> <extra_id_83> Margaret Thatcher <extra_id_89> <extra_id_83> chemist <extra_id_89> <extra_id_84> occupation",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Margaret Thatcher <extra_id_84> occupation <extra_id_83> chemist <extra_id_45>"
+  },
+  {
+    "input_process": "Which U.S. states are in the same time zone as Utah? <extra_id_89> <extra_id_89> <extra_id_83> Utah <extra_id_89> <extra_id_83> U.S. state <extra_id_89> <extra_id_83> Utah <extra_id_89> <extra_id_84> located in time zone <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> located in time zone",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Utah <extra_id_84> located in time zone <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_84> instance of <extra_id_83> U.S. state <extra_id_68> <extra_id_70> <extra_id_84> located in time zone <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_70> ! <extra_id_67> <extra_id_83> Utah <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all books written by Danielle Steel. <extra_id_89> <extra_id_89> <extra_id_83> book <extra_id_89> <extra_id_83> Danielle Steel <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> author",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> book <extra_id_68> <extra_id_69> <extra_id_84> author <extra_id_83> Danielle Steel <extra_id_45>"
+  },
+  {
+    "input_process": "Which country has the most official languages? <extra_id_89> <extra_id_89> <extra_id_83> country <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> official language",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> country <extra_id_68> <extra_id_70> <extra_id_84> official language <extra_id_69> <extra_id_45> group <extra_id_33> <extra_id_70> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Which actor played Chewbacca? <extra_id_89> <extra_id_89> <extra_id_83> Chewbacca <extra_id_89> <extra_id_84> performer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Chewbacca <extra_id_84> performer <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all libraries established earlier than 1400. <extra_id_89> <extra_id_89> <extra_id_83> library <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> inception",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> library <extra_id_68> <extra_id_70> <extra_id_84> inception <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_56> 1400 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Which programming languages were influenced by Perl? <extra_id_89> <extra_id_89> <extra_id_83> programming language <extra_id_89> <extra_id_83> Perl <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> influenced by",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> programming language <extra_id_68> <extra_id_69> <extra_id_84> influenced by <extra_id_83> Perl <extra_id_45>"
+  },
+  {
+    "input_process": "In which U.S. state is Mount McKinley located? <extra_id_89> <extra_id_89> <extra_id_83> Denali <extra_id_89> <extra_id_84> located in the administrative territorial entity",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Denali <extra_id_84> located in the administrative territorial entity <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What airlines are part of the SkyTeam alliance? <extra_id_89> <extra_id_89> <extra_id_83> SkyTeam <extra_id_89> <extra_id_84> airline alliance",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> airline alliance <extra_id_83> SkyTeam <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all Methodist politicians. <extra_id_89> <extra_id_89> <extra_id_83> politician <extra_id_89> <extra_id_83> Methodism <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> religion or worldview",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> occupation <extra_id_83> politician <extra_id_68> <extra_id_69> <extra_id_84> religion or worldview <extra_id_83> Methodism <extra_id_45>"
+  },
+  {
+    "input_process": "What other books have been written by the author of The Fault in Our Stars? <extra_id_89> <extra_id_89> <extra_id_83> The Fault in Our Stars <extra_id_89> <extra_id_83> The Fault in Our Stars <extra_id_89> <extra_id_84> author <extra_id_89> <extra_id_84> author",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> The Fault in Our Stars <extra_id_84> author <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_84> author <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_70> ! <extra_id_67> <extra_id_83> The Fault in Our Stars <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the highest mountain? <extra_id_89> <extra_id_89> <extra_id_83> mountain <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> elevation above sea level",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> mountain <extra_id_68> <extra_id_70> <extra_id_84> elevation above sea level <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Which poet wrote the most books? <extra_id_89> <extra_id_89> <extra_id_83> poet <extra_id_89> <extra_id_83> book <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> author <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> occupation <extra_id_83> poet <extra_id_68> <extra_id_70> <extra_id_84> author <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_84> instance of <extra_id_83> book <extra_id_45> group <extra_id_33> <extra_id_69> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_42> offset 0 <extra_id_38> 1"
+  },
+  {
+    "input_process": "Which programming languages influenced Javascript? <extra_id_89> <extra_id_89> <extra_id_83> JavaScript <extra_id_89> <extra_id_84> influenced by",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> JavaScript <extra_id_84> influenced by <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which musician wrote the most books? <extra_id_89> <extra_id_89> <extra_id_83> musician <extra_id_89> <extra_id_83> book <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> author",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> occupation <extra_id_83> musician <extra_id_68> <extra_id_70> <extra_id_84> instance of <extra_id_83> book <extra_id_68> <extra_id_70> <extra_id_84> author <extra_id_69> <extra_id_45> group <extra_id_33> <extra_id_69> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Which films starring Clint Eastwood did he direct himself? <extra_id_89> <extra_id_89> <extra_id_83> Clint Eastwood <extra_id_89> <extra_id_83> Clint Eastwood <extra_id_89> <extra_id_84> director <extra_id_89> <extra_id_84> cast member",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> director <extra_id_83> Clint Eastwood <extra_id_68> <extra_id_69> <extra_id_84> cast member <extra_id_83> Clint Eastwood <extra_id_45>"
+  },
+  {
+    "input_process": "Which software has been developed by organizations founded in California? <extra_id_89> <extra_id_89> <extra_id_83> software category <extra_id_89> <extra_id_83> business <extra_id_89> <extra_id_83> California <extra_id_89> <extra_id_84> developer <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> location of formation",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_71> <extra_id_84> developer <extra_id_69> <extra_id_68> <extra_id_71> <extra_id_84> instance of * <extra_id_83> software category <extra_id_68> <extra_id_70> <extra_id_84> subclass of * <extra_id_83> business <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_84> location of formation <extra_id_83> California <extra_id_45>"
+  },
+  {
+    "input_process": "Which instruments does Cat Stevens play? <extra_id_89> <extra_id_89> <extra_id_83> Cat Stevens <extra_id_89> <extra_id_84> instrument",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Cat Stevens <extra_id_84> instrument <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "How many airlines are members of the Star Alliance? <extra_id_89> <extra_id_89> <extra_id_83> Star Alliance <extra_id_89> <extra_id_84> airline alliance",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_51> <extra_id_70> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> airline alliance <extra_id_83> Star Alliance <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all actors called Baldwin. <extra_id_89> <extra_id_89> <extra_id_83> actor <extra_id_89> <extra_id_84> occupation",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> occupation <extra_id_83> actor <extra_id_68> <extra_id_70> rdfs: label <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_69> <extra_id_61> <extra_id_52> <extra_id_31> <extra_id_59> <extra_id_31> <extra_id_69> <extra_id_61> \"baldwin\" <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Who wrote The Hunger Games? <extra_id_89> <extra_id_89> <extra_id_83> The Hunger Games <extra_id_89> <extra_id_84> author",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> The Hunger Games <extra_id_84> author <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "For which label did Elvis record his first album? <extra_id_89> <extra_id_89> <extra_id_83> Elvis Presley's albums in chronological order <extra_id_89> <extra_id_84> has part(s) <extra_id_89> <extra_id_84> publication date <extra_id_89> <extra_id_84> record label",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Elvis Presley's albums in chronological order <extra_id_84> has part(s) <extra_id_71> <extra_id_68> <extra_id_71> <extra_id_84> publication date <extra_id_69> <extra_id_68> <extra_id_71> <extra_id_84> record label <extra_id_70> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_69> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Is Christian Bale starring in Batman Begins? <extra_id_89> <extra_id_89> <extra_id_83> Batman Begins <extra_id_89> <extra_id_83> Christian Bale <extra_id_89> <extra_id_84> cast member",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Batman Begins <extra_id_84> cast member <extra_id_83> Christian Bale <extra_id_45>"
+  },
+  {
+    "input_process": "Where is the residence of the prime minister of Spain? <extra_id_89> <extra_id_89> <extra_id_83> Prime Minister of Spain <extra_id_89> <extra_id_84> official residence",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Prime Minister of Spain <extra_id_84> official residence <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which actor was casted in the most movies? <extra_id_89> <extra_id_89> <extra_id_83> actor <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> cast member",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> occupation <extra_id_83> actor <extra_id_68> <extra_id_69> <extra_id_84> cast member <extra_id_70> <extra_id_45> group <extra_id_33> <extra_id_70> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_51> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_42> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Which countries have more than two official languages? <extra_id_89> <extra_id_89> <extra_id_83> country <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> official language",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> country <extra_id_68> <extra_id_70> <extra_id_84> official language <extra_id_69> <extra_id_45> group <extra_id_33> <extra_id_70> having <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_69> <extra_id_42> >2 <extra_id_42>"
+  },
+  {
+    "input_process": "Show me all songs from Bruce Springsteen released between 1980 and 1990. <extra_id_89> <extra_id_89> <extra_id_83> song <extra_id_89> <extra_id_83> Bruce Springsteen <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> publication date <extra_id_89> <extra_id_84> performer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> song <extra_id_68> <extra_id_70> <extra_id_84> publication date <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_84> performer <extra_id_83> Bruce Springsteen <extra_id_68> bind <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_71> <extra_id_42> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_71> <extra_id_35> <extra_id_67> 1980 && <extra_id_71> <extra_id_56> <extra_id_67> 1990 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Which television shows were created by John Cleese? <extra_id_89> <extra_id_89> <extra_id_83> television series <extra_id_89> <extra_id_83> John Cleese <extra_id_89> <extra_id_83> television series <extra_id_89> <extra_id_83> John Cleese <extra_id_89> <extra_id_83> television series <extra_id_89> <extra_id_83> John Cleese <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> creator <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> creator <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> creator",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> television series <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> creator <extra_id_83> John Cleese <extra_id_69> <extra_id_84> instance of <extra_id_83> television series <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> creator <extra_id_83> John Cleese <extra_id_45> union <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> television series <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> creator <extra_id_83> John Cleese <extra_id_45> <extra_id_45>"
+  },
+  {
+    "input_process": "When did Latvia join the EU? <extra_id_89> <extra_id_89> <extra_id_83> Latvia <extra_id_89> <extra_id_83> European Union <extra_id_89> <extra_id_86> member of <extra_id_89> <extra_id_85> member of <extra_id_89> <extra_id_87> start time",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Latvia <extra_id_86> member of <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_85> member of <extra_id_83> European Union <extra_id_68> <extra_id_70> <extra_id_87> start time <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which soccer players were born on Malta? <extra_id_89> <extra_id_89> <extra_id_83> association football player <extra_id_89> <extra_id_83> Malta <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> occupation <extra_id_83> association football player <extra_id_68> <extra_id_70> <extra_id_84> place of birth <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> country <extra_id_83> Malta <extra_id_45>"
+  },
+  {
+    "input_process": "How many politicians graduated from Columbia University? <extra_id_89> <extra_id_89> <extra_id_83> politician <extra_id_89> <extra_id_83> Columbia University <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> educated at",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_51> <extra_id_70> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> occupation <extra_id_83> politician <extra_id_68> <extra_id_70> <extra_id_84> educated at <extra_id_83> Columbia University <extra_id_45>"
+  },
+  {
+    "input_process": "Give me the birthdays of all actors of the television show Charmed. <extra_id_89> <extra_id_89> <extra_id_83> Charmed <extra_id_89> <extra_id_84> cast member",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Charmed <extra_id_84> cast member <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which telecommunications organizations are located in Belgium? <extra_id_89> <extra_id_89> <extra_id_83> organization <extra_id_89> <extra_id_83> organization <extra_id_89> <extra_id_83> organization <extra_id_89> <extra_id_83> telecommunication <extra_id_89> <extra_id_83> Belgium <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> industry <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> organization <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> organization <extra_id_45> union <extra_id_63> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> organization <extra_id_45> <extra_id_68> <extra_id_69> <extra_id_84> industry <extra_id_83> telecommunication <extra_id_68> <extra_id_69> <extra_id_84> country <extra_id_83> Belgium <extra_id_68> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me a list of all lakes in Denmark. <extra_id_89> <extra_id_89> <extra_id_83> lake <extra_id_89> <extra_id_83> Denmark <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> lake <extra_id_68> <extra_id_69> <extra_id_84> country <extra_id_83> Denmark <extra_id_45>"
+  },
+  {
+    "input_process": "How many children does Eddie Murphy have? <extra_id_89> <extra_id_89> <extra_id_83> Eddie Murphy <extra_id_89> <extra_id_84> child",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_51> <extra_id_70> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_83> Eddie Murphy <extra_id_84> child <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Show me all English Gothic buildings in Kent. <extra_id_89> <extra_id_89> <extra_id_83> Gothic architecture <extra_id_89> <extra_id_83> Kent <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> architectural style <extra_id_89> <extra_id_84> historic county",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> subclass of * <extra_id_83> Gothic architecture <extra_id_68> <extra_id_70> <extra_id_84> architectural style <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_84> historic county <extra_id_83> Kent <extra_id_45>"
+  },
+  {
+    "input_process": "In which countries can you pay using the West African CFA franc? <extra_id_89> <extra_id_89> <extra_id_83> West African CFA franc <extra_id_89> <extra_id_84> currency",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> currency <extra_id_83> West African CFA franc <extra_id_45>"
+  },
+  {
+    "input_process": "Which holidays are celebrated around the world? <extra_id_89> <extra_id_89> <extra_id_83> holiday <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> subclass of * <extra_id_83> holiday <extra_id_68> <extra_id_70> <extra_id_84> instance of <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which organizations were founded in 1930? <extra_id_89> <extra_id_89> <extra_id_83> organization <extra_id_89> <extra_id_84> inception <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> located in the administrative territorial entity",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> inception <extra_id_70> <extra_id_68> <extra_id_69> <extra_id_84> instance of / <extra_id_84> located in the administrative territorial entity * <extra_id_83> organization <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_67> 1930 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the birth name of Angela Merkel? <extra_id_89> <extra_id_89> <extra_id_83> Angela Merkel <extra_id_89> <extra_id_84> birth name",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Angela Merkel <extra_id_84> birth name <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who has Tom Cruise been married to? <extra_id_89> <extra_id_89> <extra_id_83> Tom Cruise <extra_id_89> <extra_id_84> spouse",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Tom Cruise <extra_id_84> spouse <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which weapons did Heckler & Koch develop? <extra_id_89> <extra_id_89> <extra_id_83> Heckler & Koch <extra_id_89> <extra_id_83> weapon family <extra_id_89> <extra_id_84> manufacturer <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> manufacturer <extra_id_83> Heckler & Koch <extra_id_68> <extra_id_69> <extra_id_84> subclass of * / <extra_id_84> instance of <extra_id_83> weapon family <extra_id_45>"
+  },
+  {
+    "input_process": "What is the smallest city by area in Germany? <extra_id_89> <extra_id_89> <extra_id_83> Germany <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> country <extra_id_83> Germany <extra_id_68> <extra_id_70> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> city <extra_id_68> <extra_id_70> <extra_id_84> population <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_69> <extra_id_38> 1"
+  },
+  {
+    "input_process": "What is the ruling party in Lisbon? <extra_id_89> <extra_id_89> <extra_id_83> human <extra_id_89> <extra_id_83> Mayor of Lisbon <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> member of political party <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> start time",
+    "target_process": "<extra_id_36> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> human <extra_id_68> <extra_id_70> <extra_id_86> position held _: a <extra_id_68> _: a <extra_id_85> position held <extra_id_83> Mayor of Lisbon <extra_id_68> _: a <extra_id_87> start time <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_84> member of political party <extra_id_71> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "How heavy is Jupiter's lightest moon? <extra_id_89> <extra_id_89> <extra_id_83> moon of Jupiter <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> mass",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> moon of Jupiter <extra_id_68> <extra_id_70> <extra_id_84> mass <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_69> <extra_id_38> 1"
+  },
+  {
+    "input_process": "How many employees does IBM have? <extra_id_89> <extra_id_89> <extra_id_83> IBM <extra_id_89> <extra_id_84> employees",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> IBM <extra_id_84> employees <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "List all episodes of the first season of the HBO television series The Sopranos! <extra_id_89> <extra_id_89> <extra_id_83> The Sopranos, season 1 <extra_id_89> <extra_id_84> season",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> season <extra_id_83> The Sopranos, season 1 <extra_id_45>"
+  },
+  {
+    "input_process": "Does the new Battlestar Galactica series have more episodes than the old one? <extra_id_89> <extra_id_89> <extra_id_83> Battlestar Galactica <extra_id_89> <extra_id_83> Battlestar Galactica <extra_id_89> <extra_id_84> number of episodes <extra_id_89> <extra_id_84> number of episodes",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Battlestar Galactica <extra_id_84> number of episodes <extra_id_69> <extra_id_68> <extra_id_83> Battlestar Galactica <extra_id_84> number of episodes <extra_id_70> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_35> <extra_id_70> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all films produced by Hal Roach. <extra_id_89> <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_83> Hal Roach <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> producer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> film <extra_id_68> <extra_id_69> <extra_id_84> producer <extra_id_83> Hal Roach <extra_id_45>"
+  },
+  {
+    "input_process": "Who played Agent Smith in Matrix? <extra_id_89> <extra_id_89> <extra_id_83> The Matrix <extra_id_89> <extra_id_83> Agent Smith <extra_id_89> <extra_id_86> cast member <extra_id_89> <extra_id_85> cast member <extra_id_89> <extra_id_87> character role",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> The Matrix <extra_id_86> cast member _: a <extra_id_68> _: a <extra_id_87> character role <extra_id_83> Agent Smith <extra_id_68> _: a <extra_id_85> cast member <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which Greek parties are pro-European? <extra_id_89> <extra_id_89> <extra_id_83> political party <extra_id_89> <extra_id_83> Greece <extra_id_89> <extra_id_83> pro-Europeanism <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> political ideology",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> political party <extra_id_68> <extra_id_69> <extra_id_84> country <extra_id_83> Greece <extra_id_68> <extra_id_69> <extra_id_84> political ideology <extra_id_83> pro-Europeanism <extra_id_45>"
+  },
+  {
+    "input_process": "Give me a list of all bandleaders that play trumpet. <extra_id_89> <extra_id_89> <extra_id_83> bandleader <extra_id_89> <extra_id_83> trumpet <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> instrument",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> occupation <extra_id_83> bandleader <extra_id_68> <extra_id_69> <extra_id_84> instrument <extra_id_83> trumpet <extra_id_45>"
+  },
+  {
+    "input_process": "What is the second highest mountain on Earth? <extra_id_89> <extra_id_89> <extra_id_83> mountain <extra_id_89> <extra_id_83> Earth <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> elevation above sea level <extra_id_89> <extra_id_84> continent <extra_id_89> <extra_id_84> part of",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> mountain <extra_id_68> <extra_id_70> <extra_id_84> elevation above sea level <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_84> continent / <extra_id_84> part of <extra_id_83> Earth <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1 offset 1"
+  },
+  {
+    "input_process": "Is Egypts largest city also its capital? <extra_id_89> <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_83> Egypt <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_83> Egypt <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_83> Egypt <extra_id_89> <extra_id_83> Egypt <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> population <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> population <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> population <extra_id_89> <extra_id_84> capital",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_63> <extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> city <extra_id_68> <extra_id_69> <extra_id_84> country <extra_id_83> Egypt <extra_id_68> <extra_id_69> <extra_id_84> population <extra_id_70> <extra_id_63> <extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> city <extra_id_68> <extra_id_69> <extra_id_84> country <extra_id_83> Egypt <extra_id_68> <extra_id_69> <extra_id_84> population <extra_id_70> <extra_id_63> <extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> city <extra_id_68> <extra_id_69> <extra_id_84> country <extra_id_83> Egypt <extra_id_68> <extra_id_69> <extra_id_84> population <extra_id_70> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 1 <extra_id_45> <extra_id_83> Egypt <extra_id_84> capital <extra_id_69> <extra_id_68> <extra_id_45>"
+  },
+  {
+    "input_process": "Which rockets were launched from Baikonur? <extra_id_89> <extra_id_89> <extra_id_83> rocket <extra_id_89> <extra_id_83> Baikonur Cosmodrome <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> start point",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> subclass of * <extra_id_83> rocket <extra_id_68> <extra_id_69> <extra_id_84> start point <extra_id_83> Baikonur Cosmodrome <extra_id_45>"
+  },
+  {
+    "input_process": "How many programming languages are there? <extra_id_89> <extra_id_89> <extra_id_83> programming language <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_51> <extra_id_70> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> programming language <extra_id_45>"
+  },
+  {
+    "input_process": "Which Chess players died in the same place they were born in? <extra_id_89> <extra_id_89> <extra_id_83> chess player <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> place of death <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> subclass of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> place of birth _: a <extra_id_68> <extra_id_69> <extra_id_84> place of death _: a <extra_id_68> <extra_id_69> <extra_id_84> occupation / <extra_id_84> subclass of * <extra_id_83> chess player <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the owner of Facebook? <extra_id_89> <extra_id_89> <extra_id_83> Meta Platforms <extra_id_89> <extra_id_84> owned by",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Meta Platforms <extra_id_84> owned by <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all movies with Tom Cruise. <extra_id_89> <extra_id_89> <extra_id_83> Tom Cruise <extra_id_89> <extra_id_84> cast member",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> cast member <extra_id_83> Tom Cruise <extra_id_68> <extra_id_45>"
+  },
+  {
+    "input_process": "In which U.S. state is Fort Knox located? <extra_id_89> <extra_id_89> <extra_id_83> Fort Knox <extra_id_89> <extra_id_83> U.S. state <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Fort Knox <extra_id_84> located in the administrative territorial entity + <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> U.S. state <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all cities in New Jersey with more than 100000 inhabitants. <extra_id_89> <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_83> New Jersey <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> city <extra_id_68> <extra_id_70> <extra_id_84> located in the administrative territorial entity <extra_id_83> New Jersey <extra_id_68> <extra_id_70> <extra_id_84> population <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_35> 100000 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Which mountains are higher than the Nanga Parbat? <extra_id_89> <extra_id_89> <extra_id_83> mountain <extra_id_89> <extra_id_83> Nanga Parbat <extra_id_89> <extra_id_83> metre <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> elevation above sea level <extra_id_89> <extra_id_86> elevation above sea level",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_73> <extra_id_49> <extra_id_63> <extra_id_73> <extra_id_84> instance of <extra_id_83> mountain <extra_id_68> <extra_id_73> <extra_id_86> elevation above sea level <extra_id_71> <extra_id_68> <extra_id_71> psv: elevation above sea level <extra_id_74> <extra_id_68> <extra_id_74> wikibase: quantityamount <extra_id_69> <extra_id_68> <extra_id_74> wikibase: quantityunit <extra_id_72> <extra_id_68> <extra_id_83> Nanga Parbat <extra_id_84> elevation above sea level ?vr0nangaparbat <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_72> <extra_id_67> <extra_id_83> metre <extra_id_42> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_35> ?vr0nangaparbat <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all B-sides of the Ramones. <extra_id_89> <extra_id_89> <extra_id_83> Ramones <extra_id_89> <extra_id_83> B-side <extra_id_89> <extra_id_84> performer <extra_id_89> <extra_id_86> published in <extra_id_89> <extra_id_87> subject has role",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> performer <extra_id_83> Ramones <extra_id_68> <extra_id_69> <extra_id_86> published in _: a <extra_id_68> _: a <extra_id_87> subject has role <extra_id_83> B-side <extra_id_45>"
+  },
+  {
+    "input_process": "When was Olof Palme shot? <extra_id_89> <extra_id_89> <extra_id_83> Olof Palme <extra_id_89> <extra_id_86> date of death",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Olof Palme <extra_id_86> date of death <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "List the seven kings of Rome. <extra_id_89> <extra_id_89> <extra_id_83> King of Rome <extra_id_89> <extra_id_84> position held",
+    "target_process": "<extra_id_36> * <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> position held <extra_id_83> King of Rome <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all people that were born in Vienna and died in Berlin. <extra_id_89> <extra_id_89> <extra_id_83> Vienna <extra_id_89> <extra_id_83> Berlin <extra_id_89> <extra_id_83> Vienna <extra_id_89> <extra_id_83> Berlin <extra_id_89> <extra_id_83> Vienna <extra_id_89> <extra_id_83> Berlin <extra_id_89> <extra_id_83> Vienna <extra_id_89> <extra_id_83> Berlin <extra_id_89> <extra_id_83> Vienna <extra_id_89> <extra_id_83> Berlin <extra_id_89> <extra_id_83> Vienna <extra_id_89> <extra_id_83> Berlin <extra_id_89> <extra_id_83> Vienna <extra_id_89> <extra_id_83> Berlin <extra_id_89> <extra_id_83> Vienna <extra_id_89> <extra_id_83> Berlin <extra_id_89> <extra_id_83> Vienna <extra_id_89> <extra_id_83> Berlin <extra_id_89> <extra_id_83> Vienna <extra_id_89> <extra_id_83> Berlin <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> place of death <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> place of death <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> place of death <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> place of death <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> place of death <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> place of death <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> place of death <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> place of death <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> place of death <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> place of death",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_63> <extra_id_69> <extra_id_84> place of birth / <extra_id_84> located in the administrative territorial entity * <extra_id_83> Vienna <extra_id_68> <extra_id_63> <extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> place of death <extra_id_83> Berlin <extra_id_63> <extra_id_69> <extra_id_84> place of birth / <extra_id_84> located in the administrative territorial entity * <extra_id_83> Vienna <extra_id_68> <extra_id_63> <extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> place of death <extra_id_83> Berlin <extra_id_63> <extra_id_69> <extra_id_84> place of birth / <extra_id_84> located in the administrative territorial entity * <extra_id_83> Vienna <extra_id_68> <extra_id_63> <extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> place of death <extra_id_83> Berlin <extra_id_63> <extra_id_69> <extra_id_84> place of birth / <extra_id_84> located in the administrative territorial entity * <extra_id_83> Vienna <extra_id_68> <extra_id_63> <extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> place of death <extra_id_83> Berlin <extra_id_45> <extra_id_45> <extra_id_45> union <extra_id_63> <extra_id_63> <extra_id_69> <extra_id_84> place of birth / <extra_id_84> located in the administrative territorial entity * <extra_id_83> Vienna <extra_id_68> <extra_id_63> <extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> place of death <extra_id_83> Berlin <extra_id_63> <extra_id_69> <extra_id_84> place of birth / <extra_id_84> located in the administrative territorial entity * <extra_id_83> Vienna <extra_id_68> <extra_id_63> <extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> place of death <extra_id_83> Berlin <extra_id_63> <extra_id_69> <extra_id_84> place of birth / <extra_id_84> located in the administrative territorial entity * <extra_id_83> Vienna <extra_id_68> <extra_id_63> <extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> place of death <extra_id_83> Berlin <extra_id_45> <extra_id_45> <extra_id_45> union <extra_id_63> <extra_id_63> <extra_id_69> <extra_id_84> place of birth / <extra_id_84> located in the administrative territorial entity * <extra_id_83> Vienna <extra_id_68> <extra_id_63> <extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> place of death <extra_id_83> Berlin <extra_id_63> <extra_id_69> <extra_id_84> place of birth / <extra_id_84> located in the administrative territorial entity * <extra_id_83> Vienna <extra_id_68> <extra_id_63> <extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> place of death <extra_id_83> Berlin <extra_id_63> <extra_id_69> <extra_id_84> place of birth / <extra_id_84> located in the administrative territorial entity * <extra_id_83> Vienna <extra_id_68> <extra_id_63> <extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> place of death <extra_id_83> Berlin <extra_id_45> <extra_id_45> <extra_id_45> <extra_id_45>"
+  },
+  {
+    "input_process": "Is Darth Vader Luke\u2019s father? <extra_id_89> <extra_id_89> <extra_id_83> Darth Vader <extra_id_89> <extra_id_83> Luke Skywalker <extra_id_89> <extra_id_84> child",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Darth Vader <extra_id_84> child <extra_id_83> Luke Skywalker <extra_id_45>"
+  },
+  {
+    "input_process": "Show me all the breweries in Australia. <extra_id_89> <extra_id_89> <extra_id_83> brewery <extra_id_89> <extra_id_83> Australia <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> brewery <extra_id_68> <extra_id_69> <extra_id_84> country <extra_id_83> Australia <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all films produced by Steven Spielberg with a budget of at least $80 million. <extra_id_89> <extra_id_89> <extra_id_83> Steven Spielberg <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_84> producer <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> cost",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> producer <extra_id_83> Steven Spielberg <extra_id_68> <extra_id_70> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> film <extra_id_68> <extra_id_70> <extra_id_84> cost <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_35> 80000000 <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all soccer clubs in Spain. <extra_id_89> <extra_id_89> <extra_id_83> association football club <extra_id_89> <extra_id_83> Spain <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> association football club <extra_id_68> <extra_id_69> <extra_id_84> country <extra_id_83> Spain <extra_id_45>"
+  },
+  {
+    "input_process": "Who produced films starring Natalie Portman? <extra_id_89> <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_83> Natalie Portman <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> cast member <extra_id_89> <extra_id_84> producer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> film <extra_id_68> <extra_id_69> <extra_id_84> cast member <extra_id_83> Natalie Portman <extra_id_68> <extra_id_69> <extra_id_84> producer <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all breeds of the German Shepherd dog. <extra_id_89> <extra_id_89> <extra_id_83> German Shepherd dog <extra_id_89> <extra_id_83> German Shepherd dog <extra_id_89> <extra_id_84> subclass of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> subclass of * <extra_id_83> German Shepherd dog <extra_id_52> <extra_id_31> <extra_id_69> ! <extra_id_67> <extra_id_83> German Shepherd dog <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Which languages are spoken in Estonia? <extra_id_89> <extra_id_89> <extra_id_83> Estonia <extra_id_89> <extra_id_84> language used",
+    "target_process": "<extra_id_36> * <extra_id_49> <extra_id_63> <extra_id_83> Estonia <extra_id_84> language used <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the largest country in the world? <extra_id_89> <extra_id_89> <extra_id_83> sovereign state <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> area",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> sovereign state <extra_id_68> <extra_id_70> <extra_id_84> area <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "What is the largest city in america? <extra_id_89> <extra_id_89> <extra_id_83> United States of America <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> country <extra_id_83> United States of America <extra_id_68> <extra_id_70> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> city <extra_id_68> <extra_id_70> <extra_id_84> population <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Who was the pope that founded the Vatican Television? <extra_id_89> <extra_id_89> <extra_id_83> Vatican Media <extra_id_89> <extra_id_83> pope <extra_id_89> <extra_id_83> pope <extra_id_89> <extra_id_84> inception <extra_id_89> <extra_id_84> position held <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> start time <extra_id_89> <extra_id_87> end time",
+    "target_process": "<extra_id_36> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_83> Vatican Media <extra_id_84> inception <extra_id_70> <extra_id_68> <extra_id_71> <extra_id_84> position held <extra_id_83> pope <extra_id_68> <extra_id_71> <extra_id_86> position held _: a <extra_id_68> _: a <extra_id_85> position held <extra_id_83> pope <extra_id_68> _: a <extra_id_87> start time <extra_id_72> <extra_id_68> _: a <extra_id_87> end time <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_72> <extra_id_56> <extra_id_67> <extra_id_70> && <extra_id_70> <extra_id_56> <extra_id_67> <extra_id_69> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Who discovered Ceres? <extra_id_89> <extra_id_89> <extra_id_83> Ceres <extra_id_89> <extra_id_84> discoverer or inventor",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Ceres <extra_id_84> discoverer or inventor <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the king of the Netherlands? <extra_id_89> <extra_id_89> <extra_id_83> Netherlands <extra_id_89> <extra_id_83> King of the Netherlands <extra_id_89> <extra_id_84> head of state <extra_id_89> <extra_id_84> position held",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Netherlands <extra_id_84> head of state <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> position held <extra_id_83> King of the Netherlands <extra_id_45>"
+  },
+  {
+    "input_process": "Is Cola a beverage? <extra_id_89> <extra_id_89> <extra_id_83> cola <extra_id_89> <extra_id_83> drink <extra_id_89> <extra_id_84> subclass of",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> cola <extra_id_84> subclass of + <extra_id_83> drink <extra_id_45>"
+  },
+  {
+    "input_process": "What is the alma mater of the chancellor of Germany Angela Merkel? <extra_id_89> <extra_id_89> <extra_id_83> Angela Merkel <extra_id_89> <extra_id_83> university <extra_id_89> <extra_id_84> educated at <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Angela Merkel <extra_id_84> educated at <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> university <extra_id_45>"
+  },
+  {
+    "input_process": "Who wrote the book Les Piliers de la terre? <extra_id_89> <extra_id_89> <extra_id_83> The Pillars of the Earth <extra_id_89> <extra_id_84> author",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> The Pillars of the Earth <extra_id_84> author <extra_id_69> <extra_id_68> <extra_id_45>"
+  },
+  {
+    "input_process": "Which airports does Yeti Airlines serve? <extra_id_89> <extra_id_89> <extra_id_83> Yeti Airlines <extra_id_89> <extra_id_84> airline hub",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Yeti Airlines <extra_id_84> airline hub <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Where is the birthplace of Goethe? <extra_id_89> <extra_id_89> <extra_id_83> Johann Wolfgang von Goethe <extra_id_89> <extra_id_84> place of birth",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Johann Wolfgang von Goethe <extra_id_84> place of birth <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Was the Cuban Missile Crisis earlier than the Bay of Pigs Invasion? <extra_id_89> <extra_id_89> <extra_id_83> Cuban Missile Crisis <extra_id_89> <extra_id_83> Bay of Pigs invasion <extra_id_89> <extra_id_84> end time <extra_id_89> <extra_id_84> start time",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Cuban Missile Crisis <extra_id_84> end time <extra_id_69> <extra_id_68> <extra_id_83> Bay of Pigs invasion <extra_id_84> start time <extra_id_70> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_56> <extra_id_70> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Which ingredients do I need for carrot cake? <extra_id_89> <extra_id_89> <extra_id_83> carrot cake <extra_id_89> <extra_id_84> has part(s)",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> carrot cake <extra_id_84> has part(s) <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who created Wikipedia? <extra_id_89> <extra_id_89> <extra_id_83> Wikipedia <extra_id_89> <extra_id_84> founded by",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Wikipedia <extra_id_84> founded by <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the highest mountain in Saxony Germany? <extra_id_89> <extra_id_89> <extra_id_83> mountain <extra_id_89> <extra_id_83> Saxony <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> elevation above sea level",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> mountain <extra_id_68> <extra_id_70> <extra_id_84> located in the administrative territorial entity + <extra_id_83> Saxony <extra_id_68> <extra_id_70> <extra_id_84> elevation above sea level <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Who is the current federal minister of finance in Germany? <extra_id_89> <extra_id_89> <extra_id_83> Federal Minister of Finance <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> start time",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_86> position held _: a <extra_id_68> _: a <extra_id_85> position held <extra_id_83> Federal Minister of Finance <extra_id_68> : a <extra_id_87> start time <extra_id_70> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "In which country is Mecca located? <extra_id_89> <extra_id_89> <extra_id_83> Mecca <extra_id_89> <extra_id_83> country <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Mecca <extra_id_84> located in the administrative territorial entity + <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> country <extra_id_45>"
+  },
+  {
+    "input_process": "Who played Gus Fring in Breaking Bad? <extra_id_89> <extra_id_89> <extra_id_83> Gus Fring <extra_id_89> <extra_id_87> character role",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Gus Fring <extra_id_87> character role <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "In which country does the Nile start? <extra_id_89> <extra_id_89> <extra_id_83> Nile <extra_id_89> <extra_id_84> origin of the watercourse <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Nile <extra_id_84> origin of the watercourse / <extra_id_84> country <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "In which state Penn State University is located? <extra_id_89> <extra_id_89> <extra_id_83> Pennsylvania State University <extra_id_89> <extra_id_83> state <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Pennsylvania State University <extra_id_84> located in the administrative territorial entity <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> state <extra_id_45>"
+  },
+  {
+    "input_process": "What is the biggest stadium in Spain? <extra_id_89> <extra_id_89> <extra_id_83> stadium <extra_id_89> <extra_id_83> stadium <extra_id_89> <extra_id_83> stadium <extra_id_89> <extra_id_83> Spain <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> maximum capacity",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> stadium <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> stadium <extra_id_45> union <extra_id_63> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> stadium <extra_id_45> <extra_id_70> <extra_id_84> country <extra_id_83> Spain <extra_id_68> <extra_id_70> <extra_id_84> maximum capacity <extra_id_69> <extra_id_68> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "How large is the area of UK? <extra_id_89> <extra_id_89> <extra_id_83> United Kingdom <extra_id_89> <extra_id_84> area",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> United Kingdom <extra_id_84> area <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who created Batman? <extra_id_89> <extra_id_89> <extra_id_83> Batman <extra_id_89> <extra_id_84> creator",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Batman <extra_id_84> creator <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Was Sigmund Freud married? <extra_id_89> <extra_id_89> <extra_id_83> Sigmund Freud <extra_id_89> <extra_id_84> spouse",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Sigmund Freud <extra_id_84> spouse <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who are the developers of DBpedia? <extra_id_89> <extra_id_89> <extra_id_83> DBpedia <extra_id_89> <extra_id_84> founded by",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> DBpedia <extra_id_84> founded by <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all movies directed by Francis Ford Coppola. <extra_id_89> <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_83> Francis Ford Coppola <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> director",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> film <extra_id_68> <extra_id_69> <extra_id_84> director <extra_id_83> Francis Ford Coppola <extra_id_45>"
+  },
+  {
+    "input_process": "Are tree frogs a type of amphibian? <extra_id_89> <extra_id_89> <extra_id_83> Hylidae <extra_id_89> <extra_id_83> Amphibia <extra_id_89> <extra_id_84> parent taxon",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Hylidae <extra_id_84> parent taxon <extra_id_83> Amphibia <extra_id_45>"
+  },
+  {
+    "input_process": "What is the location of the Houses of Parliament? <extra_id_89> <extra_id_89> <extra_id_83> Palace of Westminster <extra_id_89> <extra_id_84> located in the administrative territorial entity",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Palace of Westminster <extra_id_84> located in the administrative territorial entity <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "how much is the elevation of D\u00fcsseldorf Airport ? <extra_id_89> <extra_id_89> <extra_id_83> D\\u00fcsseldorf Airport <extra_id_89> <extra_id_84> elevation above sea level",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> D\\u00fcsseldorf Airport <extra_id_84> elevation above sea level <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "How much is the population of mexico city ? <extra_id_89> <extra_id_89> <extra_id_83> Mexico City <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Mexico City <extra_id_84> population <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "when was the founding date of french fifth republic? <extra_id_89> <extra_id_89> <extra_id_83> French Fifth Republic <extra_id_89> <extra_id_84> inception",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> French Fifth Republic <extra_id_84> inception <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who was the first King of England? <extra_id_89> <extra_id_89> <extra_id_83> monarch of England <extra_id_89> <extra_id_84> position held <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_87> start time",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_71> <extra_id_84> position held <extra_id_83> monarch of England <extra_id_68> <extra_id_71> <extra_id_86> position held <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_87> start time <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_69> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Who is the editor of Forbes? <extra_id_89> <extra_id_89> <extra_id_83> Forbes <extra_id_89> <extra_id_84> editor",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Forbes <extra_id_84> editor <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which awards did Douglas Hofstadter win? <extra_id_89> <extra_id_89> <extra_id_83> Douglas Hofstadter <extra_id_89> <extra_id_84> award received",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Douglas Hofstadter <extra_id_84> award received <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the youngest Darts player? <extra_id_89> <extra_id_89> <extra_id_83> darts player <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> date of birth",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> occupation <extra_id_83> darts player <extra_id_68> <extra_id_70> <extra_id_84> date of birth <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Is horse racing a sport? <extra_id_89> <extra_id_89> <extra_id_83> horse racing <extra_id_89> <extra_id_83> sport <extra_id_89> <extra_id_84> subclass of",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> horse racing <extra_id_84> subclass of * <extra_id_83> sport <extra_id_45>"
+  },
+  {
+    "input_process": "Which river does the Brooklyn Bridge cross? <extra_id_89> <extra_id_89> <extra_id_83> Brooklyn Bridge <extra_id_89> <extra_id_84> crosses",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Brooklyn Bridge <extra_id_84> crosses <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "How many people live in Poland? <extra_id_89> <extra_id_89> <extra_id_83> Poland <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Poland <extra_id_84> population <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "When was the last episode of the TV series Friends aired? <extra_id_89> <extra_id_89> <extra_id_83> Friends <extra_id_89> <extra_id_84> end time",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Friends <extra_id_84> end time <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Is the wife of president Obama called Michelle? <extra_id_89> <extra_id_89> <extra_id_83> Barack Obama <extra_id_89> <extra_id_84> spouse",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Barack Obama <extra_id_84> spouse <extra_id_70> <extra_id_68> <extra_id_70> rdfs: label <extra_id_69> <extra_id_68> <extra_id_52> regex <extra_id_31> <extra_id_69> <extra_id_61> \"michelle\" <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is 8th president of US? <extra_id_89> <extra_id_89> <extra_id_83> United States of America <extra_id_89> <extra_id_86> head of government <extra_id_89> <extra_id_85> head of government <extra_id_89> <extra_id_87> start time",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_83> United States of America <extra_id_86> head of government <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_87> start time <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_85> head of government <extra_id_71> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_69> offset 7 <extra_id_38> 1"
+  },
+  {
+    "input_process": "how much is the total population of european union? <extra_id_89> <extra_id_89> <extra_id_83> European Union <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> European Union <extra_id_84> population <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all launch pads operated by NASA. <extra_id_89> <extra_id_89> <extra_id_83> spaceport <extra_id_89> <extra_id_83> National Aeronautics and Space Administration <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> operator",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> spaceport <extra_id_68> <extra_id_69> <extra_id_84> operator <extra_id_83> National Aeronautics and Space Administration <extra_id_45>"
+  },
+  {
+    "input_process": "Who developed the video game World of Warcraft? <extra_id_89> <extra_id_89> <extra_id_83> World of Warcraft <extra_id_89> <extra_id_84> developer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> World of Warcraft <extra_id_84> developer <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the birth name of Adele? <extra_id_89> <extra_id_89> <extra_id_83> Adele <extra_id_89> <extra_id_84> birth name",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Adele <extra_id_84> birth name <extra_id_69> <extra_id_68> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the population of Cairo? <extra_id_89> <extra_id_89> <extra_id_83> Cairo <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Cairo <extra_id_84> population <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Is Frank Herbert still alive? <extra_id_89> <extra_id_89> <extra_id_83> Frank Herbert <extra_id_89> <extra_id_84> date of death",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Frank Herbert <extra_id_84> date of death <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_31> !bound <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the last work of Dan Brown? <extra_id_89> <extra_id_89> <extra_id_83> Dan Brown <extra_id_89> <extra_id_84> author <extra_id_89> <extra_id_84> publication date",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> author <extra_id_83> Dan Brown <extra_id_68> <extra_id_70> <extra_id_84> publication date <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Where is Sungkyunkwan University? <extra_id_89> <extra_id_89> <extra_id_83> Sungkyunkwan University <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> location <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> location <extra_id_89> <extra_id_84> located in the administrative territorial entity",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> values <extra_id_69> <extra_id_63> <extra_id_84> country <extra_id_84> location <extra_id_84> located in the administrative territorial entity values <extra_id_69> <extra_id_63> <extra_id_84> country <extra_id_84> location <extra_id_84> located in the administrative territorial entity <extra_id_45> <extra_id_83> Sungkyunkwan University <extra_id_69> <extra_id_70> <extra_id_68> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the author of the interpretation of dreams? <extra_id_89> <extra_id_89> <extra_id_83> Die Traumdeutung <extra_id_89> <extra_id_84> author",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Die Traumdeutung <extra_id_84> author <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "When was the death of Shakespeare? <extra_id_89> <extra_id_89> <extra_id_83> William Shakespeare <extra_id_89> <extra_id_84> date of death",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> William Shakespeare <extra_id_84> date of death <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who developed Slack? <extra_id_89> <extra_id_89> <extra_id_83> Slack <extra_id_89> <extra_id_84> product or material produced",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> product or material produced <extra_id_83> Slack <extra_id_45>"
+  },
+  {
+    "input_process": "In which year was Rachel Stevens born? <extra_id_89> <extra_id_89> <extra_id_83> Rachel Stevens <extra_id_89> <extra_id_84> date of birth",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Rachel Stevens <extra_id_84> date of birth <extra_id_69> <extra_id_68> bind <extra_id_31> <extra_id_44> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_60> <extra_id_70> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "How often did Jane Fonda marry? <extra_id_89> <extra_id_89> <extra_id_83> Jane Fonda <extra_id_89> <extra_id_84> spouse",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_51> <extra_id_70> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_83> Jane Fonda <extra_id_84> spouse <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Was the wife of president Lincoln called Mary? <extra_id_89> <extra_id_89> <extra_id_83> Abraham Lincoln <extra_id_89> <extra_id_84> spouse",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Abraham Lincoln <extra_id_84> spouse <extra_id_70> <extra_id_68> <extra_id_70> <http: / / www <extra_id_68> w3 <extra_id_68> org / 2000 / 01 / rdf-schema#label> <extra_id_69> <extra_id_68> <extra_id_52> <extra_id_31> regex <extra_id_31> <extra_id_69> <extra_id_61> <extra_id_64> mary <extra_id_64> <extra_id_42> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "In which programming language is GIMP written? <extra_id_89> <extra_id_89> <extra_id_83> GIMP <extra_id_89> <extra_id_84> programmed in",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> GIMP <extra_id_84> programmed in <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which university did Angela Merkel attend? <extra_id_89> <extra_id_89> <extra_id_83> university <extra_id_89> <extra_id_83> q875538 <extra_id_89> <extra_id_83> university <extra_id_89> <extra_id_83> q875538 <extra_id_89> <extra_id_83> Angela Merkel <extra_id_89> <extra_id_84> educated at <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> values <extra_id_69> <extra_id_63> <extra_id_83> university <extra_id_83> q875538 values <extra_id_69> <extra_id_63> <extra_id_83> university <extra_id_83> q875538 <extra_id_45> <extra_id_83> Angela Merkel <extra_id_84> educated at <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> instance of <extra_id_69> <extra_id_68> <extra_id_45>"
+  },
+  {
+    "input_process": "List all the musicals with music by Elton John. <extra_id_89> <extra_id_89> <extra_id_83> dramatico-musical work <extra_id_89> <extra_id_83> Elton John <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> composer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> dramatico-musical work <extra_id_68> <extra_id_69> <extra_id_84> composer <extra_id_83> Elton John <extra_id_45>"
+  },
+  {
+    "input_process": "When was John Adams born? <extra_id_89> <extra_id_89> <extra_id_83> John Adams <extra_id_89> <extra_id_84> date of birth",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> John Adams <extra_id_84> date of birth <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which companies produce hovercrafts? <extra_id_89> <extra_id_89> <extra_id_83> hovercraft <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> manufacturer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> hovercraft <extra_id_68> <extra_id_69> <extra_id_84> manufacturer <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Who was the wife of U.S. president Lincoln? <extra_id_89> <extra_id_89> <extra_id_83> Abraham Lincoln <extra_id_89> <extra_id_84> spouse",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Abraham Lincoln <extra_id_84> spouse <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which species does an elephant belong? <extra_id_89> <extra_id_89> <extra_id_83> elephant <extra_id_89> <extra_id_84> subclass of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> elephant <extra_id_84> subclass of <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "How many people live in the capital of Australia? <extra_id_89> <extra_id_89> <extra_id_83> Australia <extra_id_89> <extra_id_84> capital <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Australia <extra_id_84> capital <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> population <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "In which ancient empire could you pay with cocoa beans? <extra_id_89> <extra_id_89> <extra_id_83> cocoa bean <extra_id_89> <extra_id_84> currency",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> currency <extra_id_83> cocoa bean <extra_id_45>"
+  },
+  {
+    "input_process": "How many theories did Albert Einstein come up with? <extra_id_89> <extra_id_89> <extra_id_83> Albert Einstein <extra_id_89> <extra_id_84> notable work",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_51> <extra_id_70> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_83> Albert Einstein <extra_id_84> notable work <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Who composed the soundtrack for Cameron's Titanic? <extra_id_89> <extra_id_89> <extra_id_83> Titanic <extra_id_89> <extra_id_84> composer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Titanic <extra_id_84> composer <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me the runtime of Toy Story. <extra_id_89> <extra_id_89> <extra_id_83> Toy Story <extra_id_89> <extra_id_84> duration",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Toy Story <extra_id_84> duration <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "With how many countries Iran has borders? <extra_id_89> <extra_id_89> <extra_id_83> Iran <extra_id_89> <extra_id_84> shares border with",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Iran <extra_id_84> shares border with <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which electronics companies were founded in Beijing? <extra_id_89> <extra_id_89> <extra_id_83> consumer electronics <extra_id_89> <extra_id_83> Beijing <extra_id_89> <extra_id_84> industry <extra_id_89> <extra_id_84> location of formation",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> industry <extra_id_83> consumer electronics <extra_id_68> <extra_id_69> <extra_id_84> location of formation <extra_id_83> Beijing <extra_id_45>"
+  },
+  {
+    "input_process": "Who was the successor of John F. Kennedy? <extra_id_89> <extra_id_89> <extra_id_83> John F. Kennedy <extra_id_89> <extra_id_83> President of the United States <extra_id_89> <extra_id_86> position held <extra_id_89> <extra_id_85> position held <extra_id_89> <extra_id_87> replaced by",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> John F. Kennedy <extra_id_86> position held <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> position held <extra_id_83> President of the United States <extra_id_68> <extra_id_69> <extra_id_87> replaced by <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the mayor of Paris? <extra_id_89> <extra_id_89> <extra_id_83> Paris <extra_id_89> <extra_id_84> head of government",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Paris <extra_id_84> head of government <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Did Arnold Schwarzenegger attend a university? <extra_id_89> <extra_id_89> <extra_id_83> Arnold Schwarzenegger <extra_id_89> <extra_id_83> university <extra_id_89> <extra_id_84> educated at <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Arnold Schwarzenegger <extra_id_84> educated at <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> university <extra_id_45>"
+  },
+  {
+    "input_process": "Is James Bond married? <extra_id_89> <extra_id_89> <extra_id_83> James Bond <extra_id_89> <extra_id_84> spouse",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> James Bond <extra_id_84> spouse <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Does the Isar flow into a lake? <extra_id_89> <extra_id_89> <extra_id_83> Isar <extra_id_89> <extra_id_83> lake <extra_id_89> <extra_id_84> mouth of the watercourse <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Isar <extra_id_84> mouth of the watercourse <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> lake <extra_id_45>"
+  },
+  {
+    "input_process": "Which Indian company has the most employees? <extra_id_89> <extra_id_89> <extra_id_83> business <extra_id_89> <extra_id_83> India <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> employees",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> business <extra_id_68> <extra_id_70> <extra_id_84> country <extra_id_83> India <extra_id_68> <extra_id_70> <extra_id_84> employees <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Which country does the creator of Miffy come from? <extra_id_89> <extra_id_89> <extra_id_83> Miffy <extra_id_89> <extra_id_84> creator <extra_id_89> <extra_id_84> country of citizenship",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Miffy <extra_id_84> creator <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> country of citizenship <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "In what city is the Heineken brewery? <extra_id_89> <extra_id_89> <extra_id_83> Heineken <extra_id_89> <extra_id_84> manufacturer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Heineken <extra_id_84> manufacturer <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Is Barack Obama a democrat? <extra_id_89> <extra_id_89> <extra_id_83> Barack Obama <extra_id_89> <extra_id_83> Democratic Party <extra_id_89> <extra_id_84> member of political party",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Barack Obama <extra_id_84> member of political party <extra_id_83> Democratic Party <extra_id_45>"
+  },
+  {
+    "input_process": "List the children of Margaret Thatcher. <extra_id_89> <extra_id_89> <extra_id_83> Margaret Thatcher <extra_id_89> <extra_id_84> child",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Margaret Thatcher <extra_id_84> child <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "how big is the total area of North Rhine- Westphalia? <extra_id_89> <extra_id_89> <extra_id_83> North Rhine-Westphalia <extra_id_89> <extra_id_84> area",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> North Rhine-Westphalia <extra_id_84> area <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which city has the most inhabitants? <extra_id_89> <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> 279 <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of / <extra_id_84> 279 * <extra_id_83> city <extra_id_68> <extra_id_70> <extra_id_84> population <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "What is Donald Trump's main business? <extra_id_89> <extra_id_89> <extra_id_83> Donald Trump <extra_id_89> <extra_id_83> business <extra_id_89> <extra_id_83> Donald Trump <extra_id_89> <extra_id_83> business <extra_id_89> <extra_id_84> chairperson <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> dissolved, abolished or demolished date <extra_id_89> <extra_id_84> chairperson <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> dissolved, abolished or demolished date",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> chairperson <extra_id_83> Donald Trump <extra_id_68> <extra_id_70> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> business <extra_id_68> minus <extra_id_63> <extra_id_70> <extra_id_84> dissolved, abolished or demolished date <extra_id_69> <extra_id_70> <extra_id_84> chairperson <extra_id_83> Donald Trump <extra_id_68> <extra_id_70> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> business <extra_id_68> minus <extra_id_63> <extra_id_70> <extra_id_84> dissolved, abolished or demolished date <extra_id_69> <extra_id_45> <extra_id_45>"
+  },
+  {
+    "input_process": "When will start the final match of the football world cup 2018? <extra_id_89> <extra_id_89> <extra_id_83> 2018 FIFA World Cup <extra_id_89> <extra_id_84> final event <extra_id_89> <extra_id_84> start time",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> 2018 FIFA World Cup <extra_id_84> final event <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> start time <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Which films did Stanley Kubrick direct? <extra_id_89> <extra_id_89> <extra_id_83> Stanley Kubrick <extra_id_89> <extra_id_84> director",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> director <extra_id_83> Stanley Kubrick <extra_id_45>"
+  },
+  {
+    "input_process": "how much is the population Iraq? <extra_id_89> <extra_id_89> <extra_id_83> Iraq <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Iraq <extra_id_84> population <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "How many inhabitants does the largest city in Canada have? <extra_id_89> <extra_id_89> <extra_id_83> Canada <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> country <extra_id_83> Canada <extra_id_68> <extra_id_69> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> city <extra_id_68> <extra_id_69> <extra_id_84> population <extra_id_70> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Who is the mayor of the capital of French Polynesia? <extra_id_89> <extra_id_89> <extra_id_83> French Polynesia <extra_id_89> <extra_id_84> capital <extra_id_89> <extra_id_84> head of government",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> French Polynesia <extra_id_84> capital <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> head of government <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all actors starring in movies directed by William Shatner. <extra_id_89> <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_83> William Shatner <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> director <extra_id_89> <extra_id_84> cast member",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> film <extra_id_68> <extra_id_69> <extra_id_84> director <extra_id_83> William Shatner <extra_id_68> <extra_id_69> <extra_id_84> cast member <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "How tall is Claudia Schiffer? <extra_id_89> <extra_id_89> <extra_id_83> Claudia Schiffer <extra_id_89> <extra_id_84> height",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Claudia Schiffer <extra_id_84> height <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the highest mountain in Italy? <extra_id_89> <extra_id_89> <extra_id_83> mountain <extra_id_89> <extra_id_83> Italy <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> elevation above sea level",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> mountain <extra_id_68> <extra_id_70> <extra_id_84> country <extra_id_83> Italy <extra_id_68> <extra_id_70> <extra_id_84> elevation above sea level <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "List all games by GMT. <extra_id_89> <extra_id_89> <extra_id_83> game <extra_id_89> <extra_id_83> GMT Games <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> publisher",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> game <extra_id_68> <extra_id_69> <extra_id_84> publisher <extra_id_83> GMT Games <extra_id_45>"
+  },
+  {
+    "input_process": "What is the official language of Suriname? <extra_id_89> <extra_id_89> <extra_id_83> Suriname <extra_id_89> <extra_id_84> official language",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Suriname <extra_id_84> official language <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "In which city did Nikos Kazantzakis die? <extra_id_89> <extra_id_89> <extra_id_83> Nikos Kazantzakis <extra_id_89> <extra_id_84> place of death",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Nikos Kazantzakis <extra_id_84> place of death <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What is in a chocolate chip cookie? <extra_id_89> <extra_id_89> <extra_id_83> chocolate chip cookie <extra_id_89> <extra_id_84> has part(s)",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> chocolate chip cookie <extra_id_84> has part(s) <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "In which country is the Limerick Lake? <extra_id_89> <extra_id_89> <extra_id_83> Limerick Lake <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Limerick Lake <extra_id_84> country <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all members of Prodigy. <extra_id_89> <extra_id_89> <extra_id_83> The Prodigy <extra_id_89> <extra_id_84> member of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> member of <extra_id_83> The Prodigy <extra_id_45>"
+  },
+  {
+    "input_process": "In which time zone is Rome? <extra_id_89> <extra_id_89> <extra_id_83> Rome <extra_id_89> <extra_id_84> located in time zone",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Rome <extra_id_84> located in time zone <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who are the writers of the Wall album of Pink Floyd? <extra_id_89> <extra_id_89> <extra_id_83> The Wall <extra_id_89> <extra_id_84> tracklist <extra_id_89> <extra_id_84> producer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> The Wall <extra_id_84> tracklist <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> producer <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the mayor of Rotterdam? <extra_id_89> <extra_id_89> <extra_id_83> Rotterdam <extra_id_89> <extra_id_84> head of government",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Rotterdam <extra_id_84> head of government <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the largest city in Australia? <extra_id_89> <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_83> Australia <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> country <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> city <extra_id_68> <extra_id_70> <extra_id_84> country <extra_id_83> Australia <extra_id_68> <extra_id_70> <extra_id_84> population <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Who was married to president Chirac? <extra_id_89> <extra_id_89> <extra_id_83> Jacques Chirac <extra_id_89> <extra_id_84> spouse",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Jacques Chirac <extra_id_84> spouse <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What form of government is found in South Africa? <extra_id_89> <extra_id_89> <extra_id_83> South Africa <extra_id_89> <extra_id_84> basic form of government",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> South Africa <extra_id_84> basic form of government <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "How high is the Yokohama Marine Tower? <extra_id_89> <extra_id_89> <extra_id_83> Yokohama Marine Tower <extra_id_89> <extra_id_84> height",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Yokohama Marine Tower <extra_id_84> height <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which holidays are celebrated around the world? <extra_id_89> <extra_id_89> <extra_id_83> holiday <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> holiday <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the tallest basketball player? <extra_id_89> <extra_id_89> <extra_id_83> basketball player <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> height",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> occupation <extra_id_83> basketball player <extra_id_68> <extra_id_70> <extra_id_84> height <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "How many languages are spoken in Turkmenistan? <extra_id_89> <extra_id_89> <extra_id_83> Turkmenistan <extra_id_89> <extra_id_84> language used",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_51> <extra_id_70> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_83> Turkmenistan <extra_id_84> language used <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Did Che Guevara have children? <extra_id_89> <extra_id_89> <extra_id_83> Che Guevara <extra_id_89> <extra_id_84> child",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Che Guevara <extra_id_84> child <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Did Kaurism\u00e4ki ever win the Grand Prix at Cannes? <extra_id_89> <extra_id_89> <extra_id_83> Aki Kaurism\\u00e4ki <extra_id_89> <extra_id_83> Cannes Film Festival Grand Prix <extra_id_89> <extra_id_84> award received",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Aki Kaurism\\u00e4ki <extra_id_84> award received <extra_id_83> Cannes Film Festival Grand Prix <extra_id_45>"
+  },
+  {
+    "input_process": "To which party does the mayor of Paris belong? <extra_id_89> <extra_id_89> <extra_id_83> Paris <extra_id_89> <extra_id_84> head of government",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Paris <extra_id_84> head of government <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the Formula 1 race driver with the most races? <extra_id_89> <extra_id_89> <extra_id_83> Formula One driver <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> number of matches played/races/starts",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> occupation <extra_id_83> Formula One driver <extra_id_68> <extra_id_70> <extra_id_84> number of matches played/races/starts <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "What country is Sitecore from? <extra_id_89> <extra_id_89> <extra_id_83> Sitecore <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Sitecore <extra_id_84> country <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me the birth place of Frank Sinatra. <extra_id_89> <extra_id_89> <extra_id_83> Frank Sinatra <extra_id_89> <extra_id_84> place of birth",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Frank Sinatra <extra_id_84> place of birth <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Is Christian Bale starring in Velvet Goldmine? <extra_id_89> <extra_id_89> <extra_id_83> Velvet Goldmine <extra_id_89> <extra_id_83> Christian Bale <extra_id_89> <extra_id_84> cast member",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Velvet Goldmine <extra_id_84> cast member <extra_id_83> Christian Bale <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the son of Sonny and Cher? <extra_id_89> <extra_id_89> <extra_id_83> Sonny Bono <extra_id_89> <extra_id_83> Cher <extra_id_89> <extra_id_84> father <extra_id_89> <extra_id_84> mother",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> father <extra_id_83> Sonny Bono <extra_id_68> <extra_id_69> <extra_id_84> mother <extra_id_83> Cher <extra_id_45>"
+  },
+  {
+    "input_process": "What is the capital of Cameroon? <extra_id_89> <extra_id_89> <extra_id_83> Cameroon <extra_id_89> <extra_id_84> capital",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Cameroon <extra_id_84> capital <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Was Natalie Portman born in the United States? <extra_id_89> <extra_id_89> <extra_id_83> Natalie Portman <extra_id_89> <extra_id_83> United States of America <extra_id_89> <extra_id_84> place of birth <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Natalie Portman <extra_id_84> place of birth <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> country <extra_id_83> United States of America <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the oldest child of Meryl Streep? <extra_id_89> <extra_id_89> <extra_id_83> Meryl Streep <extra_id_89> <extra_id_84> child <extra_id_89> <extra_id_84> date of birth",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Meryl Streep <extra_id_84> child <extra_id_70> <extra_id_68> <extra_id_70> <extra_id_84> date of birth <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_57> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Which television shows were created by Walt Disney? <extra_id_89> <extra_id_89> <extra_id_83> series of creative works <extra_id_89> <extra_id_83> Walt Disney <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> creator",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> series of creative works <extra_id_68> <extra_id_69> <extra_id_84> creator <extra_id_83> Walt Disney <extra_id_45>"
+  },
+  {
+    "input_process": "Was U.S. president Jackson involved in a war? <extra_id_89> <extra_id_89> <extra_id_83> Andrew Jackson <extra_id_89> <extra_id_84> conflict",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Andrew Jackson <extra_id_84> conflict <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "When was the Titanic completed? <extra_id_89> <extra_id_89> <extra_id_83> Titanic <extra_id_89> <extra_id_84> service entry",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Titanic <extra_id_84> service entry <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Did Tesla win a nobel prize in physics? <extra_id_89> <extra_id_89> <extra_id_83> Nikola Tesla <extra_id_89> <extra_id_83> Nobel Prize in Physics <extra_id_89> <extra_id_84> award received",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Nikola Tesla <extra_id_84> award received <extra_id_83> Nobel Prize in Physics <extra_id_45>"
+  },
+  {
+    "input_process": "How many states are in Mexico? <extra_id_89> <extra_id_89> <extra_id_83> state of Mexico <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_70> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> state of Mexico <extra_id_45>"
+  },
+  {
+    "input_process": "Which scientist is known for the Manhattan Project and the Nobel Peace Prize? <extra_id_89> <extra_id_89> <extra_id_83> Manhattan Project <extra_id_89> <extra_id_83> scientist <extra_id_89> <extra_id_83> Nobel Peace Prize <extra_id_89> <extra_id_84> participant in <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> occupation <extra_id_89> <extra_id_84> award received",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> participant in <extra_id_83> Manhattan Project <extra_id_68> <extra_id_69> <extra_id_84> subclass of * <extra_id_83> scientist <extra_id_68> <extra_id_70> <extra_id_84> occupation <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_84> award received <extra_id_83> Nobel Peace Prize <extra_id_45>"
+  },
+  {
+    "input_process": "How much did the Lego Movie cost? <extra_id_89> <extra_id_89> <extra_id_83> The Lego Movie <extra_id_89> <extra_id_84> cost",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> The Lego Movie <extra_id_84> cost <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who composed the music for Harold and Maude? <extra_id_89> <extra_id_89> <extra_id_83> Harold and Maude <extra_id_89> <extra_id_84> composer",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Harold and Maude <extra_id_84> composer <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "List all episodes of the first season of the HBO television series The Sopranos. <extra_id_89> <extra_id_89> <extra_id_83> television series episode <extra_id_89> <extra_id_83> The Sopranos, season 1 <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> part of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> television series episode <extra_id_68> <extra_id_69> <extra_id_84> part of <extra_id_83> The Sopranos, season 1 <extra_id_45>"
+  },
+  {
+    "input_process": "Which city has the least inhabitants? <extra_id_89> <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> city <extra_id_68> <extra_id_70> <extra_id_84> population <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_69> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Where is Syngman Rhee buried? <extra_id_89> <extra_id_89> <extra_id_83> Syngman Rhee <extra_id_89> <extra_id_84> place of burial",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Syngman Rhee <extra_id_84> place of burial <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Does Neymar play for Real Madrid? <extra_id_89> <extra_id_89> <extra_id_83> Neymar <extra_id_89> <extra_id_83> Real Madrid CF <extra_id_89> <extra_id_84> member of sports team",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Neymar <extra_id_84> member of sports team <extra_id_83> Real Madrid CF <extra_id_45>"
+  },
+  {
+    "input_process": "Who wrote the book The Pillars of the Earth? <extra_id_89> <extra_id_89> <extra_id_83> The Pillars of the Earth <extra_id_89> <extra_id_84> author",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> The Pillars of the Earth <extra_id_84> author <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Do Prince Harry and Prince William have the same parents? <extra_id_89> <extra_id_89> <extra_id_83> Prince Harry, Duke of Sussex <extra_id_89> <extra_id_83> Prince Harry, Duke of Sussex <extra_id_89> <extra_id_83> William, Prince of Wales <extra_id_89> <extra_id_83> William, Prince of Wales <extra_id_89> <extra_id_84> father <extra_id_89> <extra_id_84> mother <extra_id_89> <extra_id_84> father <extra_id_89> <extra_id_84> mother",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Prince Harry, Duke of Sussex <extra_id_84> father <extra_id_69> <extra_id_68> <extra_id_83> Prince Harry, Duke of Sussex <extra_id_84> mother <extra_id_70> <extra_id_68> <extra_id_83> William, Prince of Wales <extra_id_84> father <extra_id_69> <extra_id_68> <extra_id_83> William, Prince of Wales <extra_id_84> mother <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Who was the doctoral supervisor of Albert Einstein? <extra_id_89> <extra_id_89> <extra_id_83> Albert Einstein <extra_id_89> <extra_id_84> doctoral advisor",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Albert Einstein <extra_id_84> doctoral advisor <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Does Breaking Bad have more episodes than Game of Thrones? <extra_id_89> <extra_id_89> <extra_id_83> Breaking Bad <extra_id_89> <extra_id_83> Game of Thrones <extra_id_89> <extra_id_84> number of episodes <extra_id_89> <extra_id_84> number of episodes",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Breaking Bad <extra_id_84> number of episodes <extra_id_69> <extra_id_68> <extra_id_83> Game of Thrones <extra_id_84> number of episodes <extra_id_70> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_35> <extra_id_70> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Who was Vincent van Gogh inspired by? <extra_id_89> <extra_id_89> <extra_id_83> Vincent van Gogh <extra_id_89> <extra_id_84> influenced by",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Vincent van Gogh <extra_id_84> influenced by <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which building after the Burj Khalifa has the most floors? <extra_id_89> <extra_id_89> <extra_id_83> Burj Khalifa <extra_id_89> <extra_id_84> floors above ground <extra_id_89> <extra_id_84> floors above ground",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_83> Burj Khalifa <extra_id_84> floors above ground <extra_id_69> <extra_id_68> <extra_id_71> <extra_id_84> floors above ground <extra_id_70> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_70> <extra_id_35> <extra_id_69> <extra_id_42> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_70> <extra_id_38> 1"
+  },
+  {
+    "input_process": "How much did Pulp Fiction cost? <extra_id_89> <extra_id_89> <extra_id_83> Pulp Fiction <extra_id_89> <extra_id_84> cost",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Pulp Fiction <extra_id_84> cost <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Is proinsulin a protein? <extra_id_89> <extra_id_89> <extra_id_83> proinsulin <extra_id_89> <extra_id_83> protein <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> proinsulin <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> protein <extra_id_45>"
+  },
+  {
+    "input_process": "Do Urdu and Persian have a common root? <extra_id_89> <extra_id_89> <extra_id_83> Urdu <extra_id_89> <extra_id_83> Persian <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_84> subclass of",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Urdu <extra_id_84> subclass of <extra_id_69> <extra_id_68> <extra_id_83> Persian <extra_id_84> subclass of <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is starring in Spanish movies produced by Benicio del Toro? <extra_id_89> <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_83> Benicio del Toro <extra_id_89> <extra_id_83> Spain <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> producer <extra_id_89> <extra_id_84> country of origin <extra_id_89> <extra_id_84> cast member",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> film <extra_id_68> <extra_id_69> <extra_id_84> producer <extra_id_83> Benicio del Toro <extra_id_68> <extra_id_69> <extra_id_84> country of origin <extra_id_83> Spain <extra_id_68> <extra_id_69> <extra_id_84> cast member <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Is Lake Baikal bigger than the Great Bear Lake? <extra_id_89> <extra_id_89> <extra_id_83> Lake Baikal <extra_id_89> <extra_id_83> Great Bear Lake <extra_id_89> <extra_id_84> area <extra_id_89> <extra_id_84> area",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Lake Baikal <extra_id_84> area <extra_id_69> <extra_id_68> <extra_id_83> Great Bear Lake <extra_id_84> area <extra_id_70> <extra_id_68> <extra_id_52> <extra_id_31> <extra_id_69> <extra_id_35> <extra_id_70> <extra_id_42> <extra_id_45>"
+  },
+  {
+    "input_process": "Show me all books in Asimov's Foundation series. <extra_id_89> <extra_id_89> <extra_id_83> Foundation series <extra_id_89> <extra_id_84> has part(s)",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Foundation series <extra_id_84> has part(s) <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Where was Bach born? <extra_id_89> <extra_id_89> <extra_id_83> Johann Sebastian Bach <extra_id_89> <extra_id_84> place of birth",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Johann Sebastian Bach <extra_id_84> place of birth <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which city has the oldest running metro? <extra_id_89> <extra_id_89> <extra_id_83> rapid transit <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> inception <extra_id_89> <extra_id_84> located in the administrative territorial entity",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> rapid transit <extra_id_68> <extra_id_70> <extra_id_84> inception <extra_id_69> <extra_id_68> <extra_id_70> <extra_id_84> located in the administrative territorial entity <extra_id_71> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_69> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Who designed the Brooklyn Bridge? <extra_id_89> <extra_id_89> <extra_id_83> Brooklyn Bridge <extra_id_89> <extra_id_84> designed by",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Brooklyn Bridge <extra_id_84> designed by <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "How many people live in Eurasia? <extra_id_89> <extra_id_89> <extra_id_83> Eurasia <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Eurasia <extra_id_84> population <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the total population of Melbourne, Florida? <extra_id_89> <extra_id_89> <extra_id_83> Melbourne <extra_id_89> <extra_id_84> population",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Melbourne <extra_id_84> population <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What country is Mount Everest in? <extra_id_89> <extra_id_89> <extra_id_83> Mount Everest <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Mount Everest <extra_id_84> country <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "To which artistic movement did the painter of The Three Dancers belong? <extra_id_89> <extra_id_89> <extra_id_83> The Three Dancers <extra_id_89> <extra_id_84> creator <extra_id_89> <extra_id_84> movement",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> The Three Dancers <extra_id_84> creator <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> movement <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "When did Operation Overlord commence? <extra_id_89> <extra_id_89> <extra_id_83> Operation Overlord <extra_id_89> <extra_id_84> start time",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Operation Overlord <extra_id_84> start time <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the bridge with the longest span? <extra_id_89> <extra_id_89> <extra_id_83> bridge <extra_id_89> <extra_id_83> metre <extra_id_89> <extra_id_83> foot <extra_id_89> <extra_id_83> mile <extra_id_89> <extra_id_83> kilometre <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> subclass of <extra_id_89> <extra_id_86> longest span",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_73> <extra_id_49> <extra_id_63> <extra_id_73> <extra_id_84> instance of / <extra_id_84> subclass of * <extra_id_83> bridge <extra_id_68> <extra_id_73> <extra_id_86> longest span <extra_id_71> <extra_id_68> <extra_id_71> psv: longest span <extra_id_74> <extra_id_68> <extra_id_74> wikibase: quantityamount <extra_id_69> <extra_id_68> <extra_id_74> wikibase: quantityunit <extra_id_72> <extra_id_68> bind <extra_id_31> if <extra_id_31> <extra_id_72> <extra_id_67> <extra_id_83> metre <extra_id_61> <extra_id_69> <extra_id_61> if <extra_id_31> <extra_id_72> <extra_id_67> <extra_id_83> foot <extra_id_61> <extra_id_69> * 0 <extra_id_68> 3048 <extra_id_61> if <extra_id_31> <extra_id_72> <extra_id_67> <extra_id_83> mile <extra_id_61> <extra_id_69> * 1609 <extra_id_68> 34 <extra_id_61> if <extra_id_31> <extra_id_72> <extra_id_67> <extra_id_83> kilometre <extra_id_61> <extra_id_69> * 1000 <extra_id_61> <extra_id_69> <extra_id_42> <extra_id_42> <extra_id_42> <extra_id_42> <extra_id_60> ?vr0unified <extra_id_42> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> ?vr0unified <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Is there a video game called Battle Chess? <extra_id_89> ",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_69> <http: / / www <extra_id_68> wikidata <extra_id_68> org / prop / direct / p31> <http: / / www <extra_id_68> wikidata <extra_id_68> org / entity / q7889> <extra_id_68> <extra_id_69> rdfs: label \"battle chess\"@en <extra_id_45>"
+  },
+  {
+    "input_process": "Who was buried in the Great Pyramid of Giza? <extra_id_89> <extra_id_89> <extra_id_83> Pyramid G1-a <extra_id_89> <extra_id_84> place of burial",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> place of burial <extra_id_83> Pyramid G1-a <extra_id_45>"
+  },
+  {
+    "input_process": "Did Socrates influence Aristotle? <extra_id_89> <extra_id_89> <extra_id_83> Aristotle <extra_id_89> <extra_id_83> Socrates <extra_id_89> <extra_id_84> influenced by",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Aristotle <extra_id_84> influenced by <extra_id_83> Socrates <extra_id_45>"
+  },
+  {
+    "input_process": "How many children did Benjamin Franklin have? <extra_id_89> <extra_id_89> <extra_id_83> Benjamin Franklin <extra_id_89> <extra_id_84> child",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_51> <extra_id_70> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_83> Benjamin Franklin <extra_id_84> child <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "How tall is Michael Jordan? <extra_id_89> <extra_id_89> <extra_id_83> Michael Jordan <extra_id_89> <extra_id_84> height",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Michael Jordan <extra_id_84> height <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "In which UK city are the headquarters of the MI6? <extra_id_89> <extra_id_89> <extra_id_83> Secret Intelligence Service <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_84> headquarters location <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Secret Intelligence Service <extra_id_84> headquarters location <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> city <extra_id_45>"
+  },
+  {
+    "input_process": "Who created Family Guy? <extra_id_89> <extra_id_89> <extra_id_83> Family Guy <extra_id_89> <extra_id_84> creator",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Family Guy <extra_id_84> creator <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me the grandchildren of Elvis Presley. <extra_id_89> <extra_id_89> <extra_id_83> Elvis Presley <extra_id_89> <extra_id_84> child <extra_id_89> <extra_id_84> child",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Elvis Presley <extra_id_84> child <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> child <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "When did the Ming dynasty dissolve? <extra_id_89> <extra_id_89> <extra_id_83> Ming dynasty <extra_id_89> <extra_id_84> dissolved, abolished or demolished date",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Ming dynasty <extra_id_84> dissolved, abolished or demolished date <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "In which military conflicts did Lawrence of Arabia participate? <extra_id_89> <extra_id_89> <extra_id_83> T. E. Lawrence <extra_id_89> <extra_id_84> conflict",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> T. E. Lawrence <extra_id_84> conflict <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the timezone in San Pedro de Atacama? <extra_id_89> <extra_id_89> <extra_id_83> San Pedro de Atacama <extra_id_89> <extra_id_84> located in time zone",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> San Pedro de Atacama <extra_id_84> located in time zone <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What did Bruce Carver die from? <extra_id_89> <extra_id_89> <extra_id_83> Bruce Carver <extra_id_89> <extra_id_84> cause of death",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Bruce Carver <extra_id_84> cause of death <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Does Abraham Lincoln's death place have a website? <extra_id_89> <extra_id_89> <extra_id_83> Abraham Lincoln <extra_id_89> <extra_id_84> place of death <extra_id_89> <extra_id_84> official website",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Abraham Lincoln <extra_id_84> place of death <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> official website <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Did Elvis Presley have children? <extra_id_89> <extra_id_89> <extra_id_83> Elvis Presley <extra_id_89> <extra_id_84> child",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Elvis Presley <extra_id_84> child <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Is Michelle Obama the wife of Barack Obama? <extra_id_89> <extra_id_89> <extra_id_83> Barack Obama <extra_id_89> <extra_id_83> Michelle Obama <extra_id_89> <extra_id_84> spouse",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Barack Obama <extra_id_84> spouse <extra_id_83> Michelle Obama <extra_id_45>"
+  },
+  {
+    "input_process": "In which city does Sylvester Stallone live? <extra_id_89> <extra_id_89> <extra_id_83> Sylvester Stallone <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_84> residence <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Sylvester Stallone <extra_id_84> residence <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> city <extra_id_45>"
+  },
+  {
+    "input_process": "Which books by Kerouac were published by Viking Press? <extra_id_89> <extra_id_89> <extra_id_83> Viking Press <extra_id_89> <extra_id_83> written work <extra_id_89> <extra_id_83> Jack Kerouac <extra_id_89> <extra_id_84> publisher <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> author",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> publisher <extra_id_83> Viking Press <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> written work <extra_id_68> <extra_id_69> <extra_id_84> author <extra_id_83> Jack Kerouac <extra_id_45>"
+  },
+  {
+    "input_process": "Who wrote the song Hotel California? <extra_id_89> <extra_id_89> <extra_id_83> Hotel California <extra_id_89> <extra_id_84> composer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Hotel California <extra_id_84> composer <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What is the capital of Canada? <extra_id_89> <extra_id_89> <extra_id_83> Canada <extra_id_89> <extra_id_84> capital",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Canada <extra_id_84> capital <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the mayor of Tel Aviv? <extra_id_89> <extra_id_89> <extra_id_83> Tel Aviv <extra_id_89> <extra_id_84> head of government",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Tel Aviv <extra_id_84> head of government <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What form of government does Russia have? <extra_id_89> <extra_id_89> <extra_id_83> Russia <extra_id_89> <extra_id_83> Russia <extra_id_89> <extra_id_86> basic form of government <extra_id_89> <extra_id_86> basic form of government <extra_id_89> <extra_id_85> basic form of government <extra_id_89> <extra_id_85> basic form of government <extra_id_89> <extra_id_87> end time <extra_id_89> <extra_id_87> end time",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Russia <extra_id_86> basic form of government <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> basic form of government <extra_id_70> <extra_id_68> <extra_id_52> not exists <extra_id_63> <extra_id_69> <extra_id_87> end time <extra_id_71> <extra_id_83> Russia <extra_id_86> basic form of government <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_85> basic form of government <extra_id_70> <extra_id_68> <extra_id_52> not exists <extra_id_63> <extra_id_69> <extra_id_87> end time <extra_id_71> <extra_id_45> <extra_id_45>"
+  },
+  {
+    "input_process": "Show me the book that Muhammad Ali wrote. <extra_id_89> <extra_id_89> <extra_id_83> book <extra_id_89> <extra_id_83> Muhammad Ali <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> author",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> book <extra_id_68> <extra_id_69> <extra_id_84> author <extra_id_83> Muhammad Ali <extra_id_45>"
+  },
+  {
+    "input_process": "Who was the first to climb Mount Everest? <extra_id_89> <extra_id_89> <extra_id_83> first ascent <extra_id_89> <extra_id_83> Mount Everest <extra_id_89> <extra_id_86> significant event <extra_id_89> <extra_id_85> significant event <extra_id_89> <extra_id_87> of",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_85> significant event <extra_id_83> first ascent <extra_id_68> <extra_id_69> <extra_id_87> of <extra_id_83> Mount Everest <extra_id_68> <extra_id_70> <extra_id_86> significant event <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "How many languages are spoken in Colombia? <extra_id_89> <extra_id_89> <extra_id_83> Colombia <extra_id_89> <extra_id_83> language <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_31> <extra_id_66> <extra_id_31> <extra_id_71> <extra_id_42> <extra_id_60> <extra_id_69> <extra_id_42> <extra_id_49> <extra_id_63> <extra_id_71> <extra_id_70> <extra_id_83> Colombia <extra_id_68> <extra_id_71> <extra_id_84> instance of <extra_id_83> language <extra_id_45>"
+  },
+  {
+    "input_process": "What is the currency of the Czech Republic? <extra_id_89> <extra_id_89> <extra_id_83> Czech Republic <extra_id_89> <extra_id_84> currency",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Czech Republic <extra_id_84> currency <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "When did Boris Becker end his active career? <extra_id_89> <extra_id_89> <extra_id_83> Boris Becker <extra_id_89> <extra_id_86> occupation",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Boris Becker <extra_id_86> occupation <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Which movies starring Mickey Rourke were directed by Guy Ritchie? <extra_id_89> <extra_id_89> <extra_id_83> Mickey Rourke <extra_id_89> <extra_id_83> Guy Ritchie <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_84> cast member <extra_id_89> <extra_id_84> director <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> cast member <extra_id_83> Mickey Rourke <extra_id_68> <extra_id_69> <extra_id_84> director <extra_id_83> Guy Ritchie <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> film <extra_id_45>"
+  },
+  {
+    "input_process": "In which films did Julia Roberts as well as Richard Gere play? <extra_id_89> <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_83> Richard Gere <extra_id_89> <extra_id_83> Julia Roberts <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> cast member <extra_id_89> <extra_id_84> cast member",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> film <extra_id_68> <extra_id_69> <extra_id_84> cast member <extra_id_83> Richard Gere <extra_id_68> <extra_id_69> <extra_id_84> cast member <extra_id_83> Julia Roberts <extra_id_45>"
+  },
+  {
+    "input_process": "Show me Hemingway's autobiography. <extra_id_89> <extra_id_89> <extra_id_83> Ernest Hemingway <extra_id_89> <extra_id_83> autobiography <extra_id_89> <extra_id_84> author <extra_id_89> <extra_id_84> genre",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> author <extra_id_83> Ernest Hemingway <extra_id_68> <extra_id_69> <extra_id_84> genre <extra_id_83> autobiography <extra_id_45>"
+  },
+  {
+    "input_process": "How tall is Amazon Eve? <extra_id_89> <extra_id_89> <extra_id_83> Amazon Eve <extra_id_89> <extra_id_84> height",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_63> <extra_id_83> Amazon Eve <extra_id_84> height <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "What are the five boroughs of New York? <extra_id_89> <extra_id_89> <extra_id_83> borough of New York City <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> borough of New York City <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all Canadian Grunge record labels. <extra_id_89> <extra_id_89> <extra_id_83> grunge <extra_id_89> <extra_id_83> record label <extra_id_89> <extra_id_83> Canada <extra_id_89> <extra_id_84> genre <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> genre <extra_id_83> grunge <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> record label <extra_id_68> <extra_id_69> <extra_id_84> country <extra_id_83> Canada <extra_id_45>"
+  },
+  {
+    "input_process": "In which country does the Ganges start? <extra_id_89> <extra_id_89> <extra_id_83> Ganges <extra_id_89> <extra_id_84> origin of the watercourse <extra_id_89> <extra_id_84> country",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_83> Ganges <extra_id_84> origin of the watercourse <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> country <extra_id_70> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the founder of Penguin Books? <extra_id_89> <extra_id_89> <extra_id_83> Penguin Books <extra_id_89> <extra_id_84> founded by",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Penguin Books <extra_id_84> founded by <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who wrote the Game of Thrones theme? <extra_id_89> <extra_id_89> <extra_id_83> Game of Thrones <extra_id_89> <extra_id_84> composer",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Game of Thrones <extra_id_84> composer <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who is the president of Eritrea? <extra_id_89> <extra_id_89> <extra_id_83> Eritrea <extra_id_89> <extra_id_84> head of state",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Eritrea <extra_id_84> head of state <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "In which city did John F. Kennedy die? <extra_id_89> <extra_id_89> <extra_id_83> John F. Kennedy <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_84> place of death <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> John F. Kennedy <extra_id_84> place of death <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> city <extra_id_45>"
+  },
+  {
+    "input_process": "What is the highest mountain in Australia? <extra_id_89> <extra_id_89> <extra_id_83> mountain <extra_id_89> <extra_id_83> Australian continent <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> continent <extra_id_89> <extra_id_84> elevation above sea level",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> mountain <extra_id_68> <extra_id_70> <extra_id_84> continent <extra_id_83> Australian continent <extra_id_68> <extra_id_70> <extra_id_84> elevation above sea level <extra_id_69> <extra_id_68> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Give me the currency of China. <extra_id_89> <extra_id_89> <extra_id_83> People's Republic of China <extra_id_89> <extra_id_84> currency",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> People's Republic of China <extra_id_84> currency <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Give me all Swedish oceanographers. <extra_id_89> <extra_id_89> <extra_id_83> Sweden <extra_id_89> <extra_id_83> oceanographer <extra_id_89> <extra_id_84> country of citizenship <extra_id_89> <extra_id_84> occupation",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> country of citizenship <extra_id_83> Sweden <extra_id_68> <extra_id_69> <extra_id_84> occupation <extra_id_83> oceanographer <extra_id_45>"
+  },
+  {
+    "input_process": "In which city are the headquarters of the United Nations? <extra_id_89> <extra_id_89> <extra_id_83> Headquarters of the United Nations <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_83> Headquarters of the United Nations <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_83> Headquarters of the United Nations <extra_id_89> <extra_id_83> city <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> located in the administrative territorial entity <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Headquarters of the United Nations <extra_id_84> located in the administrative territorial entity <extra_id_69> <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> city <extra_id_83> Headquarters of the United Nations <extra_id_84> located in the administrative territorial entity <extra_id_69> <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> city <extra_id_45> union <extra_id_63> <extra_id_83> Headquarters of the United Nations <extra_id_84> located in the administrative territorial entity <extra_id_69> <extra_id_68> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> city <extra_id_45> <extra_id_45>"
+  },
+  {
+    "input_process": "Is Rita Wilson the wife of Tom Hanks? <extra_id_89> <extra_id_89> <extra_id_83> Tom Hanks <extra_id_89> <extra_id_83> Rita Wilson <extra_id_89> <extra_id_84> spouse",
+    "target_process": "<extra_id_34> <extra_id_49> <extra_id_63> <extra_id_83> Tom Hanks <extra_id_84> spouse <extra_id_83> Rita Wilson <extra_id_45>"
+  },
+  {
+    "input_process": "In which countries do people speak Japanese? <extra_id_89> <extra_id_89> <extra_id_83> country <extra_id_89> <extra_id_83> Japanese <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> official language",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_69> <extra_id_84> instance of <extra_id_83> country <extra_id_68> <extra_id_69> <extra_id_84> official language <extra_id_83> Japanese <extra_id_45>"
+  },
+  {
+    "input_process": "Which of Tim Burton's films had the highest budget? <extra_id_89> <extra_id_89> <extra_id_83> Tim Burton <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> budget",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_71> <extra_id_49> <extra_id_63> <extra_id_71> <extra_id_70> <extra_id_83> Tim Burton <extra_id_68> <extra_id_71> <extra_id_84> instance of <extra_id_83> film <extra_id_68> <extra_id_71> <extra_id_84> budget <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_69> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Which museum in New York has the most visitors? <extra_id_89> <extra_id_89> <extra_id_83> New York City <extra_id_89> <extra_id_83> museum <extra_id_89> <extra_id_84> headquarters location <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> visitors per year",
+    "target_process": "<extra_id_36> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> headquarters location <extra_id_83> New York City <extra_id_68> <extra_id_70> <extra_id_84> instance of <extra_id_83> museum <extra_id_68> <extra_id_70> <extra_id_84> visitors per year <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_69> <extra_id_38> 1"
+  },
+  {
+    "input_process": "What was the first Queen album? <extra_id_89> <extra_id_89> <extra_id_83> album <extra_id_89> <extra_id_83> Queen <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> performer <extra_id_89> <extra_id_84> publication date",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> album <extra_id_68> <extra_id_70> <extra_id_84> performer <extra_id_83> Queen <extra_id_68> <extra_id_70> <extra_id_84> publication date <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_69> <extra_id_38> 1"
+  },
+  {
+    "input_process": "What was the last movie with Alec Guinness? <extra_id_89> <extra_id_89> <extra_id_83> film <extra_id_89> <extra_id_83> Alec Guinness <extra_id_89> <extra_id_84> instance of <extra_id_89> <extra_id_84> cast member <extra_id_89> <extra_id_84> publication date",
+    "target_process": "<extra_id_36> <extra_id_51> <extra_id_70> <extra_id_49> <extra_id_63> <extra_id_70> <extra_id_84> instance of <extra_id_83> film <extra_id_68> <extra_id_70> <extra_id_84> cast member <extra_id_83> Alec Guinness <extra_id_68> <extra_id_70> <extra_id_84> publication date <extra_id_69> <extra_id_45> <extra_id_54> <extra_id_33> <extra_id_48> <extra_id_31> <extra_id_69> <extra_id_42> <extra_id_38> 1"
+  },
+  {
+    "input_process": "Give me all actors starring in Last Action Hero. <extra_id_89> <extra_id_89> <extra_id_83> Last Action Hero <extra_id_89> <extra_id_84> cast member",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Last Action Hero <extra_id_84> cast member <extra_id_69> <extra_id_45>"
+  },
+  {
+    "input_process": "Who discovered Pluto? <extra_id_89> <extra_id_89> <extra_id_83> Pluto <extra_id_89> <extra_id_83> human <extra_id_89> <extra_id_84> discoverer or inventor <extra_id_89> <extra_id_84> instance of",
+    "target_process": "<extra_id_36> <extra_id_69> <extra_id_49> <extra_id_63> <extra_id_83> Pluto <extra_id_84> discoverer or inventor <extra_id_69> <extra_id_68> <extra_id_69> <extra_id_84> instance of <extra_id_83> human <extra_id_45>"
+  }
+]
